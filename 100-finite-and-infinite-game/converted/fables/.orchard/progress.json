@@ -1,0 +1,40 @@
+{
+  "last_updated": "2026-06-15T17:47:22.416862+08:00",
+  "sections": {
+    "01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-31.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-31.md"
+    },
+    "02-02": {
+      "status": "pending",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-50.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-50.md"
+    },
+    "03-03": {
+      "status": "pending",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-62.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-62.md"
+    },
+    "04-04": {
+      "status": "pending",
+      "source_path": "converted/sections/04-a-finite-game-occurs-within-a-world/04-69.md",
+      "target_path": "converted/fables/04-a-finite-game-occurs-within-a-world/04-69.md"
+    },
+    "05-05": {
+      "status": "pending",
+      "source_path": "converted/sections/05-nature-is-the-realm-of-the-unspeakable/05-79.md",
+      "target_path": "converted/fables/05-nature-is-the-realm-of-the-unspeakable/05-79.md"
+    },
+    "06-06": {
+      "status": "pending",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-93.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-93.md"
+    },
+    "07-07": {
+      "status": "pending",
+      "source_path": "converted/sections/07-myth-provokes-explanation-but-accepts-none-of-it/07-99.md",
+      "target_path": "converted/fables/07-myth-provokes-explanation-but-accepts-none-of-it/07-99.md"
+    }
+  }
+}

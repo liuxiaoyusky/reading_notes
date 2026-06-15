@@ -9,14 +9,25 @@
 
 ## 目录
 
-### 书
+### 书（100+）
 
-- [finite_and_inifinite_game/](./finite_and_inifinite_game/) — `Finite and Infinite Games`（James Carse）。已转 markdown 放 `converted/`，笔记累在 `notes.md`。
+- [100-finite-and-infinite-game/](./100-finite-and-infinite-game/) — `Finite and Infinite Games`（James Carse）。已转 markdown 放 `converted/`，笔记累在 `notes.md`。
+- [101-agentic-design-patterns/](./101-agentic-design-patterns/) — `Agentic Design Patterns`（zeljkoavramovic/agentic-design-patterns，GitHub）。
+- [102-deng-xiaoping-era/](./102-deng-xiaoping-era/) — `邓小平时代`（傅高义 / Ezra Vogel）。
+- [103-mao-zedong-selected-works/](./103-mao-zedong-selected-works/) — `毛泽东选集`（一至五卷）。
+- [104-the-prince/](./104-the-prince/) — `君主论`（Machiavelli）。
+- [105-myth-of-sisyphus/](./105-myth-of-sisyphus/) — `西西弗神话`（Camus）。
+- [106-reality-is-broken/](./106-reality-is-broken/) — `游戏改变世界`（Jane McGonigal）。
+- [107-zhang-yiming/](./107-zhang-yiming/) — `张一鸣传记`。
+- [108-ordinary-men/](./108-ordinary-men/) — `Ordinary Men`（Christopher Browning）。
+- [109-the-price-of-blood/](./109-the-price-of-blood/) — `血酬定律`（吴思）。
 
-### 备考项目
+### 备考项目（0–99）
 
-- [02-cfa-l1-2025-12/](./02-cfa-l1-2025-12/) — CFA 一级 2025-12。Schweser notes / 教材 / 题库 / mock / 思维导图 / 公式 / 1000 题 / crash plan 等原文件副本，按编号子目录分类。
-- [03-cfa-l2-2020/](./03-cfa-l2-2020/) — CFA 二级 2020 资料。`sources/` 6 卷 PDF。
+- [01-cfa/](./01-cfa/) — CFA 资料集合，按考试年份分
+  - [01-cfa/2025-12/](./01-cfa/2025-12/) — CFA 一级 2025-12
+  - [01-cfa/2020/](./01-cfa/2020/) — CFA 二级 2020
+- [02-iique/](./02-iique/) — 香港保险业中介人资格考试（IIQE），5 张卷（占位，暂无 PDF）
 - [04-基金从业/](./04-基金从业/) — 基金从业三个科目
   - [01-科目一-法律法规](./04-基金从业/01-科目一-法律法规/) — 教材 PDF 是 symlink，未拆分。
   - [02-科目二-证券投资基金](./04-基金从业/02-科目二-证券投资基金/) — 教材 PDF 已通过 MinerU 拆成 18 章 60 节 markdown，574 张原图。带 `index.md` / `progress.md` / `README.md`。
