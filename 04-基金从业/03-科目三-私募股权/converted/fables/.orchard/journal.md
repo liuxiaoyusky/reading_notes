@@ -1,4 +1,5 @@
-# Fable Orchard Journal
+# Phase 7 Journal
 
-## 2026-06-16T16:56:48.384846+08:00
-Orchard initialized with 43 sections.
+## 2026-06-16 19:00 - Reset
+- All previously generated fables deleted due to density issues
+- New plan: 1 fab = 1 core concept, 1000-1500 CJK words per fab
