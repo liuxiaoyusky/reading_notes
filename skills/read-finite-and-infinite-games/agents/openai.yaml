@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read Finite and Infinite Games"
+  short_description: "Guided source-based reading and notes"
+  default_prompt: "Help me read Finite and Infinite Games. Open the HTML reader if available, answer from the source text, and append useful Q&A notes to notes.md."
