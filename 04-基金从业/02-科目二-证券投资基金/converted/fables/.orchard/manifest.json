@@ -1,0 +1,607 @@
+{
+  "project_root": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金",
+  "book_title": "证券投资基金基础知识",
+  "total_sections": 60,
+  "sections": [
+    {
+      "id": "01-01",
+      "chapter_dir": "01-证券投资基金概述",
+      "file": "01-证券投资基金简介.md",
+      "title": "证券投资基金简介",
+      "source_path": "converted/sections/01-证券投资基金概述/01-证券投资基金简介.md",
+      "target_path": "converted/fables/01-证券投资基金概述/01-证券投资基金简介.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/01-证券投资基金概述/01-证券投资基金简介.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/01-证券投资基金概述/01-证券投资基金简介.md"
+    },
+    {
+      "id": "01-02",
+      "chapter_dir": "01-证券投资基金概述",
+      "file": "02-证券投资基金的起源与发展.md",
+      "title": "证券投资基金的起源与发展",
+      "source_path": "converted/sections/01-证券投资基金概述/02-证券投资基金的起源与发展.md",
+      "target_path": "converted/fables/01-证券投资基金概述/02-证券投资基金的起源与发展.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/01-证券投资基金概述/02-证券投资基金的起源与发展.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/01-证券投资基金概述/02-证券投资基金的起源与发展.md"
+    },
+    {
+      "id": "02-01",
+      "chapter_dir": "02-基金的类型",
+      "file": "01-证券投资基金分类概述.md",
+      "title": "证券投资基金分类概述",
+      "source_path": "converted/sections/02-基金的类型/01-证券投资基金分类概述.md",
+      "target_path": "converted/fables/02-基金的类型/01-证券投资基金分类概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/02-基金的类型/01-证券投资基金分类概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/02-基金的类型/01-证券投资基金分类概述.md"
+    },
+    {
+      "id": "02-02",
+      "chapter_dir": "02-基金的类型",
+      "file": "02-股票基金.md",
+      "title": "股票基金",
+      "source_path": "converted/sections/02-基金的类型/02-股票基金.md",
+      "target_path": "converted/fables/02-基金的类型/02-股票基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/02-基金的类型/02-股票基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/02-基金的类型/02-股票基金.md"
+    },
+    {
+      "id": "02-04",
+      "chapter_dir": "02-基金的类型",
+      "file": "04-货币市场基金.md",
+      "title": "货币市场基金",
+      "source_path": "converted/sections/02-基金的类型/04-货币市场基金.md",
+      "target_path": "converted/fables/02-基金的类型/04-货币市场基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/02-基金的类型/04-货币市场基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/02-基金的类型/04-货币市场基金.md"
+    },
+    {
+      "id": "02-05",
+      "chapter_dir": "02-基金的类型",
+      "file": "05-基金中基金.md",
+      "title": "基金中基金",
+      "source_path": "converted/sections/02-基金的类型/05-基金中基金.md",
+      "target_path": "converted/fables/02-基金的类型/05-基金中基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/02-基金的类型/05-基金中基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/02-基金的类型/05-基金中基金.md"
+    },
+    {
+      "id": "02-06",
+      "chapter_dir": "02-基金的类型",
+      "file": "06-混合基金.md",
+      "title": "混合基金",
+      "source_path": "converted/sections/02-基金的类型/06-混合基金.md",
+      "target_path": "converted/fables/02-基金的类型/06-混合基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/02-基金的类型/06-混合基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/02-基金的类型/06-混合基金.md"
+    },
+    {
+      "id": "02-07",
+      "chapter_dir": "02-基金的类型",
+      "file": "07-指数基金.md",
+      "title": "指数基金",
+      "source_path": "converted/sections/02-基金的类型/07-指数基金.md",
+      "target_path": "converted/fables/02-基金的类型/07-指数基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/02-基金的类型/07-指数基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/02-基金的类型/07-指数基金.md"
+    },
+    {
+      "id": "02-08",
+      "chapter_dir": "02-基金的类型",
+      "file": "08-合格境内机构投资者基金.md",
+      "title": "合格境内机构投资者基金",
+      "source_path": "converted/sections/02-基金的类型/08-合格境内机构投资者基金.md",
+      "target_path": "converted/fables/02-基金的类型/08-合格境内机构投资者基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/02-基金的类型/08-合格境内机构投资者基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/02-基金的类型/08-合格境内机构投资者基金.md"
+    },
+    {
+      "id": "02-09",
+      "chapter_dir": "02-基金的类型",
+      "file": "09-公开募集基础设施证券投资基金.md",
+      "title": "公开募集基础设施证券投资基金",
+      "source_path": "converted/sections/02-基金的类型/09-公开募集基础设施证券投资基金.md",
+      "target_path": "converted/fables/02-基金的类型/09-公开募集基础设施证券投资基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/02-基金的类型/09-公开募集基础设施证券投资基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/02-基金的类型/09-公开募集基础设施证券投资基金.md"
+    },
+    {
+      "id": "02-10",
+      "chapter_dir": "02-基金的类型",
+      "file": "10-其他基金.md",
+      "title": "其他基金",
+      "source_path": "converted/sections/02-基金的类型/10-其他基金.md",
+      "target_path": "converted/fables/02-基金的类型/10-其他基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/02-基金的类型/10-其他基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/02-基金的类型/10-其他基金.md"
+    },
+    {
+      "id": "03-02",
+      "chapter_dir": "03-投资管理基础",
+      "file": "02-财务报表分析.md",
+      "title": "财务报表分析",
+      "source_path": "converted/sections/03-投资管理基础/02-财务报表分析.md",
+      "target_path": "converted/fables/03-投资管理基础/02-财务报表分析.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/03-投资管理基础/02-财务报表分析.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/03-投资管理基础/02-财务报表分析.md"
+    },
+    {
+      "id": "03-04",
+      "chapter_dir": "03-投资管理基础",
+      "file": "04-常用描述性统计概念.md",
+      "title": "常用描述性统计概念",
+      "source_path": "converted/sections/03-投资管理基础/04-常用描述性统计概念.md",
+      "target_path": "converted/fables/03-投资管理基础/04-常用描述性统计概念.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/03-投资管理基础/04-常用描述性统计概念.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/03-投资管理基础/04-常用描述性统计概念.md"
+    },
+    {
+      "id": "04-01",
+      "chapter_dir": "04-权益投资",
+      "file": "01-资本结构.md",
+      "title": "资本结构",
+      "source_path": "converted/sections/04-权益投资/01-资本结构.md",
+      "target_path": "converted/fables/04-权益投资/01-资本结构.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/04-权益投资/01-资本结构.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/04-权益投资/01-资本结构.md"
+    },
+    {
+      "id": "04-04",
+      "chapter_dir": "04-权益投资",
+      "file": "04-股票估值方法.md",
+      "title": "股票估值方法",
+      "source_path": "converted/sections/04-权益投资/04-股票估值方法.md",
+      "target_path": "converted/fables/04-权益投资/04-股票估值方法.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/04-权益投资/04-股票估值方法.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/04-权益投资/04-股票估值方法.md"
+    },
+    {
+      "id": "05-01",
+      "chapter_dir": "05-固定收益投资",
+      "file": "01-债券与债券市场.md",
+      "title": "债券与债券市场",
+      "source_path": "converted/sections/05-固定收益投资/01-债券与债券市场.md",
+      "target_path": "converted/fables/05-固定收益投资/01-债券与债券市场.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/05-固定收益投资/01-债券与债券市场.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/05-固定收益投资/01-债券与债券市场.md"
+    },
+    {
+      "id": "05-02",
+      "chapter_dir": "05-固定收益投资",
+      "file": "02-中国债券市场体系.md",
+      "title": "中国债券市场体系",
+      "source_path": "converted/sections/05-固定收益投资/02-中国债券市场体系.md",
+      "target_path": "converted/fables/05-固定收益投资/02-中国债券市场体系.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/05-固定收益投资/02-中国债券市场体系.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/05-固定收益投资/02-中国债券市场体系.md"
+    },
+    {
+      "id": "05-03",
+      "chapter_dir": "05-固定收益投资",
+      "file": "03-债券价值分析.md",
+      "title": "债券价值分析",
+      "source_path": "converted/sections/05-固定收益投资/03-债券价值分析.md",
+      "target_path": "converted/fables/05-固定收益投资/03-债券价值分析.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/05-固定收益投资/03-债券价值分析.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/05-固定收益投资/03-债券价值分析.md"
+    },
+    {
+      "id": "05-04",
+      "chapter_dir": "05-固定收益投资",
+      "file": "04-货币市场工具.md",
+      "title": "货币市场工具",
+      "source_path": "converted/sections/05-固定收益投资/04-货币市场工具.md",
+      "target_path": "converted/fables/05-固定收益投资/04-货币市场工具.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/05-固定收益投资/04-货币市场工具.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/05-固定收益投资/04-货币市场工具.md"
+    },
+    {
+      "id": "06-01",
+      "chapter_dir": "06-衍生工具",
+      "file": "01-衍生工具概述.md",
+      "title": "衍生工具概述",
+      "source_path": "converted/sections/06-衍生工具/01-衍生工具概述.md",
+      "target_path": "converted/fables/06-衍生工具/01-衍生工具概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/06-衍生工具/01-衍生工具概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/06-衍生工具/01-衍生工具概述.md"
+    },
+    {
+      "id": "06-02",
+      "chapter_dir": "06-衍生工具",
+      "file": "02-远期合约.md",
+      "title": "远期合约",
+      "source_path": "converted/sections/06-衍生工具/02-远期合约.md",
+      "target_path": "converted/fables/06-衍生工具/02-远期合约.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/06-衍生工具/02-远期合约.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/06-衍生工具/02-远期合约.md"
+    },
+    {
+      "id": "06-03",
+      "chapter_dir": "06-衍生工具",
+      "file": "03-期货合约.md",
+      "title": "期货合约",
+      "source_path": "converted/sections/06-衍生工具/03-期货合约.md",
+      "target_path": "converted/fables/06-衍生工具/03-期货合约.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/06-衍生工具/03-期货合约.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/06-衍生工具/03-期货合约.md"
+    },
+    {
+      "id": "06-04",
+      "chapter_dir": "06-衍生工具",
+      "file": "04-期权合约.md",
+      "title": "期权合约",
+      "source_path": "converted/sections/06-衍生工具/04-期权合约.md",
+      "target_path": "converted/fables/06-衍生工具/04-期权合约.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/06-衍生工具/04-期权合约.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/06-衍生工具/04-期权合约.md"
+    },
+    {
+      "id": "06-05",
+      "chapter_dir": "06-衍生工具",
+      "file": "05-互换合约.md",
+      "title": "互换合约",
+      "source_path": "converted/sections/06-衍生工具/05-互换合约.md",
+      "target_path": "converted/fables/06-衍生工具/05-互换合约.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/06-衍生工具/05-互换合约.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/06-衍生工具/05-互换合约.md"
+    },
+    {
+      "id": "07-01",
+      "chapter_dir": "07-另类投资",
+      "file": "01-另类投资概述.md",
+      "title": "另类投资概述",
+      "source_path": "converted/sections/07-另类投资/01-另类投资概述.md",
+      "target_path": "converted/fables/07-另类投资/01-另类投资概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/07-另类投资/01-另类投资概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/07-另类投资/01-另类投资概述.md"
+    },
+    {
+      "id": "07-02",
+      "chapter_dir": "07-另类投资",
+      "file": "02-大宗商品投资.md",
+      "title": "大宗商品投资",
+      "source_path": "converted/sections/07-另类投资/02-大宗商品投资.md",
+      "target_path": "converted/fables/07-另类投资/02-大宗商品投资.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/07-另类投资/02-大宗商品投资.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/07-另类投资/02-大宗商品投资.md"
+    },
+    {
+      "id": "07-03",
+      "chapter_dir": "07-另类投资",
+      "file": "03-不动产投资.md",
+      "title": "不动产投资",
+      "source_path": "converted/sections/07-另类投资/03-不动产投资.md",
+      "target_path": "converted/fables/07-另类投资/03-不动产投资.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/07-另类投资/03-不动产投资.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/07-另类投资/03-不动产投资.md"
+    },
+    {
+      "id": "07-04",
+      "chapter_dir": "07-另类投资",
+      "file": "04-对冲基金投资.md",
+      "title": "对冲基金投资",
+      "source_path": "converted/sections/07-另类投资/04-对冲基金投资.md",
+      "target_path": "converted/fables/07-另类投资/04-对冲基金投资.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/07-另类投资/04-对冲基金投资.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/07-另类投资/04-对冲基金投资.md"
+    },
+    {
+      "id": "08-02",
+      "chapter_dir": "08-投资管理流程",
+      "file": "02-投资管理流程分类.md",
+      "title": "投资管理流程分类",
+      "source_path": "converted/sections/08-投资管理流程/02-投资管理流程分类.md",
+      "target_path": "converted/fables/08-投资管理流程/02-投资管理流程分类.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/08-投资管理流程/02-投资管理流程分类.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/08-投资管理流程/02-投资管理流程分类.md"
+    },
+    {
+      "id": "08-03",
+      "chapter_dir": "08-投资管理流程",
+      "file": "03-基金管理人投资管理框架.md",
+      "title": "基金管理人投资管理框架",
+      "source_path": "converted/sections/08-投资管理流程/03-基金管理人投资管理框架.md",
+      "target_path": "converted/fables/08-投资管理流程/03-基金管理人投资管理框架.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/08-投资管理流程/03-基金管理人投资管理框架.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/08-投资管理流程/03-基金管理人投资管理框架.md"
+    },
+    {
+      "id": "09-01",
+      "chapter_dir": "09-投资组合管理",
+      "file": "01-现代投资组合理论.md",
+      "title": "现代投资组合理论",
+      "source_path": "converted/sections/09-投资组合管理/01-现代投资组合理论.md",
+      "target_path": "converted/fables/09-投资组合管理/01-现代投资组合理论.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/09-投资组合管理/01-现代投资组合理论.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/09-投资组合管理/01-现代投资组合理论.md"
+    },
+    {
+      "id": "09-02",
+      "chapter_dir": "09-投资组合管理",
+      "file": "02-资本市场理论.md",
+      "title": "资本市场理论",
+      "source_path": "converted/sections/09-投资组合管理/02-资本市场理论.md",
+      "target_path": "converted/fables/09-投资组合管理/02-资本市场理论.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/09-投资组合管理/02-资本市场理论.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/09-投资组合管理/02-资本市场理论.md"
+    },
+    {
+      "id": "09-03",
+      "chapter_dir": "09-投资组合管理",
+      "file": "03-市场有效性与行为金融.md",
+      "title": "市场有效性与行为金融",
+      "source_path": "converted/sections/09-投资组合管理/03-市场有效性与行为金融.md",
+      "target_path": "converted/fables/09-投资组合管理/03-市场有效性与行为金融.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/09-投资组合管理/03-市场有效性与行为金融.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/09-投资组合管理/03-市场有效性与行为金融.md"
+    },
+    {
+      "id": "09-05",
+      "chapter_dir": "09-投资组合管理",
+      "file": "05-主动投资.md",
+      "title": "主动投资",
+      "source_path": "converted/sections/09-投资组合管理/05-主动投资.md",
+      "target_path": "converted/fables/09-投资组合管理/05-主动投资.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/09-投资组合管理/05-主动投资.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/09-投资组合管理/05-主动投资.md"
+    },
+    {
+      "id": "09-06",
+      "chapter_dir": "09-投资组合管理",
+      "file": "06-多元资产投资.md",
+      "title": "多元资产投资",
+      "source_path": "converted/sections/09-投资组合管理/06-多元资产投资.md",
+      "target_path": "converted/fables/09-投资组合管理/06-多元资产投资.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/09-投资组合管理/06-多元资产投资.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/09-投资组合管理/06-多元资产投资.md"
+    },
+    {
+      "id": "10-01",
+      "chapter_dir": "10-投资交易管理",
+      "file": "01-证券市场的交易机制.md",
+      "title": "证券市场的交易机制",
+      "source_path": "converted/sections/10-投资交易管理/01-证券市场的交易机制.md",
+      "target_path": "converted/fables/10-投资交易管理/01-证券市场的交易机制.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/10-投资交易管理/01-证券市场的交易机制.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/10-投资交易管理/01-证券市场的交易机制.md"
+    },
+    {
+      "id": "10-03",
+      "chapter_dir": "10-投资交易管理",
+      "file": "03-基金管理人投资交易管理.md",
+      "title": "基金管理人投资交易管理",
+      "source_path": "converted/sections/10-投资交易管理/03-基金管理人投资交易管理.md",
+      "target_path": "converted/fables/10-投资交易管理/03-基金管理人投资交易管理.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/10-投资交易管理/03-基金管理人投资交易管理.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/10-投资交易管理/03-基金管理人投资交易管理.md"
+    },
+    {
+      "id": "11-01",
+      "chapter_dir": "11-投资风险管理",
+      "file": "01-投资风险概述.md",
+      "title": "投资风险概述",
+      "source_path": "converted/sections/11-投资风险管理/01-投资风险概述.md",
+      "target_path": "converted/fables/11-投资风险管理/01-投资风险概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/11-投资风险管理/01-投资风险概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/11-投资风险管理/01-投资风险概述.md"
+    },
+    {
+      "id": "11-03",
+      "chapter_dir": "11-投资风险管理",
+      "file": "03-不同类型基金的风险管理.md",
+      "title": "不同类型基金的风险管理",
+      "source_path": "converted/sections/11-投资风险管理/03-不同类型基金的风险管理.md",
+      "target_path": "converted/fables/11-投资风险管理/03-不同类型基金的风险管理.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/11-投资风险管理/03-不同类型基金的风险管理.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/11-投资风险管理/03-不同类型基金的风险管理.md"
+    },
+    {
+      "id": "12-01",
+      "chapter_dir": "12-基金业绩评价",
+      "file": "01-基金业绩评价概述.md",
+      "title": "基金业绩评价概述",
+      "source_path": "converted/sections/12-基金业绩评价/01-基金业绩评价概述.md",
+      "target_path": "converted/fables/12-基金业绩评价/01-基金业绩评价概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/12-基金业绩评价/01-基金业绩评价概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/12-基金业绩评价/01-基金业绩评价概述.md"
+    },
+    {
+      "id": "12-03",
+      "chapter_dir": "12-基金业绩评价",
+      "file": "03-基金业绩归因.md",
+      "title": "基金业绩归因",
+      "source_path": "converted/sections/12-基金业绩评价/03-基金业绩归因.md",
+      "target_path": "converted/fables/12-基金业绩评价/03-基金业绩归因.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/12-基金业绩评价/03-基金业绩归因.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/12-基金业绩评价/03-基金业绩归因.md"
+    },
+    {
+      "id": "12-04",
+      "chapter_dir": "12-基金业绩评价",
+      "file": "04-基金风格分析.md",
+      "title": "基金风格分析",
+      "source_path": "converted/sections/12-基金业绩评价/04-基金风格分析.md",
+      "target_path": "converted/fables/12-基金业绩评价/04-基金风格分析.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/12-基金业绩评价/04-基金风格分析.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/12-基金业绩评价/04-基金风格分析.md"
+    },
+    {
+      "id": "12-05",
+      "chapter_dir": "12-基金业绩评价",
+      "file": "05-基金管理人分析.md",
+      "title": "基金管理人分析",
+      "source_path": "converted/sections/12-基金业绩评价/05-基金管理人分析.md",
+      "target_path": "converted/fables/12-基金业绩评价/05-基金管理人分析.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/12-基金业绩评价/05-基金管理人分析.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/12-基金业绩评价/05-基金管理人分析.md"
+    },
+    {
+      "id": "12-06",
+      "chapter_dir": "12-基金业绩评价",
+      "file": "06-基金评价业务体系.md",
+      "title": "基金评价业务体系",
+      "source_path": "converted/sections/12-基金业绩评价/06-基金评价业务体系.md",
+      "target_path": "converted/fables/12-基金业绩评价/06-基金评价业务体系.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/12-基金业绩评价/06-基金评价业务体系.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/12-基金业绩评价/06-基金评价业务体系.md"
+    },
+    {
+      "id": "12-07",
+      "chapter_dir": "12-基金业绩评价",
+      "file": "07-全球投资业绩标准.md",
+      "title": "全球投资业绩标准",
+      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准.md",
+      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/12-基金业绩评价/07-全球投资业绩标准.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/12-基金业绩评价/07-全球投资业绩标准.md"
+    },
+    {
+      "id": "13-01",
+      "chapter_dir": "13-基金的募集、交易与登记",
+      "file": "01-公募基金的募集与认购.md",
+      "title": "公募基金的募集与认购",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/01-公募基金的募集与认购.md",
+      "target_path": "converted/fables/13-基金的募集、交易与登记/01-公募基金的募集与认购.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/13-基金的募集、交易与登记/01-公募基金的募集与认购.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/13-基金的募集、交易与登记/01-公募基金的募集与认购.md"
+    },
+    {
+      "id": "13-03",
+      "chapter_dir": "13-基金的募集、交易与登记",
+      "file": "03-私募资产管理计划的募集、备案及份额参与退出.md",
+      "title": "私募资产管理计划的募集、备案及份额参与退出",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出.md",
+      "target_path": "converted/fables/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出.md"
+    },
+    {
+      "id": "13-04",
+      "chapter_dir": "13-基金的募集、交易与登记",
+      "file": "04-私募证券投资基金的募集、备案及份额申赎.md",
+      "title": "私募证券投资基金的募集、备案及份额申赎",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎.md",
+      "target_path": "converted/fables/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎.md"
+    },
+    {
+      "id": "13-05",
+      "chapter_dir": "13-基金的募集、交易与登记",
+      "file": "05-基金的份额登记与资金结算.md",
+      "title": "基金的份额登记与资金结算",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/05-基金的份额登记与资金结算.md",
+      "target_path": "converted/fables/13-基金的募集、交易与登记/05-基金的份额登记与资金结算.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/13-基金的募集、交易与登记/05-基金的份额登记与资金结算.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/13-基金的募集、交易与登记/05-基金的份额登记与资金结算.md"
+    },
+    {
+      "id": "14-01",
+      "chapter_dir": "14-基金的投资交易与结算",
+      "file": "01-基金参与证券交易所二级市场的交易与结算.md",
+      "title": "基金参与证券交易所二级市场的交易与结算",
+      "source_path": "converted/sections/14-基金的投资交易与结算/01-基金参与证券交易所二级市场的交易与结算.md",
+      "target_path": "converted/fables/14-基金的投资交易与结算/01-基金参与证券交易所二级市场的交易与结算.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/14-基金的投资交易与结算/01-基金参与证券交易所二级市场的交易与结算.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/14-基金的投资交易与结算/01-基金参与证券交易所二级市场的交易与结算.md"
+    },
+    {
+      "id": "14-02",
+      "chapter_dir": "14-基金的投资交易与结算",
+      "file": "02-基金参与银行间债券市场的交易与结算.md",
+      "title": "基金参与银行间债券市场的交易与结算",
+      "source_path": "converted/sections/14-基金的投资交易与结算/02-基金参与银行间债券市场的交易与结算.md",
+      "target_path": "converted/fables/14-基金的投资交易与结算/02-基金参与银行间债券市场的交易与结算.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/14-基金的投资交易与结算/02-基金参与银行间债券市场的交易与结算.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/14-基金的投资交易与结算/02-基金参与银行间债券市场的交易与结算.md"
+    },
+    {
+      "id": "14-03",
+      "chapter_dir": "14-基金的投资交易与结算",
+      "file": "03-基金参与其他市场投资的交易与结算.md",
+      "title": "基金参与其他市场投资的交易与结算",
+      "source_path": "converted/sections/14-基金的投资交易与结算/03-基金参与其他市场投资的交易与结算.md",
+      "target_path": "converted/fables/14-基金的投资交易与结算/03-基金参与其他市场投资的交易与结算.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/14-基金的投资交易与结算/03-基金参与其他市场投资的交易与结算.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/14-基金的投资交易与结算/03-基金参与其他市场投资的交易与结算.md"
+    },
+    {
+      "id": "14-04",
+      "chapter_dir": "14-基金的投资交易与结算",
+      "file": "04-基金参与海外证券市场投资的交易与结算.md",
+      "title": "基金参与海外证券市场投资的交易与结算",
+      "source_path": "converted/sections/14-基金的投资交易与结算/04-基金参与海外证券市场投资的交易与结算.md",
+      "target_path": "converted/fables/14-基金的投资交易与结算/04-基金参与海外证券市场投资的交易与结算.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/14-基金的投资交易与结算/04-基金参与海外证券市场投资的交易与结算.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/14-基金的投资交易与结算/04-基金参与海外证券市场投资的交易与结算.md"
+    },
+    {
+      "id": "15-04",
+      "chapter_dir": "15-基金的估值、费用与会计核算",
+      "file": "04-基金财务会计报告分析.md",
+      "title": "基金财务会计报告分析",
+      "source_path": "converted/sections/15-基金的估值、费用与会计核算/04-基金财务会计报告分析.md",
+      "target_path": "converted/fables/15-基金的估值、费用与会计核算/04-基金财务会计报告分析.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/15-基金的估值、费用与会计核算/04-基金财务会计报告分析.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/15-基金的估值、费用与会计核算/04-基金财务会计报告分析.md"
+    },
+    {
+      "id": "16-02",
+      "chapter_dir": "16-基金的利润分配与税收",
+      "file": "02-基金税收.md",
+      "title": "基金税收",
+      "source_path": "converted/sections/16-基金的利润分配与税收/02-基金税收.md",
+      "target_path": "converted/fables/16-基金的利润分配与税收/02-基金税收.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/16-基金的利润分配与税收/02-基金税收.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/16-基金的利润分配与税收/02-基金税收.md"
+    },
+    {
+      "id": "17-01",
+      "chapter_dir": "17-基金的信息披露",
+      "file": "01-基金信息披露概述.md",
+      "title": "基金信息披露概述",
+      "source_path": "converted/sections/17-基金的信息披露/01-基金信息披露概述.md",
+      "target_path": "converted/fables/17-基金的信息披露/01-基金信息披露概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/17-基金的信息披露/01-基金信息披露概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/17-基金的信息披露/01-基金信息披露概述.md"
+    },
+    {
+      "id": "17-02",
+      "chapter_dir": "17-基金的信息披露",
+      "file": "02-基金主要当事人的信息披露义务.md",
+      "title": "基金主要当事人的信息披露义务",
+      "source_path": "converted/sections/17-基金的信息披露/02-基金主要当事人的信息披露义务.md",
+      "target_path": "converted/fables/17-基金的信息披露/02-基金主要当事人的信息披露义务.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/17-基金的信息披露/02-基金主要当事人的信息披露义务.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/17-基金的信息披露/02-基金主要当事人的信息披露义务.md"
+    },
+    {
+      "id": "17-06",
+      "chapter_dir": "17-基金的信息披露",
+      "file": "06-私募基金的信息披露.md",
+      "title": "私募基金的信息披露",
+      "source_path": "converted/sections/17-基金的信息披露/06-私募基金的信息披露.md",
+      "target_path": "converted/fables/17-基金的信息披露/06-私募基金的信息披露.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/17-基金的信息披露/06-私募基金的信息披露.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/17-基金的信息披露/06-私募基金的信息披露.md"
+    },
+    {
+      "id": "18-01",
+      "chapter_dir": "18-基金销售基础知识",
+      "file": "01-基金投资者.md",
+      "title": "基金投资者",
+      "source_path": "converted/sections/18-基金销售基础知识/01-基金投资者.md",
+      "target_path": "converted/fables/18-基金销售基础知识/01-基金投资者.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/18-基金销售基础知识/01-基金投资者.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/18-基金销售基础知识/01-基金投资者.md"
+    },
+    {
+      "id": "18-02",
+      "chapter_dir": "18-基金销售基础知识",
+      "file": "02-基金销售机构、策略和业务规范.md",
+      "title": "基金销售机构、策略和业务规范",
+      "source_path": "converted/sections/18-基金销售基础知识/02-基金销售机构、策略和业务规范.md",
+      "target_path": "converted/fables/18-基金销售基础知识/02-基金销售机构、策略和业务规范.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/sections/18-基金销售基础知识/02-基金销售机构、策略和业务规范.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/02-科目二-证券投资基金/converted/fables/18-基金销售基础知识/02-基金销售机构、策略和业务规范.md"
+    }
+  ]
+}

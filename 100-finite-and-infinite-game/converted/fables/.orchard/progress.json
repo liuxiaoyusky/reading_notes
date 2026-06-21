@@ -1,0 +1,813 @@
+{
+  "last_updated": "2026-06-16T15:43:40.330891+08:00",
+  "sections": {
+    "01-01": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-01.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-01.md",
+      "updated_at": "2026-06-15T18:13:03.826958+08:00",
+      "notes": "Fable file written successfully with acceptEdits mode. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-02": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-02.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-02.md",
+      "updated_at": "2026-06-16T14:26:20.149516+08:00",
+      "notes": "Fable file written (~5.8KB). Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-03": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-03.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-03.md",
+      "updated_at": "2026-06-16T14:25:24.380447+08:00",
+      "notes": "Fable file written (~11KB). Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-04": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-04.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-04.md",
+      "updated_at": "2026-06-16T14:26:25.406430+08:00",
+      "notes": "Fable file written (~8.9KB). Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-05": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-05.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-05.md",
+      "updated_at": "2026-06-16T14:34:34.743324+08:00",
+      "notes": "Fable file written (~8.8KB). Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-06": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-06.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-06.md",
+      "updated_at": "2026-06-16T14:34:39.913198+08:00",
+      "notes": "Fable file written (~8.8KB). Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-07": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-07.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-07.md",
+      "updated_at": "2026-06-16T14:34:44.652128+08:00",
+      "notes": "Fable file written (~7.6KB). Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-08": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-08.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-08.md",
+      "updated_at": "2026-06-16T14:34:49.837677+08:00",
+      "notes": "Fable file written (~5.6KB). Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-09": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-09.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-09.md",
+      "updated_at": "2026-06-16T14:34:55.239094+08:00",
+      "notes": "Fable file written (~7.3KB). Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-10": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-10.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-10.md",
+      "updated_at": "2026-06-16T14:40:37.418785+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-11": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-11.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-11.md",
+      "updated_at": "2026-06-16T14:40:37.441561+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-12": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-12.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-12.md",
+      "updated_at": "2026-06-16T14:40:37.464629+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-13": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-13.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-13.md",
+      "updated_at": "2026-06-16T14:40:37.486405+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-14": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-14.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-14.md",
+      "updated_at": "2026-06-16T14:40:37.507511+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-15": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-15.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-15.md",
+      "updated_at": "2026-06-16T14:40:37.535447+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-16": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-16.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-16.md",
+      "updated_at": "2026-06-16T14:40:37.556777+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-17": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-17.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-17.md",
+      "updated_at": "2026-06-16T14:40:37.577481+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-18": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-18.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-18.md",
+      "updated_at": "2026-06-16T14:40:37.598132+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-19": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-19.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-19.md",
+      "updated_at": "2026-06-16T14:40:37.618080+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-20": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-20.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-20.md",
+      "updated_at": "2026-06-16T14:46:23.618904+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-21": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-21.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-21.md",
+      "updated_at": "2026-06-16T14:46:23.643210+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-22": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-22.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-22.md",
+      "updated_at": "2026-06-16T14:46:23.664553+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-23": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-23.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-23.md",
+      "updated_at": "2026-06-16T14:46:23.687110+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-24": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-24.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-24.md",
+      "updated_at": "2026-06-16T14:46:23.713460+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-25": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-25.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-25.md",
+      "updated_at": "2026-06-16T14:46:23.735629+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-26": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-26.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-26.md",
+      "updated_at": "2026-06-16T14:46:23.757028+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-27": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-27.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-27.md",
+      "updated_at": "2026-06-16T14:46:23.777778+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-28": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-28.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-28.md",
+      "updated_at": "2026-06-16T14:46:23.798569+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-29": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-29.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-29.md",
+      "updated_at": "2026-06-16T14:46:23.819063+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-30": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-30.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-30.md",
+      "updated_at": "2026-06-16T14:46:23.839476+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "01-31": {
+      "status": "done",
+      "source_path": "converted/sections/01-there-are-at-least-two-kinds-of-games/01-31.md",
+      "target_path": "converted/fables/01-there-are-at-least-two-kinds-of-games/01-31.md",
+      "notes": "Retry successful. Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx",
+      "updated_at": "2026-06-16T14:53:11.630485+08:00"
+    },
+    "02-32": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-32.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-32.md",
+      "updated_at": "2026-06-16T14:53:11.651924+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-33": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-33.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-33.md",
+      "updated_at": "2026-06-16T14:53:11.675159+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-34": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-34.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-34.md",
+      "updated_at": "2026-06-16T14:53:11.710661+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-35": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-35.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-35.md",
+      "updated_at": "2026-06-16T14:53:11.739782+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-36": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-36.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-36.md",
+      "updated_at": "2026-06-16T14:53:11.767017+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-37": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-37.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-37.md",
+      "updated_at": "2026-06-16T14:53:11.791692+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-38": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-38.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-38.md",
+      "updated_at": "2026-06-16T14:53:11.816055+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-39": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-39.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-39.md",
+      "updated_at": "2026-06-16T14:53:11.837359+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-40": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-40.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-40.md",
+      "updated_at": "2026-06-16T14:53:11.857904+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-41": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-41.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-41.md",
+      "updated_at": "2026-06-16T15:02:28.905008+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-42": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-42.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-42.md",
+      "updated_at": "2026-06-16T15:02:28.929400+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-43": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-43.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-43.md",
+      "updated_at": "2026-06-16T15:02:28.951955+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-44": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-44.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-44.md",
+      "updated_at": "2026-06-16T15:02:28.981301+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-45": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-45.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-45.md",
+      "updated_at": "2026-06-16T15:02:29.003156+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-46": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-46.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-46.md",
+      "updated_at": "2026-06-16T15:02:29.026565+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-47": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-47.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-47.md",
+      "updated_at": "2026-06-16T15:02:29.049069+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-48": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-48.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-48.md",
+      "updated_at": "2026-06-16T15:02:29.072546+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-49": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-49.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-49.md",
+      "updated_at": "2026-06-16T15:02:29.093848+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "02-50": {
+      "status": "done",
+      "source_path": "converted/sections/02-no-one-can-play-a-game-alone/02-50.md",
+      "target_path": "converted/fables/02-no-one-can-play-a-game-alone/02-50.md",
+      "updated_at": "2026-06-16T15:02:29.114404+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-51": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-51.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-51.md",
+      "updated_at": "2026-06-16T15:09:16.472110+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-52": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-52.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-52.md",
+      "updated_at": "2026-06-16T15:09:16.499137+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-53": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-53.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-53.md",
+      "updated_at": "2026-06-16T15:09:16.523610+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-54": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-54.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-54.md",
+      "updated_at": "2026-06-16T15:09:16.546628+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-55": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-55.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-55.md",
+      "updated_at": "2026-06-16T15:09:16.580972+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-56": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-56.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-56.md",
+      "updated_at": "2026-06-16T15:09:16.608024+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-57": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-57.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-57.md",
+      "updated_at": "2026-06-16T15:09:16.631827+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-58": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-58.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-58.md",
+      "updated_at": "2026-06-16T15:09:16.655434+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-59": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-59.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-59.md",
+      "updated_at": "2026-06-16T15:09:16.679754+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-60": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-60.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-60.md",
+      "updated_at": "2026-06-16T15:09:16.706869+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-61": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-61.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-61.md",
+      "updated_at": "2026-06-16T15:09:16.739391+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "03-62": {
+      "status": "done",
+      "source_path": "converted/sections/03-i-am-the-genius-of-myself/03-62.md",
+      "target_path": "converted/fables/03-i-am-the-genius-of-myself/03-62.md",
+      "updated_at": "2026-06-16T15:09:16.763062+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "04-63": {
+      "status": "done",
+      "source_path": "converted/sections/04-a-finite-game-occurs-within-a-world/04-63.md",
+      "target_path": "converted/fables/04-a-finite-game-occurs-within-a-world/04-63.md",
+      "updated_at": "2026-06-16T15:20:59.605204+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "04-64": {
+      "status": "done",
+      "source_path": "converted/sections/04-a-finite-game-occurs-within-a-world/04-64.md",
+      "target_path": "converted/fables/04-a-finite-game-occurs-within-a-world/04-64.md",
+      "updated_at": "2026-06-16T15:20:59.627560+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "04-65": {
+      "status": "done",
+      "source_path": "converted/sections/04-a-finite-game-occurs-within-a-world/04-65.md",
+      "target_path": "converted/fables/04-a-finite-game-occurs-within-a-world/04-65.md",
+      "updated_at": "2026-06-16T15:20:59.649037+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "04-66": {
+      "status": "done",
+      "source_path": "converted/sections/04-a-finite-game-occurs-within-a-world/04-66.md",
+      "target_path": "converted/fables/04-a-finite-game-occurs-within-a-world/04-66.md",
+      "updated_at": "2026-06-16T15:20:59.670617+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "04-67": {
+      "status": "done",
+      "source_path": "converted/sections/04-a-finite-game-occurs-within-a-world/04-67.md",
+      "target_path": "converted/fables/04-a-finite-game-occurs-within-a-world/04-67.md",
+      "updated_at": "2026-06-16T15:20:59.691109+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "04-68": {
+      "status": "done",
+      "source_path": "converted/sections/04-a-finite-game-occurs-within-a-world/04-68.md",
+      "target_path": "converted/fables/04-a-finite-game-occurs-within-a-world/04-68.md",
+      "updated_at": "2026-06-16T15:20:59.711799+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "04-69": {
+      "status": "done",
+      "source_path": "converted/sections/04-a-finite-game-occurs-within-a-world/04-69.md",
+      "target_path": "converted/fables/04-a-finite-game-occurs-within-a-world/04-69.md",
+      "updated_at": "2026-06-16T15:20:59.732544+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "05-70": {
+      "status": "done",
+      "source_path": "converted/sections/05-nature-is-the-realm-of-the-unspeakable/05-70.md",
+      "target_path": "converted/fables/05-nature-is-the-realm-of-the-unspeakable/05-70.md",
+      "updated_at": "2026-06-16T15:29:58.744747+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "05-71": {
+      "status": "done",
+      "source_path": "converted/sections/05-nature-is-the-realm-of-the-unspeakable/05-71.md",
+      "target_path": "converted/fables/05-nature-is-the-realm-of-the-unspeakable/05-71.md",
+      "updated_at": "2026-06-16T15:29:58.770996+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "05-72": {
+      "status": "done",
+      "source_path": "converted/sections/05-nature-is-the-realm-of-the-unspeakable/05-72.md",
+      "target_path": "converted/fables/05-nature-is-the-realm-of-the-unspeakable/05-72.md",
+      "updated_at": "2026-06-16T15:29:58.794848+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "05-73": {
+      "status": "done",
+      "source_path": "converted/sections/05-nature-is-the-realm-of-the-unspeakable/05-73.md",
+      "target_path": "converted/fables/05-nature-is-the-realm-of-the-unspeakable/05-73.md",
+      "updated_at": "2026-06-16T15:29:58.818195+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "05-74": {
+      "status": "done",
+      "source_path": "converted/sections/05-nature-is-the-realm-of-the-unspeakable/05-74.md",
+      "target_path": "converted/fables/05-nature-is-the-realm-of-the-unspeakable/05-74.md",
+      "updated_at": "2026-06-16T15:29:58.841893+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "05-75": {
+      "status": "done",
+      "source_path": "converted/sections/05-nature-is-the-realm-of-the-unspeakable/05-75.md",
+      "target_path": "converted/fables/05-nature-is-the-realm-of-the-unspeakable/05-75.md",
+      "updated_at": "2026-06-16T15:29:58.866223+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "05-76": {
+      "status": "done",
+      "source_path": "converted/sections/05-nature-is-the-realm-of-the-unspeakable/05-76.md",
+      "target_path": "converted/fables/05-nature-is-the-realm-of-the-unspeakable/05-76.md",
+      "updated_at": "2026-06-16T15:29:58.889808+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "05-77": {
+      "status": "done",
+      "source_path": "converted/sections/05-nature-is-the-realm-of-the-unspeakable/05-77.md",
+      "target_path": "converted/fables/05-nature-is-the-realm-of-the-unspeakable/05-77.md",
+      "updated_at": "2026-06-16T15:29:58.913416+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "05-78": {
+      "status": "done",
+      "source_path": "converted/sections/05-nature-is-the-realm-of-the-unspeakable/05-78.md",
+      "target_path": "converted/fables/05-nature-is-the-realm-of-the-unspeakable/05-78.md",
+      "updated_at": "2026-06-16T15:29:58.937271+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "05-79": {
+      "status": "done",
+      "source_path": "converted/sections/05-nature-is-the-realm-of-the-unspeakable/05-79.md",
+      "target_path": "converted/fables/05-nature-is-the-realm-of-the-unspeakable/05-79.md",
+      "updated_at": "2026-06-16T15:29:58.960891+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-80": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-80.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-80.md",
+      "updated_at": "2026-06-16T15:38:00.782801+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-81": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-81.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-81.md",
+      "updated_at": "2026-06-16T15:38:00.807528+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-82": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-82.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-82.md",
+      "updated_at": "2026-06-16T15:38:00.830721+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-83": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-83.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-83.md",
+      "updated_at": "2026-06-16T15:38:00.855949+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-84": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-84.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-84.md",
+      "updated_at": "2026-06-16T15:38:00.879404+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-85": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-85.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-85.md",
+      "updated_at": "2026-06-16T15:38:00.903090+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-86": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-86.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-86.md",
+      "updated_at": "2026-06-16T15:38:00.928681+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-87": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-87.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-87.md",
+      "updated_at": "2026-06-16T15:38:00.951990+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-88": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-88.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-88.md",
+      "updated_at": "2026-06-16T15:38:00.975458+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-89": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-89.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-89.md",
+      "updated_at": "2026-06-16T15:38:01.000080+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-90": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-90.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-90.md",
+      "updated_at": "2026-06-16T15:38:01.023492+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-91": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-91.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-91.md",
+      "updated_at": "2026-06-16T15:38:01.048717+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-92": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-92.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-92.md",
+      "updated_at": "2026-06-16T15:38:01.073749+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "06-93": {
+      "status": "done",
+      "source_path": "converted/sections/06-we-control-nature-for-societal-reasons/06-93.md",
+      "target_path": "converted/fables/06-we-control-nature-for-societal-reasons/06-93.md",
+      "updated_at": "2026-06-16T15:38:01.096416+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "07-100": {
+      "status": "done",
+      "source_path": "converted/sections/07-myth-provokes-explanation-but-accepts-none-of-it/07-100.md",
+      "target_path": "converted/fables/07-myth-provokes-explanation-but-accepts-none-of-it/07-100.md",
+      "updated_at": "2026-06-16T15:43:40.305953+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "07-101": {
+      "status": "done",
+      "source_path": "converted/sections/07-myth-provokes-explanation-but-accepts-none-of-it/07-101.md",
+      "target_path": "converted/fables/07-myth-provokes-explanation-but-accepts-none-of-it/07-101.md",
+      "updated_at": "2026-06-16T15:43:40.330757+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "07-94": {
+      "status": "done",
+      "source_path": "converted/sections/07-myth-provokes-explanation-but-accepts-none-of-it/07-94.md",
+      "target_path": "converted/fables/07-myth-provokes-explanation-but-accepts-none-of-it/07-94.md",
+      "updated_at": "2026-06-16T15:43:40.148687+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "07-95": {
+      "status": "done",
+      "source_path": "converted/sections/07-myth-provokes-explanation-but-accepts-none-of-it/07-95.md",
+      "target_path": "converted/fables/07-myth-provokes-explanation-but-accepts-none-of-it/07-95.md",
+      "updated_at": "2026-06-16T15:43:40.174202+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "07-96": {
+      "status": "done",
+      "source_path": "converted/sections/07-myth-provokes-explanation-but-accepts-none-of-it/07-96.md",
+      "target_path": "converted/fables/07-myth-provokes-explanation-but-accepts-none-of-it/07-96.md",
+      "updated_at": "2026-06-16T15:43:40.198629+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "07-97": {
+      "status": "done",
+      "source_path": "converted/sections/07-myth-provokes-explanation-but-accepts-none-of-it/07-97.md",
+      "target_path": "converted/fables/07-myth-provokes-explanation-but-accepts-none-of-it/07-97.md",
+      "updated_at": "2026-06-16T15:43:40.223095+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "07-98": {
+      "status": "done",
+      "source_path": "converted/sections/07-myth-provokes-explanation-but-accepts-none-of-it/07-98.md",
+      "target_path": "converted/fables/07-myth-provokes-explanation-but-accepts-none-of-it/07-98.md",
+      "updated_at": "2026-06-16T15:43:40.247128+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    },
+    "07-99": {
+      "status": "done",
+      "source_path": "converted/sections/07-myth-provokes-explanation-but-accepts-none-of-it/07-99.md",
+      "target_path": "converted/fables/07-myth-provokes-explanation-but-accepts-none-of-it/07-99.md",
+      "updated_at": "2026-06-16T15:43:40.274820+08:00",
+      "notes": "Fable file written. Quality check: continuous narrative, four-part structure, 原文定义 + 对应点 table included.",
+      "mode": "acpx"
+    }
+  }
+}

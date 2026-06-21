@@ -1,0 +1,305 @@
+{
+  "last_updated": "2026-06-17T19:00:00+08:00",
+  "sections": {
+    "01-01": {
+      "status": "done",
+      "source_path": "converted/sections/01-证券投资基金概述/01-证券投资基金简介.md",
+      "target_path": "converted/fables/01-证券投资基金概述/01-证券投资基金简介.md"
+    },
+    "01-02": {
+      "status": "done",
+      "source_path": "converted/sections/01-证券投资基金概述/02-证券投资基金的起源与发展.md",
+      "target_path": "converted/fables/01-证券投资基金概述/02-证券投资基金的起源与发展.md"
+    },
+    "02-01": {
+      "status": "done",
+      "source_path": "converted/sections/02-基金的类型/01-证券投资基金分类概述.md",
+      "target_path": "converted/fables/02-基金的类型/01-证券投资基金分类概述.md"
+    },
+    "02-02": {
+      "status": "done",
+      "source_path": "converted/sections/02-基金的类型/02-股票基金.md",
+      "target_path": "converted/fables/02-基金的类型/02-股票基金.md"
+    },
+    "02-04": {
+      "status": "done",
+      "source_path": "converted/sections/02-基金的类型/04-货币市场基金.md",
+      "target_path": "converted/fables/02-基金的类型/04-货币市场基金.md"
+    },
+    "02-05": {
+      "status": "done",
+      "source_path": "converted/sections/02-基金的类型/05-基金中基金.md",
+      "target_path": "converted/fables/02-基金的类型/05-基金中基金.md"
+    },
+    "02-06": {
+      "status": "done",
+      "source_path": "converted/sections/02-基金的类型/06-混合基金.md",
+      "target_path": "converted/fables/02-基金的类型/06-混合基金.md"
+    },
+    "02-07": {
+      "status": "done",
+      "source_path": "converted/sections/02-基金的类型/07-指数基金.md",
+      "target_path": "converted/fables/02-基金的类型/07-指数基金.md"
+    },
+    "02-08": {
+      "status": "done",
+      "source_path": "converted/sections/02-基金的类型/08-合格境内机构投资者基金.md",
+      "target_path": "converted/fables/02-基金的类型/08-合格境内机构投资者基金.md"
+    },
+    "02-09": {
+      "status": "done",
+      "source_path": "converted/sections/02-基金的类型/09-公开募集基础设施证券投资基金.md",
+      "target_path": "converted/fables/02-基金的类型/09-公开募集基础设施证券投资基金.md"
+    },
+    "02-10": {
+      "status": "done",
+      "source_path": "converted/sections/02-基金的类型/10-其他基金.md",
+      "target_path": "converted/fables/02-基金的类型/10-其他基金.md"
+    },
+    "03-02": {
+      "status": "done",
+      "source_path": "converted/sections/03-投资管理基础/02-财务报表分析.md",
+      "target_path": "converted/fables/03-投资管理基础/02-财务报表分析.md"
+    },
+    "03-04": {
+      "status": "done",
+      "source_path": "converted/sections/03-投资管理基础/04-常用描述性统计概念.md",
+      "target_path": "converted/fables/03-投资管理基础/04-常用描述性统计概念.md"
+    },
+    "04-01": {
+      "status": "done",
+      "source_path": "converted/sections/04-权益投资/01-资本结构.md",
+      "target_path": "converted/fables/04-权益投资/01-资本结构.md"
+    },
+    "04-04": {
+      "status": "done",
+      "source_path": "converted/sections/04-权益投资/04-股票估值方法.md",
+      "target_path": "converted/fables/04-权益投资/04-股票估值方法.md"
+    },
+    "05-01": {
+      "status": "done",
+      "source_path": "converted/sections/05-固定收益投资/01-债券与债券市场.md",
+      "target_path": "converted/fables/05-固定收益投资/01-债券与债券市场.md"
+    },
+    "05-02": {
+      "status": "done",
+      "source_path": "converted/sections/05-固定收益投资/02-中国债券市场体系.md",
+      "target_path": "converted/fables/05-固定收益投资/02-中国债券市场体系.md"
+    },
+    "05-03": {
+      "status": "done",
+      "source_path": "converted/sections/05-固定收益投资/03-债券价值分析.md",
+      "target_path": "converted/fables/05-固定收益投资/03-债券价值分析.md"
+    },
+    "05-04": {
+      "status": "done",
+      "source_path": "converted/sections/05-固定收益投资/04-货币市场工具.md",
+      "target_path": "converted/fables/05-固定收益投资/04-货币市场工具.md"
+    },
+    "06-01": {
+      "status": "done",
+      "source_path": "converted/sections/06-衍生工具/01-衍生工具概述.md",
+      "target_path": "converted/fables/06-衍生工具/01-衍生工具概述.md"
+    },
+    "06-02": {
+      "status": "done",
+      "source_path": "converted/sections/06-衍生工具/02-远期合约.md",
+      "target_path": "converted/fables/06-衍生工具/02-远期合约.md"
+    },
+    "06-03": {
+      "status": "done",
+      "source_path": "converted/sections/06-衍生工具/03-期货合约.md",
+      "target_path": "converted/fables/06-衍生工具/03-期货合约.md"
+    },
+    "06-04": {
+      "status": "done",
+      "source_path": "converted/sections/06-衍生工具/04-期权合约.md",
+      "target_path": "converted/fables/06-衍生工具/04-期权合约.md"
+    },
+    "06-05": {
+      "status": "done",
+      "source_path": "converted/sections/06-衍生工具/05-互换合约.md",
+      "target_path": "converted/fables/06-衍生工具/05-互换合约.md"
+    },
+    "07-01": {
+      "status": "done",
+      "source_path": "converted/sections/07-另类投资/01-另类投资概述.md",
+      "target_path": "converted/fables/07-另类投资/01-另类投资概述.md"
+    },
+    "07-02": {
+      "status": "done",
+      "source_path": "converted/sections/07-另类投资/02-大宗商品投资.md",
+      "target_path": "converted/fables/07-另类投资/02-大宗商品投资.md"
+    },
+    "07-03": {
+      "status": "done",
+      "source_path": "converted/sections/07-另类投资/03-不动产投资.md",
+      "target_path": "converted/fables/07-另类投资/03-不动产投资.md"
+    },
+    "07-04": {
+      "status": "done",
+      "source_path": "converted/sections/07-另类投资/04-对冲基金投资.md",
+      "target_path": "converted/fables/07-另类投资/04-对冲基金投资.md"
+    },
+    "08-02": {
+      "status": "done",
+      "source_path": "converted/sections/08-投资管理流程/02-投资管理流程分类.md",
+      "target_path": "converted/fables/08-投资管理流程/02-投资管理流程分类.md"
+    },
+    "08-03": {
+      "status": "done",
+      "source_path": "converted/sections/08-投资管理流程/03-基金管理人投资管理框架.md",
+      "target_path": "converted/fables/08-投资管理流程/03-基金管理人投资管理框架.md"
+    },
+    "09-01": {
+      "status": "done",
+      "source_path": "converted/sections/09-投资组合管理/01-现代投资组合理论.md",
+      "target_path": "converted/fables/09-投资组合管理/01-现代投资组合理论.md"
+    },
+    "09-02": {
+      "status": "done",
+      "source_path": "converted/sections/09-投资组合管理/02-资本市场理论.md",
+      "target_path": "converted/fables/09-投资组合管理/02-资本市场理论.md"
+    },
+    "09-03": {
+      "status": "done",
+      "source_path": "converted/sections/09-投资组合管理/03-市场有效性与行为金融.md",
+      "target_path": "converted/fables/09-投资组合管理/03-市场有效性与行为金融.md"
+    },
+    "09-05": {
+      "status": "done",
+      "source_path": "converted/sections/09-投资组合管理/05-主动投资.md",
+      "target_path": "converted/fables/09-投资组合管理/05-主动投资.md"
+    },
+    "09-06": {
+      "status": "done",
+      "source_path": "converted/sections/09-投资组合管理/06-多元资产投资.md",
+      "target_path": "converted/fables/09-投资组合管理/06-多元资产投资.md"
+    },
+    "10-01": {
+      "status": "done",
+      "source_path": "converted/sections/10-投资交易管理/01-证券市场的交易机制.md",
+      "target_path": "converted/fables/10-投资交易管理/01-证券市场的交易机制.md"
+    },
+    "10-03": {
+      "status": "done",
+      "source_path": "converted/sections/10-投资交易管理/03-基金管理人投资交易管理.md",
+      "target_path": "converted/fables/10-投资交易管理/03-基金管理人投资交易管理.md"
+    },
+    "11-01": {
+      "status": "done",
+      "source_path": "converted/sections/11-投资风险管理/01-投资风险概述.md",
+      "target_path": "converted/fables/11-投资风险管理/01-投资风险概述.md"
+    },
+    "11-03": {
+      "status": "done",
+      "source_path": "converted/sections/11-投资风险管理/03-不同类型基金的风险管理.md",
+      "target_path": "converted/fables/11-投资风险管理/03-不同类型基金的风险管理.md"
+    },
+    "12-01": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/01-基金业绩评价概述.md",
+      "target_path": "converted/fables/12-基金业绩评价/01-基金业绩评价概述.md"
+    },
+    "12-03": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/03-基金业绩归因.md",
+      "target_path": "converted/fables/12-基金业绩评价/03-基金业绩归因.md"
+    },
+    "12-04": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/04-基金风格分析.md",
+      "target_path": "converted/fables/12-基金业绩评价/04-基金风格分析.md"
+    },
+    "12-05": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/05-基金管理人分析.md",
+      "target_path": "converted/fables/12-基金业绩评价/05-基金管理人分析.md"
+    },
+    "12-06": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/06-基金评价业务体系.md",
+      "target_path": "converted/fables/12-基金业绩评价/06-基金评价业务体系.md"
+    },
+    "12-07": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准.md",
+      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准.md"
+    },
+    "13-01": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/01-公募基金的募集与认购.md",
+      "target_path": "converted/fables/13-基金的募集、交易与登记/01-公募基金的募集与认购.md"
+    },
+    "13-03": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出.md",
+      "target_path": "converted/fables/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出.md"
+    },
+    "13-04": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎.md",
+      "target_path": "converted/fables/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎.md"
+    },
+    "13-05": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/05-基金的份额登记与资金结算.md",
+      "target_path": "converted/fables/13-基金的募集、交易与登记/05-基金的份额登记与资金结算.md"
+    },
+    "14-01": {
+      "status": "done",
+      "source_path": "converted/sections/14-基金的投资交易与结算/01-基金参与证券交易所二级市场的交易与结算.md",
+      "target_path": "converted/fables/14-基金的投资交易与结算/01-基金参与证券交易所二级市场的交易与结算.md"
+    },
+    "14-02": {
+      "status": "done",
+      "source_path": "converted/sections/14-基金的投资交易与结算/02-基金参与银行间债券市场的交易与结算.md",
+      "target_path": "converted/fables/14-基金的投资交易与结算/02-基金参与银行间债券市场的交易与结算.md"
+    },
+    "14-03": {
+      "status": "done",
+      "source_path": "converted/sections/14-基金的投资交易与结算/03-基金参与其他市场投资的交易与结算.md",
+      "target_path": "converted/fables/14-基金的投资交易与结算/03-基金参与其他市场投资的交易与结算.md"
+    },
+    "14-04": {
+      "status": "done",
+      "source_path": "converted/sections/14-基金的投资交易与结算/04-基金参与海外证券市场投资的交易与结算.md",
+      "target_path": "converted/fables/14-基金的投资交易与结算/04-基金参与海外证券市场投资的交易与结算.md"
+    },
+    "15-04": {
+      "status": "done",
+      "source_path": "converted/sections/15-基金的估值、费用与会计核算/04-基金财务会计报告分析.md",
+      "target_path": "converted/fables/15-基金的估值、费用与会计核算/04-基金财务会计报告分析.md"
+    },
+    "16-02": {
+      "status": "done",
+      "source_path": "converted/sections/16-基金的利润分配与税收/02-基金税收.md",
+      "target_path": "converted/fables/16-基金的利润分配与税收/02-基金税收.md"
+    },
+    "17-01": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/01-基金信息披露概述.md",
+      "target_path": "converted/fables/17-基金的信息披露/01-基金信息披露概述.md"
+    },
+    "17-02": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/02-基金主要当事人的信息披露义务.md",
+      "target_path": "converted/fables/17-基金的信息披露/02-基金主要当事人的信息披露义务.md"
+    },
+    "17-06": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/06-私募基金的信息披露.md",
+      "target_path": "converted/fables/17-基金的信息披露/06-私募基金的信息披露.md"
+    },
+    "18-01": {
+      "status": "done",
+      "source_path": "converted/sections/18-基金销售基础知识/01-基金投资者.md",
+      "target_path": "converted/fables/18-基金销售基础知识/01-基金投资者.md"
+    },
+    "18-02": {
+      "status": "done",
+      "source_path": "converted/sections/18-基金销售基础知识/02-基金销售机构、策略和业务规范.md",
+      "target_path": "converted/fables/18-基金销售基础知识/02-基金销售机构、策略和业务规范.md"
+    }
+  }
+}

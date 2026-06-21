@@ -1,0 +1,437 @@
+{
+  "project_root": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权",
+  "book_title": "股权投资基金",
+  "total_sections": 43,
+  "sections": [
+    {
+      "id": "01-股权投资基金的概念和特点",
+      "chapter_dir": "01-股权投资基金概述",
+      "file": "01-股权投资基金的概念和特点.md",
+      "title": "第一节 股权投资基金的概念和特点",
+      "source_path": "converted/sections/01-股权投资基金概述/01-股权投资基金的概念和特点.md",
+      "target_path": "converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/01-股权投资基金的概念和特点.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点.md"
+    },
+    {
+      "id": "01-股权投资基金的基本运作模式",
+      "chapter_dir": "01-股权投资基金概述",
+      "file": "02-股权投资基金的基本运作模式.md",
+      "title": "第二节 股权投资基金的基本运作模式",
+      "source_path": "converted/sections/01-股权投资基金概述/02-股权投资基金的基本运作模式.md",
+      "target_path": "converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/02-股权投资基金的基本运作模式.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式.md"
+    },
+    {
+      "id": "01-股权投资基金市场参与主体",
+      "chapter_dir": "01-股权投资基金概述",
+      "file": "03-股权投资基金市场参与主体.md",
+      "title": "第三节 股权投资基金市场参与主体",
+      "source_path": "converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
+      "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体.md"
+    },
+    {
+      "id": "01-股权投资基金的起源和发展",
+      "chapter_dir": "01-股权投资基金概述",
+      "file": "04-股权投资基金的起源和发展.md",
+      "title": "第四节 股权投资基金的起源和发展",
+      "source_path": "converted/sections/01-股权投资基金概述/04-股权投资基金的起源和发展.md",
+      "target_path": "converted/fables/01-股权投资基金概述/04-股权投资基金的起源和发展.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/04-股权投资基金的起源和发展.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/04-股权投资基金的起源和发展.md"
+    },
+    {
+      "id": "01-股权投资基金对经济高质量发展的作用",
+      "chapter_dir": "01-股权投资基金概述",
+      "file": "05-股权投资基金对经济高质量发展的作用.md",
+      "title": "第五节 股权投资基金对经济高质量发展的作用",
+      "source_path": "converted/sections/01-股权投资基金概述/05-股权投资基金对经济高质量发展的作用.md",
+      "target_path": "converted/fables/01-股权投资基金概述/05-股权投资基金对经济高质量发展的作用.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/05-股权投资基金对经济高质量发展的作用.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/05-股权投资基金对经济高质量发展的作用.md"
+    },
+    {
+      "id": "02-股权投资基金管理人概述",
+      "chapter_dir": "02-股权投资基金管理人",
+      "file": "01-股权投资基金管理人概述.md",
+      "title": "第一节 股权投资基金管理人概述",
+      "source_path": "converted/sections/02-股权投资基金管理人/01-股权投资基金管理人概述.md",
+      "target_path": "converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/02-股权投资基金管理人/01-股权投资基金管理人概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述.md"
+    },
+    {
+      "id": "02-股权投资基金管理人的信义义务",
+      "chapter_dir": "02-股权投资基金管理人",
+      "file": "02-股权投资基金管理人的信义义务.md",
+      "title": "第二节 股权投资基金管理人的信义义务",
+      "source_path": "converted/sections/02-股权投资基金管理人/02-股权投资基金管理人的信义义务.md",
+      "target_path": "converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/02-股权投资基金管理人/02-股权投资基金管理人的信义义务.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务.md"
+    },
+    {
+      "id": "02-股权投资基金管理人的专业要求",
+      "chapter_dir": "02-股权投资基金管理人",
+      "file": "03-股权投资基金管理人的专业要求.md",
+      "title": "第三节 股权投资基金管理人的专业要求",
+      "source_path": "converted/sections/02-股权投资基金管理人/03-股权投资基金管理人的专业要求.md",
+      "target_path": "converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/02-股权投资基金管理人/03-股权投资基金管理人的专业要求.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求.md"
+    },
+    {
+      "id": "02-股权投资基金管理人的内部治理",
+      "chapter_dir": "02-股权投资基金管理人",
+      "file": "04-股权投资基金管理人的内部治理.md",
+      "title": "第四节 股权投资基金管理人的内部治理",
+      "source_path": "converted/sections/02-股权投资基金管理人/04-股权投资基金管理人的内部治理.md",
+      "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/02-股权投资基金管理人/04-股权投资基金管理人的内部治理.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理.md"
+    },
+    {
+      "id": "03-股权投资基金产品概述",
+      "chapter_dir": "03-股权投资基金产品",
+      "file": "01-股权投资基金产品概述.md",
+      "title": "第一节 股权投资基金产品概述",
+      "source_path": "converted/sections/03-股权投资基金产品/01-股权投资基金产品概述.md",
+      "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/03-股权投资基金产品/01-股权投资基金产品概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述.md"
+    },
+    {
+      "id": "03-公司型基金、合伙型基金与契约型基金",
+      "chapter_dir": "03-股权投资基金产品",
+      "file": "02-公司型基金、合伙型基金与契约型基金.md",
+      "title": "第二节 公司型基金、合伙型基金与契约型基金",
+      "source_path": "converted/sections/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金.md",
+      "target_path": "converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金.md"
+    },
+    {
+      "id": "03-创业投资基金与并购基金",
+      "chapter_dir": "03-股权投资基金产品",
+      "file": "03-创业投资基金与并购基金.md",
+      "title": "第三节 创业投资基金与并购基金",
+      "source_path": "converted/sections/03-股权投资基金产品/03-创业投资基金与并购基金.md",
+      "target_path": "converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/03-股权投资基金产品/03-创业投资基金与并购基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金.md"
+    },
+    {
+      "id": "03-股权投资母基金",
+      "chapter_dir": "03-股权投资基金产品",
+      "file": "04-股权投资母基金.md",
+      "title": "第四节 股权投资母基金",
+      "source_path": "converted/sections/03-股权投资基金产品/04-股权投资母基金.md",
+      "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/03-股权投资基金产品/04-股权投资母基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金.md"
+    },
+    {
+      "id": "03-政府投资基金",
+      "chapter_dir": "03-股权投资基金产品",
+      "file": "05-政府投资基金.md",
+      "title": "第五节 政府投资基金",
+      "source_path": "converted/sections/03-股权投资基金产品/05-政府投资基金.md",
+      "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/03-股权投资基金产品/05-政府投资基金.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金.md"
+    },
+    {
+      "id": "04-募集与设立概述",
+      "chapter_dir": "04-股权投资基金的募集与设立",
+      "file": "01-募集与设立概述.md",
+      "title": "第一节 募集与设立概述",
+      "source_path": "converted/sections/04-股权投资基金的募集与设立/01-募集与设立概述.md",
+      "target_path": "converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/04-股权投资基金的募集与设立/01-募集与设立概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述.md"
+    },
+    {
+      "id": "04-募集对象",
+      "chapter_dir": "04-股权投资基金的募集与设立",
+      "file": "02-募集对象.md",
+      "title": "第二节 募集对象",
+      "source_path": "converted/sections/04-股权投资基金的募集与设立/02-募集对象.md",
+      "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/04-股权投资基金的募集与设立/02-募集对象.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象.md"
+    },
+    {
+      "id": "04-募集与设立流程",
+      "chapter_dir": "04-股权投资基金的募集与设立",
+      "file": "03-募集与设立流程.md",
+      "title": "第三节 募集与设立流程",
+      "source_path": "converted/sections/04-股权投资基金的募集与设立/03-募集与设立流程.md",
+      "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/04-股权投资基金的募集与设立/03-募集与设立流程.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程.md"
+    },
+    {
+      "id": "04-股权投资基金合同",
+      "chapter_dir": "04-股权投资基金的募集与设立",
+      "file": "04-股权投资基金合同.md",
+      "title": "第四节 股权投资基金合同",
+      "source_path": "converted/sections/04-股权投资基金的募集与设立/04-股权投资基金合同.md",
+      "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/04-股权投资基金的募集与设立/04-股权投资基金合同.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同.md"
+    },
+    {
+      "id": "05-股权投资的一般流程",
+      "chapter_dir": "05-股权投资基金的投资",
+      "file": "01-股权投资的一般流程.md",
+      "title": "第一节 股权投资的一般流程",
+      "source_path": "converted/sections/05-股权投资基金的投资/01-股权投资的一般流程.md",
+      "target_path": "converted/fables/05-股权投资基金的投资/01-股权投资的一般流程.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/01-股权投资的一般流程.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/01-股权投资的一般流程.md"
+    },
+    {
+      "id": "05-投资调查与分析",
+      "chapter_dir": "05-股权投资基金的投资",
+      "file": "02-投资调查与分析.md",
+      "title": "第二节 投资调查与分析",
+      "source_path": "converted/sections/05-股权投资基金的投资/02-投资调查与分析.md",
+      "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/02-投资调查与分析.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析.md"
+    },
+    {
+      "id": "05-投资项目估值",
+      "chapter_dir": "05-股权投资基金的投资",
+      "file": "03-投资项目估值.md",
+      "title": "第三节 投资项目估值",
+      "source_path": "converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
+      "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值.md"
+    },
+    {
+      "id": "05-交易文件",
+      "chapter_dir": "05-股权投资基金的投资",
+      "file": "04-交易文件.md",
+      "title": "第四节 交易文件",
+      "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
+      "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/04-交易文件.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件.md"
+    },
+    {
+      "id": "05-投资交易结构",
+      "chapter_dir": "05-股权投资基金的投资",
+      "file": "05-投资交易结构.md",
+      "title": "第五节 投资交易结构",
+      "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
+      "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构.md"
+    },
+    {
+      "id": "06-投后管理概述",
+      "chapter_dir": "06-股权投资基金的投后管理",
+      "file": "01-投后管理概述.md",
+      "title": "第一节 投后管理概述",
+      "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
+      "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述.md"
+    },
+    {
+      "id": "06-投后管理模式、决策机制、组织架构及制度体系",
+      "chapter_dir": "06-股权投资基金的投后管理",
+      "file": "02-投后管理模式、决策机制、组织架构及制度体系.md",
+      "title": "第二节 投后管理模式、决策机制、组织架构及制度体系",
+      "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
+      "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md"
+    },
+    {
+      "id": "06-基金产品的投后管理",
+      "chapter_dir": "06-股权投资基金的投后管理",
+      "file": "03-基金产品的投后管理.md",
+      "title": "第三节 基金产品的投后管理",
+      "source_path": "converted/sections/06-股权投资基金的投后管理/03-基金产品的投后管理.md",
+      "target_path": "converted/fables/06-股权投资基金的投后管理/03-基金产品的投后管理.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/06-股权投资基金的投后管理/03-基金产品的投后管理.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/03-基金产品的投后管理.md"
+    },
+    {
+      "id": "06-股权投资项目的投后管理",
+      "chapter_dir": "06-股权投资基金的投后管理",
+      "file": "04-股权投资项目的投后管理.md",
+      "title": "第四节 股权投资项目的投后管理",
+      "source_path": "converted/sections/06-股权投资基金的投后管理/04-股权投资项目的投后管理.md",
+      "target_path": "converted/fables/06-股权投资基金的投后管理/04-股权投资项目的投后管理.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/06-股权投资基金的投后管理/04-股权投资项目的投后管理.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/04-股权投资项目的投后管理.md"
+    },
+    {
+      "id": "07-项目退出概述",
+      "chapter_dir": "07-股权投资基金的项目退出",
+      "file": "01-项目退出概述.md",
+      "title": "第一节 项目退出概述",
+      "source_path": "converted/sections/07-股权投资基金的项目退出/01-项目退出概述.md",
+      "target_path": "converted/fables/07-股权投资基金的项目退出/01-项目退出概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/07-股权投资基金的项目退出/01-项目退出概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/07-股权投资基金的项目退出/01-项目退出概述.md"
+    },
+    {
+      "id": "07-上市转让退出",
+      "chapter_dir": "07-股权投资基金的项目退出",
+      "file": "02-上市转让退出.md",
+      "title": "第二节 上市转让退出",
+      "source_path": "converted/sections/07-股权投资基金的项目退出/02-上市转让退出.md",
+      "target_path": "converted/fables/07-股权投资基金的项目退出/02-上市转让退出.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/07-股权投资基金的项目退出/02-上市转让退出.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/07-股权投资基金的项目退出/02-上市转让退出.md"
+    },
+    {
+      "id": "07-挂牌转让退出",
+      "chapter_dir": "07-股权投资基金的项目退出",
+      "file": "03-挂牌转让退出.md",
+      "title": "第三节 挂牌转让退出",
+      "source_path": "converted/sections/07-股权投资基金的项目退出/03-挂牌转让退出.md",
+      "target_path": "converted/fables/07-股权投资基金的项目退出/03-挂牌转让退出.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/07-股权投资基金的项目退出/03-挂牌转让退出.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/07-股权投资基金的项目退出/03-挂牌转让退出.md"
+    },
+    {
+      "id": "07-协议转让退出",
+      "chapter_dir": "07-股权投资基金的项目退出",
+      "file": "04-协议转让退出.md",
+      "title": "第四节 协议转让退出",
+      "source_path": "converted/sections/07-股权投资基金的项目退出/04-协议转让退出.md",
+      "target_path": "converted/fables/07-股权投资基金的项目退出/04-协议转让退出.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/07-股权投资基金的项目退出/04-协议转让退出.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/07-股权投资基金的项目退出/04-协议转让退出.md"
+    },
+    {
+      "id": "07-清算退出",
+      "chapter_dir": "07-股权投资基金的项目退出",
+      "file": "05-清算退出.md",
+      "title": "第五节 清算退出",
+      "source_path": "converted/sections/07-股权投资基金的项目退出/05-清算退出.md",
+      "target_path": "converted/fables/07-股权投资基金的项目退出/05-清算退出.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/07-股权投资基金的项目退出/05-清算退出.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/07-股权投资基金的项目退出/05-清算退出.md"
+    },
+    {
+      "id": "08-股权投资基金治理概述",
+      "chapter_dir": "08-股权投资基金治理",
+      "file": "01-股权投资基金治理概述.md",
+      "title": "第一节 股权投资基金治理概述",
+      "source_path": "converted/sections/08-股权投资基金治理/01-股权投资基金治理概述.md",
+      "target_path": "converted/fables/08-股权投资基金治理/01-股权投资基金治理概述.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/08-股权投资基金治理/01-股权投资基金治理概述.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/08-股权投资基金治理/01-股权投资基金治理概述.md"
+    },
+    {
+      "id": "08-股权投资基金治理主要原则",
+      "chapter_dir": "08-股权投资基金治理",
+      "file": "02-股权投资基金治理主要原则.md",
+      "title": "第二节 股权投资基金治理主要原则",
+      "source_path": "converted/sections/08-股权投资基金治理/02-股权投资基金治理主要原则.md",
+      "target_path": "converted/fables/08-股权投资基金治理/02-股权投资基金治理主要原则.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/08-股权投资基金治理/02-股权投资基金治理主要原则.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/08-股权投资基金治理/02-股权投资基金治理主要原则.md"
+    },
+    {
+      "id": "08-股权投资基金内部治理",
+      "chapter_dir": "08-股权投资基金治理",
+      "file": "03-股权投资基金内部治理.md",
+      "title": "第三节 股权投资基金内部治理",
+      "source_path": "converted/sections/08-股权投资基金治理/03-股权投资基金内部治理.md",
+      "target_path": "converted/fables/08-股权投资基金治理/03-股权投资基金内部治理.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/08-股权投资基金治理/03-股权投资基金内部治理.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/08-股权投资基金治理/03-股权投资基金内部治理.md"
+    },
+    {
+      "id": "09-股权投资基金权益登记",
+      "chapter_dir": "09-股权投资基金的运营管理",
+      "file": "01-股权投资基金权益登记.md",
+      "title": "第一节 股权投资基金权益登记",
+      "source_path": "converted/sections/09-股权投资基金的运营管理/01-股权投资基金权益登记.md",
+      "target_path": "converted/fables/09-股权投资基金的运营管理/01-股权投资基金权益登记.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/09-股权投资基金的运营管理/01-股权投资基金权益登记.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/09-股权投资基金的运营管理/01-股权投资基金权益登记.md"
+    },
+    {
+      "id": "09-股权投资基金托管",
+      "chapter_dir": "09-股权投资基金的运营管理",
+      "file": "02-股权投资基金托管.md",
+      "title": "第二节 股权投资基金托管",
+      "source_path": "converted/sections/09-股权投资基金的运营管理/02-股权投资基金托管.md",
+      "target_path": "converted/fables/09-股权投资基金的运营管理/02-股权投资基金托管.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/09-股权投资基金的运营管理/02-股权投资基金托管.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/09-股权投资基金的运营管理/02-股权投资基金托管.md"
+    },
+    {
+      "id": "09-股权投资基金的估值核算与业绩评价",
+      "chapter_dir": "09-股权投资基金的运营管理",
+      "file": "03-股权投资基金的估值核算与业绩评价.md",
+      "title": "第三节 股权投资基金的估值核算与业绩评价",
+      "source_path": "converted/sections/09-股权投资基金的运营管理/03-股权投资基金的估值核算与业绩评价.md",
+      "target_path": "converted/fables/09-股权投资基金的运营管理/03-股权投资基金的估值核算与业绩评价.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/09-股权投资基金的运营管理/03-股权投资基金的估值核算与业绩评价.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/09-股权投资基金的运营管理/03-股权投资基金的估值核算与业绩评价.md"
+    },
+    {
+      "id": "09-股权投资基金的税收",
+      "chapter_dir": "09-股权投资基金的运营管理",
+      "file": "04-股权投资基金的税收.md",
+      "title": "第四节 股权投资基金的税收",
+      "source_path": "converted/sections/09-股权投资基金的运营管理/04-股权投资基金的税收.md",
+      "target_path": "converted/fables/09-股权投资基金的运营管理/04-股权投资基金的税收.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/09-股权投资基金的运营管理/04-股权投资基金的税收.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/09-股权投资基金的运营管理/04-股权投资基金的税收.md"
+    },
+    {
+      "id": "09-股权投资基金的收益分配与账面分摊",
+      "chapter_dir": "09-股权投资基金的运营管理",
+      "file": "05-股权投资基金的收益分配与账面分摊.md",
+      "title": "第五节 股权投资基金的收益分配与账面分摊",
+      "source_path": "converted/sections/09-股权投资基金的运营管理/05-股权投资基金的收益分配与账面分摊.md",
+      "target_path": "converted/fables/09-股权投资基金的运营管理/05-股权投资基金的收益分配与账面分摊.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/09-股权投资基金的运营管理/05-股权投资基金的收益分配与账面分摊.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/09-股权投资基金的运营管理/05-股权投资基金的收益分配与账面分摊.md"
+    },
+    {
+      "id": "09-投资者退出与股权投资基金的清算",
+      "chapter_dir": "09-股权投资基金的运营管理",
+      "file": "06-投资者退出与股权投资基金的清算.md",
+      "title": "第六节 投资者退出与股权投资基金的清算",
+      "source_path": "converted/sections/09-股权投资基金的运营管理/06-投资者退出与股权投资基金的清算.md",
+      "target_path": "converted/fables/09-股权投资基金的运营管理/06-投资者退出与股权投资基金的清算.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/09-股权投资基金的运营管理/06-投资者退出与股权投资基金的清算.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/09-股权投资基金的运营管理/06-投资者退出与股权投资基金的清算.md"
+    },
+    {
+      "id": "09-股权投资基金信息披露与信息报送",
+      "chapter_dir": "09-股权投资基金的运营管理",
+      "file": "07-股权投资基金信息披露与信息报送.md",
+      "title": "第七节 股权投资基金信息披露与信息报送",
+      "source_path": "converted/sections/09-股权投资基金的运营管理/07-股权投资基金信息披露与信息报送.md",
+      "target_path": "converted/fables/09-股权投资基金的运营管理/07-股权投资基金信息披露与信息报送.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/09-股权投资基金的运营管理/07-股权投资基金信息披露与信息报送.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/09-股权投资基金的运营管理/07-股权投资基金信息披露与信息报送.md"
+    },
+    {
+      "id": "09-股权投资基金争议解决",
+      "chapter_dir": "09-股权投资基金的运营管理",
+      "file": "08-股权投资基金争议解决.md",
+      "title": "第八节 股权投资基金争议解决",
+      "source_path": "converted/sections/09-股权投资基金的运营管理/08-股权投资基金争议解决.md",
+      "target_path": "converted/fables/09-股权投资基金的运营管理/08-股权投资基金争议解决.md",
+      "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/09-股权投资基金的运营管理/08-股权投资基金争议解决.md",
+      "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/09-股权投资基金的运营管理/08-股权投资基金争议解决.md"
+    }
+  ]
+}
