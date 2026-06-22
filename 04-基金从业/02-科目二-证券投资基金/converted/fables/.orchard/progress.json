@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T17:35:00+08:00",
+  "last_updated": "2026-06-22T13:33:06",
   "scan_mode": "fable-files-real-granularity",
   "sections": {
     "01-03-01": {
@@ -3103,6 +3103,102 @@
       "source_path": "converted/sections/18-基金销售基础知识/01-基金投资者/08-普通专业投资者转化.md",
       "source_exists": false,
       "target_path": "converted/fables/18-基金销售基础知识/01-基金投资者/08-普通专业投资者转化.md"
+    },
+    "13-03-01": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出/01-资产管理计划的募集程序.md",
+      "source_exists": true,
+      "target_path": "converted/fables/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出/01-资产管理计划的募集程序.md"
+    },
+    "13-03-02": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出/02-资产管理计划的成立与备案.md",
+      "source_exists": true,
+      "target_path": "converted/fables/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出/02-资产管理计划的成立与备案.md"
+    },
+    "13-03-03": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出/03-资产管理计划的参与、退出和转让.md",
+      "source_exists": true,
+      "target_path": "converted/fables/13-基金的募集、交易与登记/03-私募资产管理计划的募集、备案及份额参与退出/03-资产管理计划的参与、退出和转让.md"
+    },
+    "13-04-01": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎/01-私募证券投资基金的募集.md",
+      "source_exists": true,
+      "target_path": "converted/fables/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎/01-私募证券投资基金的募集.md"
+    },
+    "13-04-02": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎/02-私募证券投资基金的备案.md",
+      "source_exists": true,
+      "target_path": "converted/fables/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎/02-私募证券投资基金的备案.md"
+    },
+    "13-04-03": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎/03-私募证券投资基金的申购、赎回与转让.md",
+      "source_exists": true,
+      "target_path": "converted/fables/13-基金的募集、交易与登记/04-私募证券投资基金的募集、备案及份额申赎/03-私募证券投资基金的申购、赎回与转让.md"
+    },
+    "13-05-01": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/05-基金的份额登记与资金结算/01-基金份额登记的概念.md",
+      "source_exists": true,
+      "target_path": "converted/fables/13-基金的募集、交易与登记/05-基金的份额登记与资金结算/01-基金份额登记的概念.md"
+    },
+    "13-05-02": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/05-基金的份额登记与资金结算/02-基金注册登记机构及其职责.md",
+      "source_exists": true,
+      "target_path": "converted/fables/13-基金的募集、交易与登记/05-基金的份额登记与资金结算/02-基金注册登记机构及其职责.md"
+    },
+    "13-05-03": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/05-基金的份额登记与资金结算/03-基金份额登记流程.md",
+      "source_exists": true,
+      "target_path": "converted/fables/13-基金的募集、交易与登记/05-基金的份额登记与资金结算/03-基金份额登记流程.md"
+    },
+    "13-05-04": {
+      "status": "done",
+      "source_path": "converted/sections/13-基金的募集、交易与登记/05-基金的份额登记与资金结算/04-申购和赎回的资金结算.md",
+      "source_exists": true,
+      "target_path": "converted/fables/13-基金的募集、交易与登记/05-基金的份额登记与资金结算/04-申购和赎回的资金结算.md"
+    },
+    "17-01-01": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/01-基金信息披露概述/01-基金信息披露的含义与作用.md",
+      "source_exists": true,
+      "target_path": "converted/fables/17-基金的信息披露/01-基金信息披露概述/01-基金信息披露的含义与作用.md"
+    },
+    "17-01-02": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/01-基金信息披露概述/02-基金信息披露的原则和制度体系.md",
+      "source_exists": true,
+      "target_path": "converted/fables/17-基金的信息披露/01-基金信息披露概述/02-基金信息披露的原则和制度体系.md"
+    },
+    "17-01-03": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/01-基金信息披露概述/03-基金信息披露的内容.md",
+      "source_exists": true,
+      "target_path": "converted/fables/17-基金的信息披露/01-基金信息披露概述/03-基金信息披露的内容.md"
+    },
+    "17-01-04": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/01-基金信息披露概述/04-基金信息披露的禁止行为.md",
+      "source_exists": true,
+      "target_path": "converted/fables/17-基金的信息披露/01-基金信息披露概述/04-基金信息披露的禁止行为.md"
+    },
+    "17-06-01": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/06-私募基金的信息披露/01-私募基金信息披露的特点.md",
+      "source_exists": true,
+      "target_path": "converted/fables/17-基金的信息披露/06-私募基金的信息披露/01-私募基金信息披露的特点.md"
+    },
+    "17-06-02": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/06-私募基金的信息披露/02-私募基金信息披露的特殊事项.md",
+      "source_exists": true,
+      "target_path": "converted/fables/17-基金的信息披露/06-私募基金的信息披露/02-私募基金信息披露的特殊事项.md"
     }
   }
 }

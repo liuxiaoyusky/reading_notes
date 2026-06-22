@@ -36,3 +36,18 @@ Orchard initialized with 60 sections.
 
 ## 2026-06-18T19:01:12.059267+08:00
 2026-06-18 19:00 方案 B 完成：13 节 → 49 个 fable 全部生成（25 + 24 两批 subagent 跑完）。orchard status: 517/517 done（468 旧 + 49 新）。progress.md 同步 119 done。completeness_report.md 标记 13 节 fable 补全。已知小毛病：subagent 把'/'当路径分隔导致 2 个文件名带空格/顿号代替，但内容齐全。
+
+## 2026-06-22T13:33:06+08:00
+2026-06-22 批 3 串行完成：5 节 → 16 个 fable 全部生成（按用户「一个 subagent 一节、串行启动」的策略执行）。
+- 13-03 私募资产管理计划 (3 fables:募集程序/成立备案/参与退出转让)
+- 13-04 私募证券投资基金募集 (3 fables:募集/备案/申购赎回转让)
+- 13-05 基金份额登记与资金结算 (4 fables:概念/机构职责/流程 T/T+1/QDII T+2/FoF T+3/资金结算 货基 T+1 FOF T+5 QDII T+7)
+- 17-01 基金信息披露概述 (4 fables:含义作用「阳光是最好的消毒剂」/原则与四层制度体系/内容/禁止行为)
+- 17-06 私募基金信息披露 (2 fables:特点/特殊事项)
+
+manifest total_sections 517 → 533。progress.json 同步 16 条 done。orchard status: 533/533 done。文件系统：568 个 fable 文件已落地（含目录型放置 + 部分章节根目录型放置）。
+
+附加备注：
+- 12-04 基金风格分析已存在 5 个 fable（killed 后实际已完成落盘），无需重跑。
+- 16-02 基金税收、17-02 当事人信息披露义务 实际已存在 2/3 个合格 fable（spec 误判为 pending）。
+- 12-01/12-06/12-07 在上一会话已生成，4 个 fables 各节，contents 全合格。
