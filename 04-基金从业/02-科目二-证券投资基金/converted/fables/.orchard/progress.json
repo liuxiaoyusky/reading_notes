@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22T13:33:06",
+  "last_updated": "2026-06-22T14:25:09",
   "scan_mode": "fable-files-real-granularity",
   "sections": {
     "01-03-01": {
@@ -2248,27 +2248,27 @@
     },
     "11-01-01": {
       "status": "done",
-      "source_path": "converted/sections/11-投资风险管理/01-投资风险概述/01-投资风险概述与风险类型.md",
-      "source_exists": false,
-      "target_path": "converted/fables/11-投资风险管理/01-投资风险概述/01-投资风险概述与风险类型.md"
+      "source_path": "converted/sections/11-投资风险管理/01-投资风险概述/01-市场风险.md",
+      "source_exists": true,
+      "target_path": "converted/fables/11-投资风险管理/01-投资风险概述/01-市场风险.md"
     },
     "11-01-02": {
       "status": "done",
-      "source_path": "converted/sections/11-投资风险管理/01-投资风险概述/02-风险的相互作用和传导.md",
-      "source_exists": false,
-      "target_path": "converted/fables/11-投资风险管理/01-投资风险概述/02-风险的相互作用和传导.md"
+      "source_path": "converted/sections/11-投资风险管理/01-投资风险概述/02-信用风险.md",
+      "source_exists": true,
+      "target_path": "converted/fables/11-投资风险管理/01-投资风险概述/02-信用风险.md"
     },
     "11-01-03": {
       "status": "done",
-      "source_path": "converted/sections/11-投资风险管理/01-投资风险概述/03-风险指标.md",
-      "source_exists": false,
-      "target_path": "converted/fables/11-投资风险管理/01-投资风险概述/03-风险指标.md"
+      "source_path": "converted/sections/11-投资风险管理/01-投资风险概述/03-流动性风险.md",
+      "source_exists": true,
+      "target_path": "converted/fables/11-投资风险管理/01-投资风险概述/03-流动性风险.md"
     },
     "11-01-04": {
       "status": "done",
-      "source_path": "converted/sections/11-投资风险管理/01-投资风险概述/04-风险价值与预期损失.md",
-      "source_exists": false,
-      "target_path": "converted/fables/11-投资风险管理/01-投资风险概述/04-风险价值与预期损失.md"
+      "source_path": "converted/sections/11-投资风险管理/01-投资风险概述/04-风险的相互作用和传导.md",
+      "source_exists": true,
+      "target_path": "converted/fables/11-投资风险管理/01-投资风险概述/04-风险的相互作用和传导.md"
     },
     "11-01-05": {
       "status": "done",
@@ -2384,30 +2384,6 @@
       "source_exists": false,
       "target_path": "converted/fables/12-基金业绩评价/02-基金业绩评价指标/05-时机选择能力与多因子模型.md"
     },
-    "12-07-01": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/01-全球投资业绩标准.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/01-全球投资业绩标准.md"
-    },
-    "12-07-02": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/02-GIPS收益率计算.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/02-GIPS收益率计算.md"
-    },
-    "12-07-03": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/03-GIPS合规鉴证.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/03-GIPS合规鉴证.md"
-    },
-    "12-07-04": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/04-GIPS本土化应用.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/04-GIPS本土化应用.md"
-    },
     "12-05-01": {
       "status": "done",
       "source_path": "converted/sections/12-基金业绩评价/05-基金管理人分析/01-基金管理人分析.md",
@@ -2455,60 +2431,6 @@
       "source_path": "converted/sections/12-基金业绩评价/05-基金管理人分析/08-可持续投资实践.md",
       "source_exists": false,
       "target_path": "converted/fables/12-基金业绩评价/05-基金管理人分析/08-可持续投资实践.md"
-    },
-    "12-04-01": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/04-基金风格分析/01-基金风格分析与风格漂移.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/04-基金风格分析/01-基金风格分析与风格漂移.md"
-    },
-    "12-04-02": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/04-基金风格分析/02-基金投资风格的形成.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/04-基金风格分析/02-基金投资风格的形成.md"
-    },
-    "12-04-03": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/04-基金风格分析/03-基金风格漂移.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/04-基金风格分析/03-基金风格漂移.md"
-    },
-    "12-04-04": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/04-基金风格分析/04-基于组合构成.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/04-基金风格分析/04-基于组合构成.md"
-    },
-    "12-04-05": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/04-基金风格分析/05-基于收益特征.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/04-基金风格分析/05-基于收益特征.md"
-    },
-    "12-06-01": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/06-基金评价业务体系/01-基金评价业务体系.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/06-基金评价业务体系/01-基金评价业务体系.md"
-    },
-    "12-06-02": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/06-基金评价业务体系/02-评价原则.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/06-基金评价业务体系/02-评价原则.md"
-    },
-    "12-06-03": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/06-基金评价业务体系/03-评价指标计算.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/06-基金评价业务体系/03-评价指标计算.md"
-    },
-    "12-06-04": {
-      "status": "done",
-      "source_path": "converted/sections/12-基金业绩评价/06-基金评价业务体系/04-评价结果发布.md",
-      "source_exists": false,
-      "target_path": "converted/fables/12-基金业绩评价/06-基金评价业务体系/04-评价结果发布.md"
     },
     "12-03-01": {
       "status": "done",
@@ -2930,24 +2852,6 @@
       "source_exists": true,
       "target_path": "converted/fables/17-基金的信息披露/06-私募基金的信息披露.md"
     },
-    "17-02-02": {
-      "status": "done",
-      "source_path": "converted/sections/17-基金的信息披露/02-基金主要当事人的信息披露义务/02-基金管理人的信息披露义务.md",
-      "source_exists": false,
-      "target_path": "converted/fables/17-基金的信息披露/02-基金主要当事人的信息披露义务/02-基金管理人的信息披露义务.md"
-    },
-    "17-02-03": {
-      "status": "done",
-      "source_path": "converted/sections/17-基金的信息披露/02-基金主要当事人的信息披露义务/03-基金托管人披露义务.md",
-      "source_exists": false,
-      "target_path": "converted/fables/17-基金的信息披露/02-基金主要当事人的信息披露义务/03-基金托管人披露义务.md"
-    },
-    "17-02-04": {
-      "status": "done",
-      "source_path": "converted/sections/17-基金的信息披露/02-基金主要当事人的信息披露义务/04-基金份额持有人披露义务.md",
-      "source_exists": false,
-      "target_path": "converted/fables/17-基金的信息披露/02-基金主要当事人的信息披露义务/04-基金份额持有人披露义务.md"
-    },
     "17-05-01": {
       "status": "done",
       "source_path": "converted/sections/17-基金的信息披露/05-特殊类型基金的信息披露/01-QDII 基金的信息披露.md",
@@ -3199,6 +3103,126 @@
       "source_path": "converted/sections/17-基金的信息披露/06-私募基金的信息披露/02-私募基金信息披露的特殊事项.md",
       "source_exists": true,
       "target_path": "converted/fables/17-基金的信息披露/06-私募基金的信息披露/02-私募基金信息披露的特殊事项.md"
+    },
+    "12-07-01": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/01-GIPS的主要目标.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/01-GIPS的主要目标.md"
+    },
+    "12-07-02": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/02-GIPS的特点.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/02-GIPS的特点.md"
+    },
+    "12-07-03": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/03-GIPS对输入数据的相关规定.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/03-GIPS对输入数据的相关规定.md"
+    },
+    "12-07-04": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/04-GIPS 收益率计算的相关规定.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/04-GIPS 收益率计算的相关规定.md"
+    },
+    "12-07-05": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/05-GIPS对组合群设定的相关规定.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/05-GIPS对组合群设定的相关规定.md"
+    },
+    "12-07-06": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/06-GIPS信息披露与报告展示的相关规定.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/06-GIPS信息披露与报告展示的相关规定.md"
+    },
+    "12-07-07": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/07-GIPS 另类资产及单独管理账户的业绩标准.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/07-GIPS 另类资产及单独管理账户的业绩标准.md"
+    },
+    "12-07-08": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/08-GIPS合规鉴证.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/08-GIPS合规鉴证.md"
+    },
+    "12-07-09": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/07-全球投资业绩标准/09-GIPS的本土化应用原则.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/07-全球投资业绩标准/09-GIPS的本土化应用原则.md"
+    },
+    "12-04-01": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/04-基金风格分析/01-基金投资风格的形成.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/04-基金风格分析/01-基金投资风格的形成.md"
+    },
+    "12-04-02": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/04-基金风格分析/02-基于组合构成的风格分析.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/04-基金风格分析/02-基于组合构成的风格分析.md"
+    },
+    "12-04-03": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/04-基金风格分析/03-基于收益特征的风格分析.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/04-基金风格分析/03-基于收益特征的风格分析.md"
+    },
+    "12-04-04": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/04-基金风格分析/04-基金风格漂移.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/04-基金风格分析/04-基金风格漂移.md"
+    },
+    "12-06-01": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/06-基金评价业务体系/01-基金评价业务概述.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/06-基金评价业务体系/01-基金评价业务概述.md"
+    },
+    "12-06-02": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/06-基金评价业务体系/02-基金评价的原则.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/06-基金评价业务体系/02-基金评价的原则.md"
+    },
+    "12-06-03": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/06-基金评价业务体系/03-基金评价业务的主要环节.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/06-基金评价业务体系/03-基金评价业务的主要环节.md"
+    },
+    "12-06-04": {
+      "status": "done",
+      "source_path": "converted/sections/12-基金业绩评价/06-基金评价业务体系/04-基金评价业务体系的重要性和作用.md",
+      "source_exists": true,
+      "target_path": "converted/fables/12-基金业绩评价/06-基金评价业务体系/04-基金评价业务体系的重要性和作用.md"
+    },
+    "17-02-01": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/02-基金主要当事人的信息披露义务/01-基金管理人的信息披露义务.md",
+      "source_exists": true,
+      "target_path": "converted/fables/17-基金的信息披露/02-基金主要当事人的信息披露义务/01-基金管理人的信息披露义务.md"
+    },
+    "17-02-02": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/02-基金主要当事人的信息披露义务/02-基金托管人的信息披露义务.md",
+      "source_exists": true,
+      "target_path": "converted/fables/17-基金的信息披露/02-基金主要当事人的信息披露义务/02-基金托管人的信息披露义务.md"
+    },
+    "17-02-03": {
+      "status": "done",
+      "source_path": "converted/sections/17-基金的信息披露/02-基金主要当事人的信息披露义务/03-基金份额持有人的信息披露义务.md",
+      "source_exists": true,
+      "target_path": "converted/fables/17-基金的信息披露/02-基金主要当事人的信息披露义务/03-基金份额持有人的信息披露义务.md"
     }
   }
 }
