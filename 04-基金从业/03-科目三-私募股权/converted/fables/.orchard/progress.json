@@ -1,8 +1,8 @@
 {
   "schema_version": "h1-fab-v1",
   "total": 724,
-  "done": 33,
-  "pending": 691,
+  "done": 1,
+  "pending": 723,
   "records": [
     {
       "id": "001",
@@ -2844,9 +2844,11 @@
       "h1_title": "（一）参考最近融资价格法",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/09-（一）参考最近融资价格法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/09-（一）参考最近融资价格法.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true,
+      "done": true,
+      "completed_at": "2026-06-24 01:20:54"
     },
     {
       "id": "317",
