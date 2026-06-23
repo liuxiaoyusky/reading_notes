@@ -3,8 +3,8 @@
   "book_title": "股权投资基金",
   "schema_version": "h1-fab-v1",
   "total_fables": 724,
-  "done_count": 327,
-  "pending_count": 397,
+  "done_count": 330,
+  "pending_count": 394,
   "fables": [
     {
       "id": "001",
@@ -6234,9 +6234,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/21-3.现金流折现法的优点和不足.md",
       "source_line": 269,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "329",
@@ -6253,9 +6253,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/22-（二）红利折现模型.md",
       "source_line": 275,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "330",
@@ -6272,9 +6272,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/23-（三）股权自由现金流折现模型.md",
       "source_line": 287,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "331",

@@ -305,3 +305,17 @@
 教训:subagent 跑 `git add <path>` 的 `path` 必须 quote 正确,且 commit 前要 `git status` 确认 staged 列表只含目标文件,严禁 `git add .` 或 `git add -A` 或 `git commit -a`。HANDOVER 应在 prompt 模板里强调"git add 后必须 git status 检查"。
 
 下一批待派:328/329/330。
+
+## 2026-06-24T01:53:45 — 派 fab id=328/329/330 全数完成 + 4b06097 拆 commit 修复
+
+派 3 个 subagent 并发,各自完成落盘 + git commit:
+- id=329 《（二）红利折现模型》/ SHA 8b39702 / 53 insertions / 干净 1-file commit
+- id=330 《（三）股权自由现金流折现模型 ——《钱老板买面馆》》/ 文件实际写入但 commit 4b06097 错 message(原写 fab 21)
+- id=328 《3. 现金流折现法的优点和不足》/ 文件实际写入但 commit 4b06097 错 message(同上)
+
+⚠️ 4b06097 是 ERR-20260624-001 污染的"变异"——subagent 326 当时把所有 working tree 改动一起 add,导致 fab 21 + fab 23 文件被 commit 到同一个 message "feat: 《3. 现金流折现法的优点和不足》" 的 2-file commit 里。
+修复:reset --hard 2ead1ad 回到干净点 → 从 4b06097 提取 21/23 文件 + 从 8b39702 提取 22 文件 → 重新做 3 个 1-file commit:8abc177 (fab 21) + 129db6f (fab 22) + 85fc27e (fab 23)。
+
+subagent 纪律强化提示在 prompt 末尾显式要求 "git diff --cached --stat 校验 1 file",id=329 接受了该提示且回报了校验结果。
+
+下一批待派:331/332/333。
