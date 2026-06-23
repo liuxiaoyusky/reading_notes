@@ -1,0 +1,208 @@
+{
+  "project_root": "/Users/xiaoyuliu/Documents/github/reading_notes/111-置身钉内",
+  "book_title": "置身钉内",
+  "total_fables": 9,
+  "fables": [
+    {
+      "id": "ch00",
+      "chapter_dir": "00-序章",
+      "chapter_title": "序章",
+      "source_files": [
+        "converted/sections/00-序章/01-置身钉内.md",
+        "converted/sections/00-序章/02-楔：钉钉是一只⾬燕.md",
+        "converted/sections/00-序章/03-ONE是一个怎样的项⽬.md",
+        "converted/sections/00-序章/04-本⽂是一篇怎样的内容.md",
+        "converted/sections/00-序章/05-FBI Warning （补充说明）.md"
+      ],
+      "target_path": "converted/fables/00-序章/01-序章.md",
+      "core_concept_hint": "产品人为什么会写一份这样的反思文：在高强度环境做产品一年后，把'变行'和'常数'都记下来。"
+    },
+    {
+      "id": "ch01",
+      "chapter_dir": "01-发心第一",
+      "chapter_title": "发心第一",
+      "source_files": [
+        "converted/sections/01-发心第一/01-个九背景.md",
+        "converted/sections/01-发心第一/02-最美逆行者.md",
+        "converted/sections/01-发心第一/03-前情结算.md",
+        "converted/sections/01-发心第一/04-学徒.md",
+        "converted/sections/01-发心第一/05-ONE 的发心.md"
+      ],
+      "target_path": "converted/fables/01-发心第一/01-发心第一.md",
+      "core_concept_hint": "产品的'发心'是发起人最原始的动机。发心决定了它在帮助世界/物质回报/成就自我之间的取舍。"
+    },
+    {
+      "id": "ch02",
+      "chapter_dir": "02-定位第二",
+      "chapter_title": "定位第二",
+      "source_files": [
+        "converted/sections/02-定位第二/01-什么是产品定位.md",
+        "converted/sections/02-定位第二/02-所设想的典型⼯作场景.md",
+        "converted/sections/02-定位第二/03-每天更新，从不缺席.md",
+        "converted/sections/02-定位第二/04-September 25.md",
+        "converted/sections/02-定位第二/05-A Guide to Europe's Busiest Airport.md",
+        "converted/sections/02-定位第二/06-两个影响用户定位的关键决策.md",
+        "converted/sections/02-定位第二/07-竞争定位⸺_为什么是我们.md",
+        "converted/sections/02-定位第二/08-I. 为什么是钉钉.md",
+        "converted/sections/02-定位第二/09-II. 为什么是 ONE ⸺或者说，为什么不得不用 AI.md"
+      ],
+      "target_path": "converted/fables/02-定位第二/01-定位第二.md",
+      "core_concept_hint": "产品定位不是'我们要做什么'，而是'为什么是我们 / 为什么是现在 / 凭什么用户选我们'。"
+    },
+    {
+      "id": "ch03",
+      "chapter_dir": "03-设计第三",
+      "chapter_title": "设计第三",
+      "source_files": [
+        "converted/sections/03-设计第三/01-卡⽚形态的必要性讨论.md",
+        "converted/sections/03-设计第三/02-待办拾遗.md",
+        "converted/sections/03-设计第三/03-设为待办.md",
+        "converted/sections/03-设计第三/04-卡⽚设计的风险.md",
+        "converted/sections/03-设计第三/05-文库 创作 发现 对话 我的.md",
+        "converted/sections/03-设计第三/06-IM 消息如何寄身卡⽚.md",
+        "converted/sections/03-设计第三/07-IM消息在ONE呈现的必要性讨论.md",
+        "converted/sections/03-设计第三/08-落成移动端.md",
+        "converted/sections/03-设计第三/09-曾经 PC 难为⽔.md",
+        "converted/sections/03-设计第三/10-二、问题现状（客户角度）.md",
+        "converted/sections/03-设计第三/11-实时性问题.md",
+        "converted/sections/03-设计第三/12-731所有影响可用的卡点.md",
+        "converted/sections/03-设计第三/13-【P0】.md",
+        "converted/sections/03-设计第三/14-重要性排序.md",
+        "converted/sections/03-设计第三/15-已读恐怖主义.md",
+        "converted/sections/03-设计第三/16-TODAY.md",
+        "converted/sections/03-设计第三/17-箭派.md",
+        "converted/sections/03-设计第三/18-州租房群（公.md",
+        "converted/sections/03-设计第三/19-A1员工内.md",
+        "converted/sections/03-设计第三/20-卡⽚的可玩性.md",
+        "converted/sections/03-设计第三/21-工作¹.md",
+        "converted/sections/03-设计第三/22-今日金句.md",
+        "converted/sections/03-设计第三/23-对标原场域.md",
+        "converted/sections/03-设计第三/24-拉起键盘后可视区域大小_235.md",
+        "converted/sections/03-设计第三/25-消息详情页.md",
+        "converted/sections/03-设计第三/26-导航栏大头像_478.md",
+        "converted/sections/03-设计第三/27-小头像：575.md",
+        "converted/sections/03-设计第三/28-• 拉起键盘后可视区域大小.md",
+        "converted/sections/03-设计第三/29-成本问题.md",
+        "converted/sections/03-设计第三/30-[反思]实时性数据__AI.md",
+        "converted/sections/03-设计第三/31-1. ONE中[搜索-发消息链路].md",
+        "converted/sections/03-设计第三/32-寻找甜区.md",
+        "converted/sections/03-设计第三/33-默认值的权⼒：平台产品不能只靠主厨审美.md",
+        "converted/sections/03-设计第三/34-9_41.md",
+        "converted/sections/03-设计第三/35-Inbox.md",
+        "converted/sections/03-设计第三/36-Aditi Jain.md",
+        "converted/sections/03-设计第三/37-放弃⼤包⼤揽.md",
+        "converted/sections/03-设计第三/38-⼩结：形式不该凌驾于内容.md"
+      ],
+      "target_path": "converted/fables/03-设计第三/01-设计第三.md",
+      "core_concept_hint": "AI 原生产品里，所有信息呈现形态'卡片化'是必然选择——但卡片也有边界(不能把什么都塞进去)。"
+    },
+    {
+      "id": "ch04",
+      "chapter_dir": "04-用户第四",
+      "chapter_title": "用户第四",
+      "source_files": [
+        "converted/sections/04-用户第四/01-用户如何买单离场.md",
+        "converted/sections/04-用户第四/02-1、【对标原本要花时间】.md",
+        "converted/sections/04-用户第四/03-2、【对标原本要花钱】.md",
+        "converted/sections/04-用户第四/04-3、【对标原本可能有损失】.md",
+        "converted/sections/04-用户第四/05-4、【特殊视觉交互】.md",
+        "converted/sections/04-用户第四/06-预期与履约.md",
+        "converted/sections/04-用户第四/07-钉钉的共创⽂化.md",
+        "converted/sections/04-用户第四/08-泥泞的用户现场.md",
+        "converted/sections/04-用户第四/09-当内测玩家，不是正式服玩家.md",
+        "converted/sections/04-用户第四/10-当用户说谎.md",
+        "converted/sections/04-用户第四/11-当设计在计划外的用户群体奏效.md"
+      ],
+      "target_path": "converted/fables/04-用户第四/01-用户第四.md",
+      "core_concept_hint": "产品必须想清楚用户为什么付钱、什么时候离开——这两件事决定产品生死。"
+    },
+    {
+      "id": "ch05",
+      "chapter_dir": "05-敏捷第五",
+      "chapter_title": "敏捷第五",
+      "source_files": [
+        "converted/sections/05-敏捷第五/01-迭代与汇报节奏.md",
+        "converted/sections/05-敏捷第五/02-每⽇一包.md",
+        "converted/sections/05-敏捷第五/03-汇报技巧.md",
+        "converted/sections/05-敏捷第五/04-[复盘]如何汇报招sir.md",
+        "converted/sections/05-敏捷第五/05-⽂牍先行.md"
+      ],
+      "target_path": "converted/fables/05-敏捷第五/01-敏捷第五.md",
+      "core_concept_hint": "快速迭代 + 透明汇报 是 AI 产品在不确定环境里活下来的节奏。"
+    },
+    {
+      "id": "ch06",
+      "chapter_dir": "06-秩序第六",
+      "chapter_title": "秩序第六",
+      "source_files": [
+        "converted/sections/06-秩序第六/01-什么是钉钉的优先级.md",
+        "converted/sections/06-秩序第六/02-时间在哪，爱就在哪.md",
+        "converted/sections/06-秩序第六/03-错误的注意⼒导致错花的时间.md",
+        "converted/sections/06-秩序第六/04-基于 Scrum的陟罚臧否.md",
+        "converted/sections/06-秩序第六/05-什么是Scrum.md",
+        "converted/sections/06-秩序第六/06-短期和长期臧否.md",
+        "converted/sections/06-秩序第六/07-何者？.md",
+        "converted/sections/06-秩序第六/08-上有政策，下有对策.md",
+        "converted/sections/06-秩序第六/09-AI带来的管理变⾰.md",
+        "converted/sections/06-秩序第六/10-失落的中层.md",
+        "converted/sections/06-秩序第六/11-⼜要⻢十跑，⼜要⻢十不吃草.md",
+        "converted/sections/06-秩序第六/12-体验报告.md",
+        "converted/sections/06-秩序第六/13-流⽔线逻辑能否管理创造性劳动.md",
+        "converted/sections/06-秩序第六/14-雅典学院v.s.⻄点军校.md",
+        "converted/sections/06-秩序第六/15-服从性测试.md",
+        "converted/sections/06-秩序第六/16-挣扎试用期.md",
+        "converted/sections/06-秩序第六/17-2. 线下实体业态走访(B端直面）.md",
+        "converted/sections/06-秩序第六/18-村上千层蛋糕.md",
+        "converted/sections/06-秩序第六/19-⾃驱才能顿悟.md"
+      ],
+      "target_path": "converted/fables/06-秩序第六/01-秩序第六.md",
+      "core_concept_hint": "在组织资源永远不够的情况下，优先级不是排序题，而是'敢砍什么'的选择题。"
+    },
+    {
+      "id": "ch07",
+      "chapter_dir": "07-军争第七",
+      "chapter_title": "军争第七",
+      "source_files": [
+        "converted/sections/07-军争第七/01-事以密成.md",
+        "converted/sections/07-军争第七/02-望舒(书)行动.md",
+        "converted/sections/07-军争第七/03-⻄南航空：战略在于放弃.md"
+      ],
+      "target_path": "converted/fables/07-军争第七/01-军争第七.md",
+      "core_concept_hint": "战略级项目的事以密成——为什么保密、为什么要快速集中兵力。"
+    },
+    {
+      "id": "ch08",
+      "chapter_dir": "08-长期第八",
+      "chapter_title": "长期第八",
+      "source_files": [
+        "converted/sections/08-长期第八/01-THE 2028 GLOBAL INTELLIGENCE CRISIS.md",
+        "converted/sections/08-长期第八/02-Preface.md",
+        "converted/sections/08-长期第八/03-The 2028 Global Intelligence Crisis.md",
+        "converted/sections/08-长期第八/04-快就是慢，慢就是快.md",
+        "converted/sections/08-长期第八/05-不得不单独拎出来提一下健康问题.md",
+        "converted/sections/08-长期第八/06-⻆⾊模糊化.md",
+        "converted/sections/08-长期第八/07-一些同事们的⼩传.md",
+        "converted/sections/08-长期第八/08-第一个 leader.md",
+        "converted/sections/08-长期第八/09-实际负责ONE最久的产品负责九.md",
+        "converted/sections/08-长期第八/10-敢于快速下判断的产品.md",
+        "converted/sections/08-长期第八/11-秉笔设计.md",
+        "converted/sections/08-长期第八/12-「钉钉不培养」设计.md",
+        "converted/sections/08-长期第八/13-尾声：做泰坦尼克号的⽔⼿.md",
+        "converted/sections/08-长期第八/14-三条⻩⾦法则.md",
+        "converted/sections/08-长期第八/15-五个关键概念.md",
+        "converted/sections/08-长期第八/16-1. Compliments are Poison.md",
+        "converted/sections/08-长期第八/17-2. Commitment & Advancement.md",
+        "converted/sections/08-长期第八/18-3. 寻找真相的三层挖掘法.md",
+        "converted/sections/08-长期第八/19-4. 避免三种致命错误.md",
+        "converted/sections/08-长期第八/20-5. 对话的正确结构.md",
+        "converted/sections/08-长期第八/21-实操要点.md",
+        "converted/sections/08-长期第八/22-1. 找对九.md",
+        "converted/sections/08-长期第八/23-2. 对话场景设置.md",
+        "converted/sections/08-长期第八/24-1. 记录与整理.md",
+        "converted/sections/08-长期第八/25-⼗句精髓.md"
+      ],
+      "target_path": "converted/fables/08-长期第八/01-长期第八.md",
+      "core_concept_hint": "AI 时代的产品人必须用长期视角看：3-5 年后的'常识危机'会反过来决定今天的产品形态。"
+    }
+  ]
+}
