@@ -3,8 +3,8 @@
   "book_title": "股权投资基金",
   "schema_version": "h1-fab-v1",
   "total_fables": 724,
-  "done_count": 316,
-  "pending_count": 408,
+  "done_count": 318,
+  "pending_count": 406,
   "fables": [
     {
       "id": "001",
@@ -6025,9 +6025,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/10-（二）市场乘数法.md",
       "source_line": 85,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "318",
@@ -6044,9 +6044,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/11-1.市盈率.md",
       "source_line": 111,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "319",

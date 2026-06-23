@@ -1,8 +1,8 @@
 {
   "schema_version": "h1-fab-v1",
   "total": 724,
-  "done": 316,
-  "pending": 408,
+  "done": 318,
+  "pending": 406,
   "records": [
     {
       "id": "001",
@@ -2855,18 +2855,18 @@
       "h1_title": "（二）市场乘数法",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/10-（二）市场乘数法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/10-（二）市场乘数法.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "318",
       "h1_title": "1. 市盈率",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/11-1.市盈率.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/11-1.市盈率.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "319",
@@ -6523,5 +6523,5 @@
       "file_exists": false
     }
   ],
-  "last_updated": "2026-06-24T01:27:39"
+  "last_updated": "2026-06-24T01:32:14"
 }
