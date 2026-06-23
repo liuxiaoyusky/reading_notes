@@ -3,8 +3,8 @@
   "book_title": "股权投资基金",
   "schema_version": "h1-fab-v1",
   "total_fables": 724,
-  "done_count": 36,
-  "pending_count": 688,
+  "done_count": 60,
+  "pending_count": 664,
   "fables": [
     {
       "id": "001",
@@ -192,9 +192,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/02-股权投资基金的基本运作模式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/01-一、股权投资基金的基本架构.md",
       "source_line": 9,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "011",
@@ -211,9 +211,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/02-股权投资基金的基本运作模式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/02-二、股权投资基金的运作流程.md",
       "source_line": 23,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "012",
@@ -230,9 +230,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/02-股权投资基金的基本运作模式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/03-三、股权投资基金运作中的关键要素.md",
       "source_line": 41,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "013",
@@ -306,9 +306,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/02-股权投资基金的基本运作模式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/07-（四）基金的投资范围、投资策略和投资限制.md",
       "source_line": 65,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "017",
@@ -344,9 +344,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/01-一、股权投资基金当事人.md",
       "source_line": 9,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "019",
@@ -420,9 +420,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/05-二、股权投资基金市场服务机构.md",
       "source_line": 49,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "023",
@@ -553,9 +553,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/12-三、股权投资基金监管机构和自律组织.md",
       "source_line": 109,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "030",
@@ -572,9 +572,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/13-（一）监管机构.md",
       "source_line": 119,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "031",
@@ -591,9 +591,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/14-1.股权投资基金监管的概念.md",
       "source_line": 121,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "032",
@@ -610,9 +610,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/15-2.股权投资基金监管的特征.md",
       "source_line": 133,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "033",
@@ -629,9 +629,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/16-3.股权投资基金监管的目标.md",
       "source_line": 137,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "034",
@@ -648,9 +648,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/17-4.股权投资基金监管的基本原则.md",
       "source_line": 153,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "035",
@@ -667,9 +667,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/18-（二）行业自律管理组织.md",
       "source_line": 183,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "036",
@@ -686,9 +686,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/19-1.股权投资基金行业自律的概念.md",
       "source_line": 185,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "037",
@@ -705,9 +705,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/20-2.股权投资基金行业自律与政府监管的关系.md",
       "source_line": 193,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "038",
@@ -724,9 +724,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/21-(1)行业自律与政府监管的联系.md",
       "source_line": 197,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "039",
@@ -743,9 +743,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/22-(2)行业自律与政府监管的区别.md",
       "source_line": 205,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "040",
@@ -762,9 +762,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/03-股权投资基金市场参与主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/23-3.股权投资基金行业自律的重要性.md",
       "source_line": 213,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "041",
@@ -800,9 +800,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/04-股权投资基金的起源和发展.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/04-股权投资基金的起源和发展/02-二、我国股权投资基金发展历史.md",
       "source_line": 23,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "043",
@@ -819,9 +819,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/04-股权投资基金的起源和发展.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/04-股权投资基金的起源和发展/03-（三）规范化发展阶段（2018年至今）.md",
       "source_line": 45,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "044",
@@ -838,9 +838,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/01-股权投资基金概述/04-股权投资基金的起源和发展.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/04-股权投资基金的起源和发展/04-三、我国股权投资基金行业发展现状和趋势.md",
       "source_line": 55,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "045",
@@ -1028,9 +1028,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/02-股权投资基金管理人/01-股权投资基金管理人概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/07-(五)人员.md",
       "source_line": 49,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "055",
@@ -1066,9 +1066,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/02-股权投资基金管理人/01-股权投资基金管理人概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/09-(七)管理人登记.md",
       "source_line": 61,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "057",
@@ -1104,9 +1104,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/02-股权投资基金管理人/01-股权投资基金管理人概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/11-（一）基金管理人在基金中的角色.md",
       "source_line": 67,
-      "file_exists": false,
+      "file_exists": true,
       "task_done_flag": false,
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": "059",
