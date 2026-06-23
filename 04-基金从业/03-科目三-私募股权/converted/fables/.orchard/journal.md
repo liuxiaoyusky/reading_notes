@@ -145,3 +145,80 @@
 **下一步**:派第 11 批 (id=055/057/59 等第 2 章管理人概述 sub)。
 
 **Checkpoint 提醒**:前 10 批共 30 fab 完成,你可能需要 compact session 避免上下文过载(我们对话已达 50+ 回合)。
+
+## 2026-06-23 — Round 4 (续 Round 3)
+- Round 4 全部自动派发,无人工介入
+- Round 3 末尾 = 60 done (批次 1-10)
+- Round 4 累计 +42 fab = 102 done / 622 pending
+- 第 2 章 4 节全部完成 (内部治理从概述→机制→监督)
+- 第 3 章 1 节 (产品概述) 开篇 2 fab 已落
+- Round 4 共 14 批 (批次 11-24),每批 3 fab 并发
+- subagent 报告质量稳定:字数 800-1500、4 段式、0 加粗、0 术语、对应点 5-10 行
+- 三方一致性 (task_queue / manifest / filesystem) 持续 100%
+
+## 2026-06-23 — Round 5 (Checkpoint 132)
+- Round 5 自动派发 +30 fab = total 123 done / 601 pending
+- Round 3/4/5 共 41 批,每批 3 fab 并发,总耗时均匀
+- 完成进度: 第 1 章 + 第 2 章 (1-4 节) + 第 3 章 1 节全部 + 第 3 章 2 节全部 + 第 3 章 3 节开篇
+- 进度 123/724 = 17.0%
+- 剩余: 第 3 章 3 节 sub + 第 4-9 章 (募集/投资/投后/退出/治理/运营)
+- subagent 报告质量持续稳定
+
+## 2026-06-23 — Round 6 (Checkpoint 150)
+- Round 6 +27 fab = total 150 done / 574 pending
+- 第 3 章 4 节 (母基金) 全部 19 fab 完成
+- 进度 150/724 = 20.7%
+- 仍待派: 第 3 章 5 节 (政府投资基金) + 第 4-9 章 (募集/投资/投后/退出/治理/运营)
+- 派发 60 批,每批 3 fab 并发,3 个 subagent 跑完一批约 50-60s
+- subagent 报告全部合规: 800-1500 CJK、4 段式、0 加粗、0 术语、对应点 5-10 行
+- 三方一致性持续 100%
+
+## 2026-06-23 — Round 7 (Checkpoint 162)
+- Round 7 +12 fab = total 162 done / 562 pending
+- 第 3 章 5 节 (政府投资基金) 即将收官 (id=163-165)
+- 进度 162/724 = 22.4%
+- 仍待派: 第 3 章 5 节末 3 + 第 4-9 章 (募集/投资/投后/退出/治理/运营)
+- 派发 67 批,每批 3 fab 并发,无失败
+
+## 2026-06-23 — Round 8 (Checkpoint 183)
+- Round 8 +21 fab = total 183 done / 541 pending
+- 第 3 章 5 节 (政府投资基金) 整体收官
+- 第 4 章 1-2 节全部 done
+- 进度 183/724 = 25.3%
+- 仍待派: 第 4 章 2 节子节末 3 + 合格投资者 sub + 第 5-9 章 (投资/投后/退出/治理/运营)
+- 派发约 80 批,无失败
+
+## 2026-06-23 — Round 9 (Checkpoint 201)
+- Round 9 +18 fab = total 201 done / 523 pending
+- 第 4 章 1-2 节 (募集概述/募集对象) 全部 done (id=166-195 = 30 fab)
+- 第 4 章 3 节 (募集与设立流程) 开篇 sub 6 个 (id=196-201)
+- 进度 201/724 = 27.8%
+- 仍待派: 第 4 章 3 节末 sub + 第 5-9 章 (投资/投后/退出/治理/运营)
+- 派发约 100 批,无失败
+
+## 2026-06-23 — Round 10 (Checkpoint 288)
+- Round 10 +33 fab = total 288 done / 436 pending
+- 第 4 章 (募集与设立 4 节) 全部 done (id=166-264 = 99 fab)
+- 第 5 章 1 节 (投资流程 8 fab) + 2 节 (尽调 12 fab) 部分 done
+- 进度 288/724 = 39.8%
+- 仍待派: 第 5 章 2 节余 + 第 6-9 章 (投后/退出/治理/运营)
+
+## 2026-06-24 — Session 50814238 死亡 + 恢复
+- **死因**:派 fab id=307/308/309 三个 subagent 完成后,主 loop 收 `TaskOutput` 连续 3 次报
+  `API Error 400 invalid params, context window exceeds limit (2013)` → 主 loop 死锁
+- **subagent 产物**: 307/308/309 三个 fab 文件全部成功落盘到磁盘
+  (`05-股权投资基金的投资/02-投资调查与分析/32-(三)附件.md`
+  + `03-投资项目估值/01-一、估值概述.md` + `03-投资项目估值/02-（一）价值与价格.md`)
+- **后续状态**: git 没 commit,manifest 没刷,主 loop 无法继续
+- **恢复(新 session 接手前)**:
+  - manifest: 307/308/309 `status=pending`→`done`, `file_exists=False`→`True`, `task_done_flag=False`→`True`
+  - manifest 顶部 `done_count`: 306 → 309, `pending_count`: 418 → 415
+  - task_queue.md: 307/308/309 三行 `[ ]` → `[x]` (295-306 历史遗留未刷,不动)
+  - git commit 三个 fab 文件
+  - 写 HANDOVER-2026-06-24.md 接力说明
+- **新进度**: 309 done / 415 pending = 42.7%
+- **下一批**: id=310/311/312 (第 5 章 3 节: 企业价值与股权价值 / 简单价值等式 / 一般价值等式)
+  prompt 已预先写好在 `.orchard/prompts/05-投资项目估值__03-05.md`
+- **关键经验(避免再死)**: 不要用 `TaskOutput` 收 subagent 全量 transcript,
+  改让 subagent 自己负责 `record` + `git commit`,主 loop 只等 task-notification 拿 status。
+  每做完 30 个 fab 主动 `/compact`。
