@@ -1,8 +1,8 @@
 {
   "schema_version": "h1-fab-v1",
   "total": 724,
-  "done": 321,
-  "pending": 403,
+  "done": 324,
+  "pending": 400,
   "records": [
     {
       "id": "001",
@@ -2900,27 +2900,27 @@
       "h1_title": "5. 市净率",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/15-5.市净率.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/15-5.市净率.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "323",
       "h1_title": "（三）行业指标法",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/16-（三）行业指标法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/16-（三）行业指标法.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "324",
       "h1_title": "三、收益法",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/17-三、收益法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/17-三、收益法.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "325",
@@ -6523,5 +6523,5 @@
       "file_exists": false
     }
   ],
-  "last_updated": "2026-06-24T01:35:26"
+  "last_updated": "2026-06-24T01:38:19"
 }
