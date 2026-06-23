@@ -1,8 +1,8 @@
 {
   "schema_version": "h1-fab-v1",
   "total": 724,
-  "done": 330,
-  "pending": 394,
+  "done": 333,
+  "pending": 391,
   "records": [
     {
       "id": "001",
@@ -2981,27 +2981,27 @@
       "h1_title": "（四）企业自由现金流折现模型",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/24-（四）企业自由现金流折现模型.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/24-（四）企业自由现金流折现模型.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "332",
       "h1_title": "四、成本法",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/25-四、成本法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/25-四、成本法.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "333",
       "h1_title": "（一）账面价值法",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/26-（一）账面价值法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/26-（一）账面价值法.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "334",
@@ -6523,5 +6523,5 @@
       "file_exists": false
     }
   ],
-  "last_updated": "2026-06-24T01:53:45"
+  "last_updated": "2026-06-24T01:57:13"
 }

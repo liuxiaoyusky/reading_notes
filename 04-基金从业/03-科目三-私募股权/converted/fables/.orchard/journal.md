@@ -319,3 +319,14 @@
 subagent 纪律强化提示在 prompt 末尾显式要求 "git diff --cached --stat 校验 1 file",id=329 接受了该提示且回报了校验结果。
 
 下一批待派:331/332/333。
+
+## 2026-06-24T01:57:13 — 派 fab id=331/332/333 全数完成 (主 loop 刷状态,3 个 1-file commit 干净)
+
+派 3 个 subagent 并发,各自完成落盘 + git commit:
+- id=331 《（四）企业自由现金流折现模型 ——《两家人合卖铺》》/ SHA b258a51 / 1305 CJK / 94 insertions
+- id=332 《四、成本法 ——《老钱的织坊账本》》/ SHA 2a2a29a / 579 CJK / 36 insertions
+- id=333 《（一）账面价值法 ——《老陶查账》》/ SHA 5cc77fa / 822 CJK / 57 insertions
+
+3 个 subagent 全部接受 git 纪律,主 loop show --stat 复核确认 1-file commit。
+
+下一批待派:334/335/336 (重置成本法/清算价值法/风险资本估值法)。
