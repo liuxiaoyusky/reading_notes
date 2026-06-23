@@ -85,6 +85,19 @@ Keep original text and interpretation separate:
 - When uncertain, surface the uncertainty and ask instead of guessing silently.
 - Keep unrelated cleanup out of scope.
 
+## Self-Improvement Log (`.learnings/`)
+
+This project runs the `self-improving-agent` skill (template at `~/.claude/skills/self-improving-agent/`).
+
+- All entries are tracked in git and shared (no `.gitignore` exclusion).
+- Log location: `.learnings/`
+  - `LEARNINGS.md` — corrections, knowledge gaps, best practices
+  - `ERRORS.md` — command/tool failures
+  - `FEATURE_REQUESTS.md` — capabilities the user asked for
+  - `INDEX.md` — one-line-per-entry quick reference
+- When the user corrects you, an error recurs, a knowledge gap is exposed, or a better approach surfaces, append an entry to the matching file using the skill's template.
+- Promote recurring patterns (Recurrence-Count ≥ 3, ≥ 2 tasks, ≤ 30 days) into this file or `AGENTS.md` as short rules, then mark the entry `promoted`.
+
 ## Study Program Folders (基金从业 / CFA / IIQE 备考)
 
 Folders named `0N-...` at the top level of this repo are study programs, not books. They keep raw materials under `sources/` and derived working copies under `converted/`. Books live at the `NNN-...` (100+) level and follow different conventions.
