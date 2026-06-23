@@ -252,3 +252,13 @@
 注意:id=312 subagent 自行刷 progress.json 但刷到错 id(316),3 个 subagent 都没刷 manifest.json。
 本 loop 在 task-notification 后手动刷 manifest + progress.json + journal。
 下一批待派:313/314/315。
+
+## 2026-06-24T01:27:39 — 派 fab id=313/314/315 全数完成 (主 loop 刷状态)
+
+派 3 个 subagent 并发,各自完成落盘 + git commit:
+- id=313 《1. 市盈率》/ SHA 129388c / 523 CJK
+- id=314 《2. 企业价值 - 息税前利润》/ SHA 58b58bb / 1201 CJK
+- id=315 《3. 企业价值 - 息税折旧摊销前利润》/ SHA 71b8a14 / 902 CJK
+
+本次 subagent 接受了"不刷 manifest / progress.json"的指令,未发生上次 id=316 写错的问题。
+下一批待派:316/317/318。

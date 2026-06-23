@@ -1,8 +1,8 @@
 {
   "schema_version": "h1-fab-v1",
   "total": 724,
-  "done": 313,
-  "pending": 411,
+  "done": 316,
+  "pending": 408,
   "records": [
     {
       "id": "001",
@@ -2817,27 +2817,27 @@
       "h1_title": "（三）投资前价值与投资后价值",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/06-（三）投资前价值与投资后价值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/06-（三）投资前价值与投资后价值.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "314",
       "h1_title": "（四）常用估值方法",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/07-（四）常用估值方法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/07-（四）常用估值方法.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "315",
       "h1_title": "二、市场法",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/08-二、市场法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/08-二、市场法.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "316",
@@ -6523,5 +6523,5 @@
       "file_exists": false
     }
   ],
-  "last_updated": "2026-06-24T15:30:00"
+  "last_updated": "2026-06-24T01:27:39"
 }
