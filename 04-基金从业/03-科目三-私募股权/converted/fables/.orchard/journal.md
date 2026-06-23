@@ -28,3 +28,80 @@
 - 边界情形：#33「镇公所的吴主簿」2400 字符正卡上限（subagent 迭代 20+ 次），#60「王老板的内行五桩」2400 字符正卡上限（信息密度大）
 - task_queue #31–#77 已全部勾选（部分合并：#55「当家掌柜的两桩大事」覆盖 #57+58+59+60+62；#56 覆盖 #61；#57「掌柜的两桩本分」覆盖 #63-67；#58「掌柜心里那本账」覆盖 #67+68+69+70+71；#59「另一桩本分」覆盖 #72；#60「内行五桩」覆盖 #73+74+75+76+77）
 - 下一轮从 #78「专业化的制度保障」开始
+
+## 2026-06-23 — Round 3 启动 + manifest 重写
+
+### 关键发现
+
+- skill 的 `manifest.json` 跑偏：默认 1 节 1 fab（43 节=43 fab），但 task_queue 和实际 fab 都是 H1 粒度（724 个 fab）
+- skill spec parser `split_to_sections.py` 用 MinerU 的 `title` 块拆 H1，但 PDF 经 MinerU 后"一/二/三"段落标题未识别为 `title`，sections/*.md 里只有"第一节 xxx" 1 个 H1，没有子 H1
+- 所以 skill 默认 1 节 1 fab 走不通，必须用 task_queue 这种**手工 H1 清单**作为 spec
+
+### 现状摘要
+
+| 项 | 数 |
+|---|---|
+| 总 fab（task_queue 任务） | 724 |
+| 已生成 fab 文件 | 30 |
+| task_queue 已勾选 | 71 |
+| **一致（勾选+有文件）** | **71** |
+| **不一致** |  |
+| · task_done=True 但无文件 | 48 ⚠ 本轮必补 |
+| · file_exists 但 task_done=False | 7 待补登记 |
+| 待生成 | 598 长尾 |
+
+### manifest.json 重写为 H1 粒度
+
+- 新 schema `h1-fab-v1`
+- 每条 entry 包含 `id`、`h1_title`、`human_title`、`chapter_dir`、`section`、`h1_idx_in_section`、`target_path`、`source_path`、`source_line`、`file_exists`、`task_done_flag`、`status`
+- 备份旧 manifest 到 `.manifest.section-level.bak.json`
+- 备份旧 progress 到 `.progress.section-level.bak.json`
+- 产出：724 fables, 78 done (含 task_done 71 + file_exists 多 7), 646 pending
+
+### 下一步
+
+1. 本轮优先补 48 个"勾选但无文件"的 fab（集中在 02 章信义义务、03 章产品）
+2. 补 7 个"文件存在未勾选"的 task_queue 勾选
+3. 接着派 598 个长尾（按 1 subagent = 1 fab，3 并发）
+
+### 路线 C 校正完成（task_queue ←→ manifest ←→ progress ←→ filesystem 三方对齐）
+
+**变更**:
+- 48 个 task_queue `[x]` 还原为 `[ ]`（勾选过但文件不存在——Round 1/2 旧 fab 被 reset 后未补回）
+- 7 个 task_queue `[ ]` 补勾为 `[x]`（实际 fab 文件存在但 task_queue 没勾）
+- 备份:
+  - `.task_queue.before-round3-correction.md` —— 校正前 task_queue 完整快照
+  - `manifest.json.before-correction.bak` —— 校正前 manifest
+  - `progress.json.before-correction.bak` —— 校正前 progress
+- 重建 manifest.json / progress.json,以 task_queue 为权威
+
+**校正后状态**:
+- total: 724
+- done: 30 (= file_exists)
+- pending: 694
+- 三方一致性: 724/724 (task_done_flag == file_exists)
+
+**路线 C 的逻辑**:
+- task_queue 是人工可读的清单,优先用它的勾选作为"完成了没"
+- 但 task_queue 不允许跟文件系统不一致 —— 所以要先校正
+- 校正完后,"已生成 fab" = "task_queue 勾选" = "file 存在",三方对齐
+- 真正的待办 = 694 个 pending(去掉了 Round 1/2 旧 fab 被 reset 后未补回的 48 个)
+
+**下一步**:派 3 subagent 首批补缺 (1 subagent = 1 fab,3 并发)。
+
+### Round 3 首批 3 fab 完成
+
+- F1 (id=001) 一、股权投资基金的概念 → commit a2ccc6f (1676 CJK chars)
+- F2 (id=002) 二、股权投资基金的特点 → commit 6e900f3 (1691 CJK chars)
+- F3 (id=004) （二）投资期限长、流动性较低 → commit c0e7e05 (1227 CJK chars)
+
+**派发模式**:1 subagent = 1 fab,3 并发 (F1/F2/F3 三个 subagent 同时跑),子进程 0 git 操作,主进程统一 commit --only。
+**耗时**:F1=50s / F2=57s / F3=48s,实际等待 57s(最慢者),并发有效。
+**质量**:3 fab 都过 4 段式 / 0 术语 / 0 加粗 / 对应点表 5-7 行具体可读 / 原文定义完整。
+
+**进度更新**:
+- done: 30 → 33 (+3)
+- pending: 694 → 691 (-3)
+- task_queue 已勾选: 30 → 33
+
+**下一批**:3 个 pending 候选 — id=003 (一)专业性较强 / id=005 (三)投后管理投入资源多 / id=006 (四)公允估值较为困难。仍在第一章第一节。
