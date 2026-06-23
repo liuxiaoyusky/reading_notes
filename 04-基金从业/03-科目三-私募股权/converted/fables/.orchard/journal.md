@@ -240,3 +240,15 @@
 - **commit SHA**: 9ba9555
 - **进度**: manifest done_count 66 → 67, progress.json id 316 done=True
 - **下一批**: 第 5 章 3 节剩余 fab: 一般价值等式 / 价值乘数法 / 其他估值方法等
+
+## 2026-06-24T01:23:01 — 本 session 恢复后派 fab id=310/311/312 全数完成
+
+派 3 个 subagent 并发,各自完成落盘 + git commit:
+
+- id=310 《（三）投资前价值与投资后价值》/ SHA e72d602 / 723 CJK
+- id=311 《（四）常用估值方法》/ SHA 1e85037 / 885 CJK
+- id=312 《（一）参考最近融资价格法》/ SHA 9ba9555 / 1583 CJK
+
+注意:id=312 subagent 自行刷 progress.json 但刷到错 id(316),3 个 subagent 都没刷 manifest.json。
+本 loop 在 task-notification 后手动刷 manifest + progress.json + journal。
+下一批待派:313/314/315。

@@ -1,8 +1,8 @@
 {
   "schema_version": "h1-fab-v1",
   "total": 724,
-  "done": 1,
-  "pending": 723,
+  "done": 313,
+  "pending": 411,
   "records": [
     {
       "id": "001",
@@ -10,7 +10,7 @@
       "target_path": "converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/01-一、股权投资基金的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/01-一、股权投资基金的概念.md",
       "status": "done",
-      "task_done_flag": false,
+      "task_done_flag": true,
       "file_exists": true
     },
     {
@@ -19,7 +19,7 @@
       "target_path": "converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/02-二、股权投资基金的特点.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/02-二、股权投资基金的特点.md",
       "status": "done",
-      "task_done_flag": false,
+      "task_done_flag": true,
       "file_exists": true
     },
     {
@@ -37,7 +37,7 @@
       "target_path": "converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/04-（二）投资期限长、流动性较低.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/04-（二）投资期限长、流动性较低.md",
       "status": "done",
-      "task_done_flag": false,
+      "task_done_flag": true,
       "file_exists": true
     },
     {
@@ -45,18 +45,18 @@
       "h1_title": "（三）投后管理投入资源较多",
       "target_path": "converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/05-（三）投后管理投入资源较多.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/05-（三）投后管理投入资源较多.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "006",
       "h1_title": "（四）公允估值较为困难",
       "target_path": "converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/06-（四）公允估值较为困难.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/06-（四）公允估值较为困难.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "007",
@@ -72,9 +72,9 @@
       "h1_title": "（六）信息不对称较为严重",
       "target_path": "converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/08-（六）信息不对称较为严重.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/01-股权投资基金的概念和特点/08-（六）信息不对称较为严重.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "009",
@@ -90,27 +90,27 @@
       "h1_title": "一、股权投资基金的基本架构",
       "target_path": "converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/01-一、股权投资基金的基本架构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/01-一、股权投资基金的基本架构.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "011",
       "h1_title": "二、股权投资基金的运作流程",
       "target_path": "converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/02-二、股权投资基金的运作流程.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/02-二、股权投资基金的运作流程.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "012",
       "h1_title": "三、股权投资基金运作中的关键要素",
       "target_path": "converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/03-三、股权投资基金运作中的关键要素.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/03-三、股权投资基金运作中的关键要素.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "013",
@@ -144,9 +144,9 @@
       "h1_title": "（四）基金的投资范围、投资策略和投资限制",
       "target_path": "converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/07-（四）基金的投资范围、投资策略和投资限制.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/02-股权投资基金的基本运作模式/07-（四）基金的投资范围、投资策略和投资限制.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "017",
@@ -162,9 +162,9 @@
       "h1_title": "一、股权投资基金当事人",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/01-一、股权投资基金当事人.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/01-一、股权投资基金当事人.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "019",
@@ -198,9 +198,9 @@
       "h1_title": "二、股权投资基金市场服务机构",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/05-二、股权投资基金市场服务机构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/05-二、股权投资基金市场服务机构.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "023",
@@ -261,108 +261,108 @@
       "h1_title": "三、股权投资基金监管机构和自律组织",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/12-三、股权投资基金监管机构和自律组织.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/12-三、股权投资基金监管机构和自律组织.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "030",
       "h1_title": "（一）监管机构",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/13-（一）监管机构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/13-（一）监管机构.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "031",
       "h1_title": "1. 股权投资基金监管的概念",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/14-1.股权投资基金监管的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/14-1.股权投资基金监管的概念.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "032",
       "h1_title": "2. 股权投资基金监管的特征",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/15-2.股权投资基金监管的特征.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/15-2.股权投资基金监管的特征.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "033",
       "h1_title": "3. 股权投资基金监管的目标",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/16-3.股权投资基金监管的目标.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/16-3.股权投资基金监管的目标.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "034",
       "h1_title": "4. 股权投资基金监管的基本原则",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/17-4.股权投资基金监管的基本原则.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/17-4.股权投资基金监管的基本原则.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "035",
       "h1_title": "（二）行业自律管理组织",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/18-（二）行业自律管理组织.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/18-（二）行业自律管理组织.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "036",
       "h1_title": "1. 股权投资基金行业自律的概念",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/19-1.股权投资基金行业自律的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/19-1.股权投资基金行业自律的概念.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "037",
       "h1_title": "2. 股权投资基金行业自律与政府监管的关系",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/20-2.股权投资基金行业自律与政府监管的关系.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/20-2.股权投资基金行业自律与政府监管的关系.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "038",
       "h1_title": "(1) 行业自律与政府监管的联系",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/21-(1)行业自律与政府监管的联系.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/21-(1)行业自律与政府监管的联系.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "039",
       "h1_title": "(2) 行业自律与政府监管的区别",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/22-(2)行业自律与政府监管的区别.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/22-(2)行业自律与政府监管的区别.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "040",
       "h1_title": "3. 股权投资基金行业自律的重要性",
       "target_path": "converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/23-3.股权投资基金行业自律的重要性.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/03-股权投资基金市场参与主体/23-3.股权投资基金行业自律的重要性.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "041",
@@ -378,27 +378,27 @@
       "h1_title": "二、我国股权投资基金发展历史",
       "target_path": "converted/fables/01-股权投资基金概述/04-股权投资基金的起源和发展/02-二、我国股权投资基金发展历史.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/04-股权投资基金的起源和发展/02-二、我国股权投资基金发展历史.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "043",
       "h1_title": "（三）规范化发展阶段（2018年至今）",
       "target_path": "converted/fables/01-股权投资基金概述/04-股权投资基金的起源和发展/03-（三）规范化发展阶段（2018年至今）.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/04-股权投资基金的起源和发展/03-（三）规范化发展阶段（2018年至今）.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "044",
       "h1_title": "三、我国股权投资基金行业发展现状和趋势",
       "target_path": "converted/fables/01-股权投资基金概述/04-股权投资基金的起源和发展/04-三、我国股权投资基金行业发展现状和趋势.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/01-股权投资基金概述/04-股权投资基金的起源和发展/04-三、我国股权投资基金行业发展现状和趋势.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "045",
@@ -486,9 +486,9 @@
       "h1_title": "(五) 人员",
       "target_path": "converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/07-(五)人员.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/07-(五)人员.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "055",
@@ -504,9 +504,9 @@
       "h1_title": "(七) 管理人登记",
       "target_path": "converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/09-(七)管理人登记.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/09-(七)管理人登记.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "057",
@@ -522,17 +522,17 @@
       "h1_title": "（一）基金管理人在基金中的角色",
       "target_path": "converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/11-（一）基金管理人在基金中的角色.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/11-（一）基金管理人在基金中的角色.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "059",
       "h1_title": "1. 投资管理服务",
       "target_path": "converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/12-1.投资管理服务.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/12-1.投资管理服务.md",
-      "status": "pending",
-      "task_done_flag": false,
+      "status": "done",
+      "task_done_flag": true,
       "file_exists": false
     },
     {
@@ -540,8 +540,8 @@
       "h1_title": "2. 基金运营服务",
       "target_path": "converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/13-2.基金运营服务.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/13-2.基金运营服务.md",
-      "status": "pending",
-      "task_done_flag": false,
+      "status": "done",
+      "task_done_flag": true,
       "file_exists": false
     },
     {
@@ -549,8 +549,8 @@
       "h1_title": "（二）基金管理人与相关主体的区分",
       "target_path": "converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/14-（二）基金管理人与相关主体的区分.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/14-（二）基金管理人与相关主体的区分.md",
-      "status": "pending",
-      "task_done_flag": false,
+      "status": "done",
+      "task_done_flag": true,
       "file_exists": false
     },
     {
@@ -558,9 +558,9 @@
       "h1_title": "（三）基金管理人的职责",
       "target_path": "converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/15-（三）基金管理人的职责.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/01-股权投资基金管理人概述/15-（三）基金管理人的职责.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "063",
@@ -576,81 +576,81 @@
       "h1_title": "（一）信义义务的概念",
       "target_path": "converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/02-（一）信义义务的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/02-（一）信义义务的概念.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "065",
       "h1_title": "1. 信义关系",
       "target_path": "converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/03-1.信义关系.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/03-1.信义关系.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "066",
       "h1_title": "（二）信义义务的重要性",
       "target_path": "converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/04-（二）信义义务的重要性.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/04-（二）信义义务的重要性.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "067",
       "h1_title": "二、基金管理人履行信义义务的核心要求",
       "target_path": "converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/05-二、基金管理人履行信义义务的核心要求.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/05-二、基金管理人履行信义义务的核心要求.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "068",
       "h1_title": "（一）基金管理人的忠实义务",
       "target_path": "converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/06-（一）基金管理人的忠实义务.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/06-（一）基金管理人的忠实义务.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "069",
       "h1_title": "1. 关联交易与投资机会分配",
       "target_path": "converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/07-1.关联交易与投资机会分配.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/07-1.关联交易与投资机会分配.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "070",
       "h1_title": "2. 基金费用与收益分配",
       "target_path": "converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/08-2.基金费用与收益分配.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/08-2.基金费用与收益分配.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "071",
       "h1_title": "4. 合规义务",
       "target_path": "converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/09-4.合规义务.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/09-4.合规义务.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "072",
       "h1_title": "（二）基金管理人的勤勉义务",
       "target_path": "converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/10-（二）基金管理人的勤勉义务.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/02-股权投资基金管理人的信义义务/10-（二）基金管理人的勤勉义务.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "073",
@@ -666,2151 +666,2151 @@
       "h1_title": "(一) 行业",
       "target_path": "converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/02-(一)行业.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/02-(一)行业.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "075",
       "h1_title": "（二）企业管理",
       "target_path": "converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/03-（二）企业管理.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/03-（二）企业管理.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "076",
       "h1_title": "（四）财务分析",
       "target_path": "converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/04-（四）财务分析.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/04-（四）财务分析.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "077",
       "h1_title": "（五）资本市场",
       "target_path": "converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/05-（五）资本市场.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/05-（五）资本市场.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "078",
       "h1_title": "二、专业化的制度保障",
       "target_path": "converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/06-二、专业化的制度保障.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/06-二、专业化的制度保障.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "079",
       "h1_title": "（一）法律法规和自律规则",
       "target_path": "converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/07-（一）法律法规和自律规则.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/07-（一）法律法规和自律规则.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "080",
       "h1_title": "（二）管理人内部制度",
       "target_path": "converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/08-（二）管理人内部制度.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/08-（二）管理人内部制度.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "081",
       "h1_title": "1. 投资管理体系",
       "target_path": "converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/09-1.投资管理体系.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/09-1.投资管理体系.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "082",
       "h1_title": "2. 考核评价与激励约束机制",
       "target_path": "converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/10-2.考核评价与激励约束机制.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/03-股权投资基金管理人的专业要求/10-2.考核评价与激励约束机制.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "083",
       "h1_title": "一、基金管理人内部治理概述",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/01-一、基金管理人内部治理概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/01-一、基金管理人内部治理概述.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "084",
       "h1_title": "二、基金管理人内部治理原则",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/02-二、基金管理人内部治理原则.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/02-二、基金管理人内部治理原则.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "085",
       "h1_title": "三、基金管理人内部治理结构",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/03-三、基金管理人内部治理结构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/03-三、基金管理人内部治理结构.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "086",
       "h1_title": "（一）基金管理人的组织形式与内部治理结构",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/04-（一）基金管理人的组织形式与内部治理结构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/04-（一）基金管理人的组织形式与内部治理结构.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "087",
       "h1_title": "（二）公司型基金管理人的内部治理结构",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/05-（二）公司型基金管理人的内部治理结构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/05-（二）公司型基金管理人的内部治理结构.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "088",
       "h1_title": "（三）合伙型基金管理人的内部治理结构",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/06-（三）合伙型基金管理人的内部治理结构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/06-（三）合伙型基金管理人的内部治理结构.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "089",
       "h1_title": "（四）基金管理人常见组织架构",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/07-（四）基金管理人常见组织架构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/07-（四）基金管理人常见组织架构.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "090",
       "h1_title": "1. 投资部",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/08-1.投资部.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/08-1.投资部.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "091",
       "h1_title": "(7) 发现风险后, 及时向风控合规部门提交重大问题报告等;",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/09-(7)发现风险后,及时向风控合规部门提交重大问题报告等;.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/09-(7)发现风险后,及时向风控合规部门提交重大问题报告等;.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "092",
       "h1_title": "2. 风险控制与合规部（风控部）",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/10-2.风险控制与合规部（风控部）.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/10-2.风险控制与合规部（风控部）.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "093",
       "h1_title": "3. 投资者关系部",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/11-3.投资者关系部.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/11-3.投资者关系部.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "094",
       "h1_title": "5. 财务审计部",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/12-5.财务审计部.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/12-5.财务审计部.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "095",
       "h1_title": "四、基金管理人内部治理机制",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/13-四、基金管理人内部治理机制.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/13-四、基金管理人内部治理机制.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "096",
       "h1_title": "(一) 决策机制",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/14-(一)决策机制.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/14-(一)决策机制.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "097",
       "h1_title": "1. 决策权",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/15-1.决策权.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/15-1.决策权.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "098",
       "h1_title": "2. 决策方式",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/16-2.决策方式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/16-2.决策方式.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "099",
       "h1_title": "(二) 激励机制",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/17-(二)激励机制.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/17-(二)激励机制.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "100",
       "h1_title": "（三）监督机制",
       "target_path": "converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/18-（三）监督机制.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/02-股权投资基金管理人/04-股权投资基金管理人的内部治理/18-（三）监督机制.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "101",
       "h1_title": "一、产品基本要素",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/01-一、产品基本要素.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/01-一、产品基本要素.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "102",
       "h1_title": "（一）基本信息",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/02-（一）基本信息.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/02-（一）基本信息.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "103",
       "h1_title": "（二）投资范围",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/03-（二）投资范围.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/03-（二）投资范围.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "104",
       "h1_title": "（三）组织形式",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/04-（三）组织形式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/04-（三）组织形式.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "105",
       "h1_title": "（四）投资方式",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/05-（四）投资方式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/05-（四）投资方式.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "106",
       "h1_title": "二、主要分类维度",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/06-二、主要分类维度.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/06-二、主要分类维度.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "107",
       "h1_title": "(一) 组织形式",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/07-(一)组织形式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/07-(一)组织形式.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "108",
       "h1_title": "（二）投资阶段",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/08-（二）投资阶段.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/08-（二）投资阶段.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "109",
       "h1_title": "（三）投资方式",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/09-（三）投资方式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/09-（三）投资方式.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "110",
       "h1_title": "(四) 特殊主体",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/10-(四)特殊主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/10-(四)特殊主体.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "111",
       "h1_title": "1. 政府投资基金",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/11-1.政府投资基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/11-1.政府投资基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "112",
       "h1_title": "（五）现行产品备案分类",
       "target_path": "converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/12-（五）现行产品备案分类.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/01-股权投资基金产品概述/12-（五）现行产品备案分类.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "113",
       "h1_title": "一、公司型基金",
       "target_path": "converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/01-一、公司型基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/01-一、公司型基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "114",
       "h1_title": "（一）公司型基金的概念",
       "target_path": "converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/02-（一）公司型基金的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/02-（一）公司型基金的概念.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "115",
       "h1_title": "（二）公司型基金的特点",
       "target_path": "converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/03-（二）公司型基金的特点.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/03-（二）公司型基金的特点.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "116",
       "h1_title": "二、合伙型基金",
       "target_path": "converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/04-二、合伙型基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/04-二、合伙型基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "117",
       "h1_title": "(一) 合伙型基金的概念",
       "target_path": "converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/05-(一)合伙型基金的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/05-(一)合伙型基金的概念.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "118",
       "h1_title": "（二）合伙型基金的特点",
       "target_path": "converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/06-（二）合伙型基金的特点.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/06-（二）合伙型基金的特点.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "119",
       "h1_title": "三、契约型基金",
       "target_path": "converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/07-三、契约型基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/07-三、契约型基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "120",
       "h1_title": "（一）契约型基金的概念",
       "target_path": "converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/08-（一）契约型基金的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/08-（一）契约型基金的概念.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "121",
       "h1_title": "（二）契约型基金的特点",
       "target_path": "converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/09-（二）契约型基金的特点.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/09-（二）契约型基金的特点.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "122",
       "h1_title": "四、不同基金组织形式的比较",
       "target_path": "converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/10-四、不同基金组织形式的比较.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/02-公司型基金、合伙型基金与契约型基金/10-四、不同基金组织形式的比较.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "123",
       "h1_title": "一、创业投资基金",
       "target_path": "converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/01-一、创业投资基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/01-一、创业投资基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "124",
       "h1_title": "（一）创业投资",
       "target_path": "converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/02-（一）创业投资.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/02-（一）创业投资.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "125",
       "h1_title": "（二）主要的创业投资主体",
       "target_path": "converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/03-（二）主要的创业投资主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/03-（二）主要的创业投资主体.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "126",
       "h1_title": "（三）创业投资基金",
       "target_path": "converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/04-（三）创业投资基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/04-（三）创业投资基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "127",
       "h1_title": "二、并购基金",
       "target_path": "converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/05-二、并购基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/05-二、并购基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "128",
       "h1_title": "（一）并购投资",
       "target_path": "converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/06-（一）并购投资.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/06-（一）并购投资.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "129",
       "h1_title": "（二）主要的并购投资主体",
       "target_path": "converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/07-（二）主要的并购投资主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/07-（二）主要的并购投资主体.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "130",
       "h1_title": "（三）并购基金",
       "target_path": "converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/08-（三）并购基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/03-创业投资基金与并购基金/08-（三）并购基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "131",
       "h1_title": "一、股权投资母基金概述",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/01-一、股权投资母基金概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/01-一、股权投资母基金概述.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "132",
       "h1_title": "二、股权投资母基金的业务",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/02-二、股权投资母基金的业务.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/02-二、股权投资母基金的业务.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "133",
       "h1_title": "（一）投资子基金",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/03-（一）投资子基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/03-（一）投资子基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "134",
       "h1_title": "（二）投资二手基金份额",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/04-（二）投资二手基金份额.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/04-（二）投资二手基金份额.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "135",
       "h1_title": "（三）直接投资",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/05-（三）直接投资.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/05-（三）直接投资.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "136",
       "h1_title": "三、股权投资母基金的作用",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/06-三、股权投资母基金的作用.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/06-三、股权投资母基金的作用.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "137",
       "h1_title": "(一) 分散风险",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/07-(一)分散风险.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/07-(一)分散风险.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "138",
       "h1_title": "（二）专业管理",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/08-（二）专业管理.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/08-（二）专业管理.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "139",
       "h1_title": "（三）投资机会",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/09-（三）投资机会.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/09-（三）投资机会.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "140",
       "h1_title": "(四) 规模优势",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/10-(四)规模优势.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/10-(四)规模优势.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "141",
       "h1_title": "四、股权投资母基金的投资风险、收益与成本",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/11-四、股权投资母基金的投资风险、收益与成本.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/11-四、股权投资母基金的投资风险、收益与成本.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "142",
       "h1_title": "(一) 风险",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/12-(一)风险.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/12-(一)风险.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "143",
       "h1_title": "(二) 收益",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/13-(二)收益.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/13-(二)收益.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "144",
       "h1_title": "五、S基金",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/14-五、S基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/14-五、S基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "145",
       "h1_title": "(一) S 基金概述",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/15-(一)S基金概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/15-(一)S基金概述.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "146",
       "h1_title": "（二）S基金的价值及优势",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/16-（二）S基金的价值及优势.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/16-（二）S基金的价值及优势.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "147",
       "h1_title": "1. 降低投资收益的不确定性",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/17-1.降低投资收益的不确定性.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/17-1.降低投资收益的不确定性.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "148",
       "h1_title": "2. 更快获得投资回报",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/18-2.更快获得投资回报.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/18-2.更快获得投资回报.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "149",
       "h1_title": "3. 相对较高的内部收益率（IRR）",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/19-3.相对较高的内部收益率（IRR）.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/19-3.相对较高的内部收益率（IRR）.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "150",
       "h1_title": "4. 更高效地构建投资组合",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/20-4.更高效地构建投资组合.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/20-4.更高效地构建投资组合.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "151",
       "h1_title": "（三）S基金交易模式",
       "target_path": "converted/fables/03-股权投资基金产品/04-股权投资母基金/21-（三）S基金交易模式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/04-股权投资母基金/21-（三）S基金交易模式.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "152",
       "h1_title": "一、政府投资基金的概念",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/01-一、政府投资基金的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/01-一、政府投资基金的概念.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "153",
       "h1_title": "（一）政府投资基金的含义",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/02-（一）政府投资基金的含义.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/02-（一）政府投资基金的含义.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "154",
       "h1_title": "（二）政府投资基金的特点",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/03-（二）政府投资基金的特点.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/03-（二）政府投资基金的特点.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "155",
       "h1_title": "二、政府投资基金的目标",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/04-二、政府投资基金的目标.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/04-二、政府投资基金的目标.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "156",
       "h1_title": "（一）提高财政资金使用效率",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/05-（一）提高财政资金使用效率.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/05-（一）提高财政资金使用效率.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "157",
       "h1_title": "（二）支持重点领域和重点产业发展",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/06-（二）支持重点领域和重点产业发展.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/06-（二）支持重点领域和重点产业发展.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "158",
       "h1_title": "（三）支持创新创业",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/07-（三）支持创新创业.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/07-（三）支持创新创业.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "159",
       "h1_title": "三、政府投资基金的运作原则",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/08-三、政府投资基金的运作原则.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/08-三、政府投资基金的运作原则.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "160",
       "h1_title": "（一）政府引导",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/09-（一）政府引导.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/09-（一）政府引导.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "161",
       "h1_title": "（二）市场运作",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/10-（二）市场运作.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/10-（二）市场运作.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "162",
       "h1_title": "（三）科学决策",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/11-（三）科学决策.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/11-（三）科学决策.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "163",
       "h1_title": "(四) 防范风险",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/12-(四)防范风险.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/12-(四)防范风险.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "164",
       "h1_title": "四、政府投资基金的运作方式",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/13-四、政府投资基金的运作方式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/13-四、政府投资基金的运作方式.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "165",
       "h1_title": "五、政府投资基金的绩效管理",
       "target_path": "converted/fables/03-股权投资基金产品/05-政府投资基金/14-五、政府投资基金的绩效管理.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/03-股权投资基金产品/05-政府投资基金/14-五、政府投资基金的绩效管理.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "166",
       "h1_title": "一、募集与设立概述",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/01-一、募集与设立概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/01-一、募集与设立概述.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "167",
       "h1_title": "(一) 募集的概念",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/02-(一)募集的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/02-(一)募集的概念.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "168",
       "h1_title": "（二）募集方式",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/03-（二）募集方式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/03-（二）募集方式.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "169",
       "h1_title": "2. 公开募集和非公开募集",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/04-2.公开募集和非公开募集.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/04-2.公开募集和非公开募集.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "170",
       "h1_title": "（三）设立的概念",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/05-（三）设立的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/05-（三）设立的概念.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "171",
       "h1_title": "（四）募集与设立的区别和联系",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/06-（四）募集与设立的区别和联系.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/06-（四）募集与设立的区别和联系.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "172",
       "h1_title": "二、股权投资基金募集的特征",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/07-二、股权投资基金募集的特征.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/01-募集与设立概述/07-二、股权投资基金募集的特征.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "173",
       "h1_title": "一、投资者的主要类型",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/01-一、投资者的主要类型.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/01-一、投资者的主要类型.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "174",
       "h1_title": "（一）国外股权投资基金投资者的主要类型",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/02-（一）国外股权投资基金投资者的主要类型.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/02-（一）国外股权投资基金投资者的主要类型.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "175",
       "h1_title": "1. 养老基金",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/03-1.养老基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/03-1.养老基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "176",
       "h1_title": "2. 母基金",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/04-2.母基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/04-2.母基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "177",
       "h1_title": "3. 大学基金会",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/05-3.大学基金会.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/05-3.大学基金会.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "178",
       "h1_title": "4. 大型企业",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/06-4.大型企业.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/06-4.大型企业.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "179",
       "h1_title": "5. 金融机构",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/07-5.金融机构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/07-5.金融机构.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "180",
       "h1_title": "6. 高净值个人或家族办公室",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/08-6.高净值个人或家族办公室.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/08-6.高净值个人或家族办公室.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "181",
       "h1_title": "（二）中国股权投资基金投资者的主要类型",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/09-（二）中国股权投资基金投资者的主要类型.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/09-（二）中国股权投资基金投资者的主要类型.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "182",
       "h1_title": "1. 母基金",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/10-1.母基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/10-1.母基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "183",
       "h1_title": "2. 政府投资基金",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/11-2.政府投资基金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/11-2.政府投资基金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "184",
       "h1_title": "3. 社会保障基金和企业年金",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/12-3.社会保障基金和企业年金.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/12-3.社会保障基金和企业年金.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "185",
       "h1_title": "5. 产业资本",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/13-5.产业资本.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/13-5.产业资本.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "186",
       "h1_title": "6. 个人投资者",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/14-6.个人投资者.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/14-6.个人投资者.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "187",
       "h1_title": "二、合格投资者及投资者适当性制度",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/15-二、合格投资者及投资者适当性制度.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/15-二、合格投资者及投资者适当性制度.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "188",
       "h1_title": "（一）建立合格投资者及投资者适当性制度的必要性",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/16-（一）建立合格投资者及投资者适当性制度的必要性.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/16-（一）建立合格投资者及投资者适当性制度的必要性.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "189",
       "h1_title": "（二）合格投资者的标准",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/17-（二）合格投资者的标准.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/17-（二）合格投资者的标准.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "190",
       "h1_title": "1. 合格投资者制度的起源与发展",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/18-1.合格投资者制度的起源与发展.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/18-1.合格投资者制度的起源与发展.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "191",
       "h1_title": "2. 我国合格投资者认定标准及相关规定",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/19-2.我国合格投资者认定标准及相关规定.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/19-2.我国合格投资者认定标准及相关规定.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "192",
       "h1_title": "（三）投资者适当性的要求",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/20-（三）投资者适当性的要求.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/20-（三）投资者适当性的要求.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "193",
       "h1_title": "1. 基金募集机构的投资者适当性管理要求",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/21-1.基金募集机构的投资者适当性管理要求.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/21-1.基金募集机构的投资者适当性管理要求.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "194",
       "h1_title": "2. 投资者分类",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/22-2.投资者分类.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/22-2.投资者分类.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "195",
       "h1_title": "3. 产品分类",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/02-募集对象/23-3.产品分类.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/02-募集对象/23-3.产品分类.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "196",
       "h1_title": "一、基金募集",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/01-一、基金募集.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/01-一、基金募集.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "197",
       "h1_title": "(一) 募集筹备",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/02-(一)募集筹备.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/02-(一)募集筹备.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "198",
       "h1_title": "1. 业务工作重点",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/03-1.业务工作重点.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/03-1.业务工作重点.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "199",
       "h1_title": "2. 合规重点事项",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/04-2.合规重点事项.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/04-2.合规重点事项.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "200",
       "h1_title": "（二）基金路演",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/05-（二）基金路演.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/05-（二）基金路演.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "201",
       "h1_title": "1. 业务工作重点",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/06-1.业务工作重点.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/06-1.业务工作重点.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "202",
       "h1_title": "2. 合规重点事项",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/07-2.合规重点事项.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/07-2.合规重点事项.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "203",
       "h1_title": "（三）投资者确认",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/08-（三）投资者确认.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/08-（三）投资者确认.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "204",
       "h1_title": "1. 业务工作重点",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/09-1.业务工作重点.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/09-1.业务工作重点.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "205",
       "h1_title": "2. 合规重点事项",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/10-2.合规重点事项.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/10-2.合规重点事项.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "206",
       "h1_title": "（四）基金合同签署",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/11-（四）基金合同签署.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/11-（四）基金合同签署.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "207",
       "h1_title": "1. 业务工作重点",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/12-1.业务工作重点.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/12-1.业务工作重点.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "208",
       "h1_title": "2. 合规重点事项",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/13-2.合规重点事项.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/13-2.合规重点事项.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "209",
       "h1_title": "二、基金设立",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/14-二、基金设立.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/14-二、基金设立.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "210",
       "h1_title": "（一）公司型基金的设立",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/15-（一）公司型基金的设立.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/15-（一）公司型基金的设立.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "211",
       "h1_title": "1. 设立条件",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/16-1.设立条件.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/16-1.设立条件.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "212",
       "h1_title": "2. 其他要求",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/17-2.其他要求.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/17-2.其他要求.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "213",
       "h1_title": "（二）合伙型基金的设立",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/18-（二）合伙型基金的设立.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/18-（二）合伙型基金的设立.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "214",
       "h1_title": "1. 设立条件",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/19-1.设立条件.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/19-1.设立条件.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "215",
       "h1_title": "2. 设立步骤",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/20-2.设立步骤.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/20-2.设立步骤.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "216",
       "h1_title": "（三）契约型基金的设立",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/21-（三）契约型基金的设立.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/21-（三）契约型基金的设立.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "217",
       "h1_title": "三、基金备案",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/22-三、基金备案.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/22-三、基金备案.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "218",
       "h1_title": "（一）备案方式、时间及前提",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/23-（一）备案方式、时间及前提.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/23-（一）备案方式、时间及前提.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "219",
       "h1_title": "1. 备案方式",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/24-1.备案方式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/24-1.备案方式.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "220",
       "h1_title": "2. 备案时间",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/25-2.备案时间.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/25-2.备案时间.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "221",
       "h1_title": "3. 备案前提",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/26-3.备案前提.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/26-3.备案前提.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "222",
       "h1_title": "（二）备案要求及常见问题",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/27-（二）备案要求及常见问题.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/27-（二）备案要求及常见问题.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "223",
       "h1_title": "1. 备案要求",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/28-1.备案要求.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/28-1.备案要求.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "224",
       "h1_title": "2. 备案常见问题",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/29-2.备案常见问题.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/29-2.备案常见问题.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "225",
       "h1_title": "（三）暂停备案/不予备案的相关情形",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/30-（三）暂停备案-不予备案的相关情形.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/30-（三）暂停备案-不予备案的相关情形.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "226",
       "h1_title": "1. 暂停备案",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/31-1.暂停备案.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/31-1.暂停备案.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "227",
       "h1_title": "2. 不予办理备案",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/32-2.不予办理备案.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/32-2.不予办理备案.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "228",
       "h1_title": "3. 基金产品不能备案的处理",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/33-3.基金产品不能备案的处理.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/03-募集与设立流程/33-3.基金产品不能备案的处理.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "229",
       "h1_title": "一、基金合同通用条款",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/01-一、基金合同通用条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/01-一、基金合同通用条款.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "230",
       "h1_title": "（一）基金名称、经营场所和经营范围",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/02-（一）基金名称、经营场所和经营范围.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/02-（一）基金名称、经营场所和经营范围.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "231",
       "h1_title": "（三）投资者及其出资安排",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/03-（三）投资者及其出资安排.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/03-（三）投资者及其出资安排.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "232",
       "h1_title": "1. 出资方式",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/04-1.出资方式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/04-1.出资方式.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "233",
       "h1_title": "2. 逾期缴付出资",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/05-2.逾期缴付出资.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/05-2.逾期缴付出资.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "234",
       "h1_title": "3. 首次关闭和后续募集",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/06-3.首次关闭和后续募集.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/06-3.首次关闭和后续募集.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "235",
       "h1_title": "4. 冷静期、回访及解除权",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/07-4.冷静期、回访及解除权.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/07-4.冷静期、回访及解除权.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "236",
       "h1_title": "（四）基金费用",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/08-（四）基金费用.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/08-（四）基金费用.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "237",
       "h1_title": "1. 基金费用",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/09-1.基金费用.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/09-1.基金费用.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "238",
       "h1_title": "2. 管理费",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/10-2.管理费.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/10-2.管理费.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "239",
       "h1_title": "(五) 投资事项",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/11-(五)投资事项.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/11-(五)投资事项.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "240",
       "h1_title": "1. 投资方向和投资限制",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/12-1.投资方向和投资限制.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/12-1.投资方向和投资限制.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "241",
       "h1_title": "2. 投资工具",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/13-2.投资工具.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/13-2.投资工具.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "242",
       "h1_title": "3. 关键人士",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/14-3.关键人士.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/14-3.关键人士.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "243",
       "h1_title": "（六）关联交易和利益冲突",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/15-（六）关联交易和利益冲突.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/15-（六）关联交易和利益冲突.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "244",
       "h1_title": "1. 关联交易",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/16-1.关联交易.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/16-1.关联交易.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "245",
       "h1_title": "2. 利益冲突",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/17-2.利益冲突.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/17-2.利益冲突.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "246",
       "h1_title": "（七）投资者的加入、退出及权益转让",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/18-（七）投资者的加入、退出及权益转让.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/18-（七）投资者的加入、退出及权益转让.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "247",
       "h1_title": "1. 投资者的加入",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/19-1.投资者的加入.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/19-1.投资者的加入.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "248",
       "h1_title": "2. 投资者的退出",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/20-2.投资者的退出.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/20-2.投资者的退出.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "249",
       "h1_title": "3. 权益转让",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/21-3.权益转让.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/21-3.权益转让.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "250",
       "h1_title": "(八) 基金内部组织机构",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/22-(八)基金内部组织机构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/22-(八)基金内部组织机构.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "251",
       "h1_title": "1. 基金的组织机构",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/23-1.基金的组织机构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/23-1.基金的组织机构.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "252",
       "h1_title": "2. 投委会",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/24-2.投委会.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/24-2.投委会.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "253",
       "h1_title": "3. 投资者会议",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/25-3.投资者会议.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/25-3.投资者会议.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "254",
       "h1_title": "（九）资金托管",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/26-（九）资金托管.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/26-（九）资金托管.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "255",
       "h1_title": "（十）收益分配及亏损分担",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/27-（十）收益分配及亏损分担.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/27-（十）收益分配及亏损分担.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "256",
       "h1_title": "1. 现金分配",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/28-1.现金分配.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/28-1.现金分配.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "257",
       "h1_title": "3. 非现金分配",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/29-3.非现金分配.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/29-3.非现金分配.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "258",
       "h1_title": "4. 亏损分担",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/30-4.亏损分担.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/30-4.亏损分担.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "259",
       "h1_title": "5. 分级基金的收益分配和亏损分担",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/31-5.分级基金的收益分配和亏损分担.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/31-5.分级基金的收益分配和亏损分担.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "260",
       "h1_title": "(十一) 信息披露",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/32-(十一)信息披露.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/32-(十一)信息披露.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "261",
       "h1_title": "(十二) 解散及清算",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/33-(十二)解散及清算.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/33-(十二)解散及清算.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "262",
       "h1_title": "（十三）应急处置预案",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/34-（十三）应急处置预案.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/34-（十三）应急处置预案.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "263",
       "h1_title": "(十四) 争议解决",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/35-(十四)争议解决.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/35-(十四)争议解决.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "264",
       "h1_title": "二、不同组织形式下的基金合同",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/36-二、不同组织形式下的基金合同.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/36-二、不同组织形式下的基金合同.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "265",
       "h1_title": "（一）公司型基金合同",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/37-（一）公司型基金合同.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/37-（一）公司型基金合同.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "266",
       "h1_title": "（二）合伙型基金合同",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/38-（二）合伙型基金合同.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/38-（二）合伙型基金合同.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "267",
       "h1_title": "（三）契约型基金合同",
       "target_path": "converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/39-（三）契约型基金合同.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/04-股权投资基金的募集与设立/04-股权投资基金合同/39-（三）契约型基金合同.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "268",
       "h1_title": "一、项目开发与筛选",
       "target_path": "converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/01-一、项目开发与筛选.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/01-一、项目开发与筛选.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "269",
       "h1_title": "二、初步尽职调查",
       "target_path": "converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/02-二、初步尽职调查.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/02-二、初步尽职调查.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "270",
       "h1_title": "三、项目立项",
       "target_path": "converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/03-三、项目立项.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/03-三、项目立项.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "271",
       "h1_title": "四、签订投资意向书",
       "target_path": "converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/04-四、签订投资意向书.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/04-四、签订投资意向书.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "272",
       "h1_title": "五、尽职调查",
       "target_path": "converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/05-五、尽职调查.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/05-五、尽职调查.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "273",
       "h1_title": "六、投资决策",
       "target_path": "converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/06-六、投资决策.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/06-六、投资决策.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "274",
       "h1_title": "七、签订投资协议",
       "target_path": "converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/07-七、签订投资协议.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/07-七、签订投资协议.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "275",
       "h1_title": "八、投资交割",
       "target_path": "converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/08-八、投资交割.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/01-股权投资的一般流程/08-八、投资交割.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "276",
       "h1_title": "一、尽职调查概述",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/01-一、尽职调查概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/01-一、尽职调查概述.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "277",
       "h1_title": "（一）尽职调查的概念",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/02-（一）尽职调查的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/02-（一）尽职调查的概念.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "278",
       "h1_title": "（二）尽职调查的作用",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/03-（二）尽职调查的作用.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/03-（二）尽职调查的作用.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "279",
       "h1_title": "1. 价值发现",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/04-1.价值发现.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/04-1.价值发现.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "280",
       "h1_title": "2. 风险发现",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/05-2.风险发现.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/05-2.风险发现.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "281",
       "h1_title": "3. 投资决策辅助",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/06-3.投资决策辅助.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/06-3.投资决策辅助.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "282",
       "h1_title": "二、尽职调查的主要内容",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/07-二、尽职调查的主要内容.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/07-二、尽职调查的主要内容.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "283",
       "h1_title": "（一）业务尽职调查",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/08-（一）业务尽职调查.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/08-（一）业务尽职调查.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "284",
       "h1_title": "（二）财务尽职调查",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/09-（二）财务尽职调查.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/09-（二）财务尽职调查.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "285",
       "h1_title": "1. 会计政策与会计估计",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/10-1.会计政策与会计估计.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/10-1.会计政策与会计估计.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "286",
       "h1_title": "2. 财务报告及相关财务资料",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/11-2.财务报告及相关财务资料.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/11-2.财务报告及相关财务资料.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "287",
       "h1_title": "3. 财务比率分析",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/12-3.财务比率分析.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/12-3.财务比率分析.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "288",
       "h1_title": "4. 纳税分析",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/13-4.纳税分析.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/13-4.纳税分析.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "289",
       "h1_title": "（三）法律尽职调查",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/14-（三）法律尽职调查.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/14-（三）法律尽职调查.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "290",
       "h1_title": "1. 公司设立和存续情况",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/15-1.公司设立和存续情况.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/15-1.公司设立和存续情况.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "291",
       "h1_title": "2. 公司股东和历史融资情况",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/16-2.公司股东和历史融资情况.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/16-2.公司股东和历史融资情况.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "292",
       "h1_title": "4. 公司资产",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/17-4.公司资产.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/17-4.公司资产.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "293",
       "h1_title": "5. 资金借贷及对外担保",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/18-5.资金借贷及对外担保.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/18-5.资金借贷及对外担保.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "294",
       "h1_title": "6. 劳动人事",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/19-6.劳动人事.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/19-6.劳动人事.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "295",
       "h1_title": "7. 诉讼、仲裁和行政处罚",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/20-7.诉讼、仲裁和行政处罚.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/20-7.诉讼、仲裁和行政处罚.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "296",
       "h1_title": "三、尽职调查方法",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/21-三、尽职调查方法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/21-三、尽职调查方法.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "297",
       "h1_title": "（一）计划制订与团队组建",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/22-（一）计划制订与团队组建.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/22-（一）计划制订与团队组建.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "298",
       "h1_title": "（二）收集二手资料与研读",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/23-（二）收集二手资料与研读.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/23-（二）收集二手资料与研读.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "299",
       "h1_title": "（三）企业现场调研",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/24-（三）企业现场调研.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/24-（三）企业现场调研.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "300",
       "h1_title": "1. 目标公司内部访谈与外部访谈",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/25-1.目标公司内部访谈与外部访谈.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/25-1.目标公司内部访谈与外部访谈.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "301",
       "h1_title": "2. 实地考察企业经营现场",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/26-2.实地考察企业经营现场.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/26-2.实地考察企业经营现场.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "302",
       "h1_title": "（四）撰写尽职调查报告",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/27-（四）撰写尽职调查报告.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/27-（四）撰写尽职调查报告.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "303",
       "h1_title": "（五）尽职调查复核",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/28-（五）尽职调查复核.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/28-（五）尽职调查复核.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "304",
       "h1_title": "四、尽职调查报告",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/29-四、尽职调查报告.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/29-四、尽职调查报告.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "305",
       "h1_title": "(一) 前言",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/30-(一)前言.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/30-(一)前言.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "306",
       "h1_title": "(二) 正文",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/31-(二)正文.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/31-(二)正文.md",
-      "status": "pending",
+      "status": "done",
       "task_done_flag": false,
-      "file_exists": false
+      "file_exists": true
     },
     {
       "id": "307",
       "h1_title": "(三) 附件",
       "target_path": "converted/fables/05-股权投资基金的投资/02-投资调查与分析/32-(三)附件.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/02-投资调查与分析/32-(三)附件.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "308",
       "h1_title": "一、估值概述",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/01-一、估值概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/01-一、估值概述.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "309",
       "h1_title": "（一）价值与价格",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/02-（一）价值与价格.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/02-（一）价值与价格.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "310",
       "h1_title": "（二）企业价值与股权价值",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/03-（二）企业价值与股权价值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/03-（二）企业价值与股权价值.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "311",
       "h1_title": "1. 简单价值等式",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/04-1.简单价值等式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/04-1.简单价值等式.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "312",
       "h1_title": "2. 一般价值等式",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/05-2.一般价值等式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/05-2.一般价值等式.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "313",
@@ -6522,5 +6522,6 @@
       "task_done_flag": false,
       "file_exists": false
     }
-  ]
+  ],
+  "last_updated": "2026-06-24T15:30:00"
 }
