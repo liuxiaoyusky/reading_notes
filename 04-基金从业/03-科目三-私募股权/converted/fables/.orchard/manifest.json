@@ -3,8 +3,8 @@
   "book_title": "股权投资基金",
   "schema_version": "h1-fab-v1",
   "total_fables": 724,
-  "done_count": 318,
-  "pending_count": 406,
+  "done_count": 321,
+  "pending_count": 403,
   "fables": [
     {
       "id": "001",
@@ -6063,9 +6063,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/12-2.企业价值-息税前利润.md",
       "source_line": 141,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "320",
@@ -6082,9 +6082,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/13-3.企业价值-息税折旧摊销前利润.md",
       "source_line": 161,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "321",
@@ -6101,9 +6101,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/14-4.企业价值-销售收入.md",
       "source_line": 177,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "322",
