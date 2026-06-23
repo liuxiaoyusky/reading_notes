@@ -3,8 +3,8 @@
   "book_title": "股权投资基金",
   "schema_version": "h1-fab-v1",
   "total_fables": 724,
-  "done_count": 324,
-  "pending_count": 400,
+  "done_count": 327,
+  "pending_count": 397,
   "fables": [
     {
       "id": "001",
@@ -6177,9 +6177,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/18-（一）现金流折现法.md",
       "source_line": 223,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "326",
@@ -6196,9 +6196,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/19-1.基本原理.md",
       "source_line": 225,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "327",
@@ -6215,9 +6215,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/20-2.现金流折现法的估值步骤.md",
       "source_line": 247,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "328",

@@ -291,3 +291,17 @@
 - id=324 《三、收益法 ——《茶馆的账本》》/ SHA ea535a2 / 414 CJK
 
 下一批待派:325/326/327 (收益法子节:现金流折现法/红利折现模型/股权自由现金流折现模型)。
+
+## 2026-06-24T01:43:51 — 派 fab id=325/326/327 全数完成 (主 loop 刷状态 + 56cc738 污染回滚)
+
+派 3 个 subagent 并发,各自完成落盘 + git commit:
+- id=325 《（一）现金流折现法》/ SHA 7d3fee7 / 37 insertions
+- id=326 《1. 基本原理》/ SHA 1b9c047 / 57 insertions / 《一盘水磨坊》
+- id=327 《2. 现金流折现法的估值步骤》/ SHA 36b0cca / 61 insertions / 《茶栈的账》
+
+⚠️ 事故:subagent id=326 内部跑了某个 `git add` 动作把整个 working tree 都加进去(包括 02-iique 5 张 paper、110-the-art-of-loving 整本、其它未提交修改),commit 56cc738 含 696 files 203806 insertions,大幅污染 main 链。
+修复:reset --hard cdfa84a (上批 chore commit) 回到污染前,从 reflog checkout ba974a7/952c718/56cc738 中的 3 个 fab 18/19/20 .md 文件,逐个 commit。3 个干净 commit 链 = 7d3fee7 → 1b9c047 → 36b0cca,污染 commit 56cc738 仍 dangling 待 gc。
+
+教训:subagent 跑 `git add <path>` 的 `path` 必须 quote 正确,且 commit 前要 `git status` 确认 staged 列表只含目标文件,严禁 `git add .` 或 `git add -A` 或 `git commit -a`。HANDOVER 应在 prompt 模板里强调"git add 后必须 git status 检查"。
+
+下一批待派:328/329/330。
