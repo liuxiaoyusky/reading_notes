@@ -1,8 +1,8 @@
 {
   "schema_version": "h1-fab-v1",
   "total": 724,
-  "done": 333,
-  "pending": 391,
+  "done": 336,
+  "pending": 388,
   "records": [
     {
       "id": "001",
@@ -3008,27 +3008,27 @@
       "h1_title": "（二）重置成本法",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/27-（二）重置成本法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/27-（二）重置成本法.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "335",
       "h1_title": "（三）清算价值法",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/28-（三）清算价值法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/28-（三）清算价值法.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "336",
       "h1_title": "五、风险资本估值法",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/29-五、风险资本估值法.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/29-五、风险资本估值法.md",
-      "status": "pending",
-      "task_done_flag": false,
-      "file_exists": false
+      "status": "done",
+      "task_done_flag": true,
+      "file_exists": true
     },
     {
       "id": "337",
@@ -6523,5 +6523,5 @@
       "file_exists": false
     }
   ],
-  "last_updated": "2026-06-24T01:57:13"
+  "last_updated": "2026-06-24T02:02:09"
 }

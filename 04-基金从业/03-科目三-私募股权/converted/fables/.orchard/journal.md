@@ -330,3 +330,19 @@ subagent 纪律强化提示在 prompt 末尾显式要求 "git diff --cached --st
 3 个 subagent 全部接受 git 纪律,主 loop show --stat 复核确认 1-file commit。
 
 下一批待派:334/335/336 (重置成本法/清算价值法/风险资本估值法)。
+
+## 2026-06-24T02:02:09 — 派 fab id=334/335/336 全数完成 (主 loop 刷状态,3 subagent 互抢 commit 后自修复)
+
+派 3 个 subagent 并发,各自完成落盘 + 多次 commit (3 个 1-file commit 干净):
+- id=334 《（二）重置成本法》/ SHA 58f874b / 774 CJK / 55 insertions / 《（二）重置成本法》
+- id=335 《（三）清算价值法 ——《老周拆窑》》/ SHA 0231c40 / 960 CJK / 66 insertions
+- id=336 《五、风险资本估值法》/ SHA 6b46950 / 585 CJK / 42 insertions
+
+⚠️ 本批出现新事故:3 个 subagent 并发互抢 git add,导致 staging 区被他人文件污染(类似 race condition)。
+- fab 334 (a29d62d): 第一次 commit dda3529 把 28/29 一起带进去;reset --soft + 拆分,最终 58f874b = 自己的 27 文件,0231c40 = 兄弟 28 文件
+- fab 335 (a53f4c3): 第一次 commit 2d7bc14 把 27 一起带进去;reset --soft + 拆分,最终 cf2da73 (后被 0231c40 替代) = 自己的 28 文件
+- fab 336 (a674f01): 第一次 commit 8d1c86d 把 28 一起带进去;reset --soft + 拆分,最终 6b46950 = 自己的 29 文件
+
+教训:3 subagent 并发跑 fab 时,各自写完文件到不同 path 不会冲突,但 git add 任何文件时 staging 区是共享的。如果 subagent 在 staged 之前发现已有他人 staged 文件,**必须**先 git restore --staged <他人文件> 清理,再 add 自己的。
+
+下一批待派:337/338/339 (进入第 5 章 4 节交易文件/结构)。本批完成累计 30 fab,主 loop 准备 /compact。

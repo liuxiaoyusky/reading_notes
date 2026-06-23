@@ -3,8 +3,8 @@
   "book_title": "股权投资基金",
   "schema_version": "h1-fab-v1",
   "total_fables": 724,
-  "done_count": 333,
-  "pending_count": 391,
+  "done_count": 336,
+  "pending_count": 388,
   "fables": [
     {
       "id": "001",
@@ -6348,9 +6348,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/27-（二）重置成本法.md",
       "source_line": 407,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "335",
@@ -6367,9 +6367,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/28-（三）清算价值法.md",
       "source_line": 435,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "336",
@@ -6386,9 +6386,9 @@
       "absolute_source": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/29-五、风险资本估值法.md",
       "source_line": 449,
-      "file_exists": false,
-      "task_done_flag": false,
-      "status": "pending"
+      "file_exists": true,
+      "task_done_flag": true,
+      "status": "done"
     },
     {
       "id": "337",
