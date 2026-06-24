@@ -1,0 +1,31 @@
+============================================================
+PDF-to-Study-Program Validation Report
+============================================================
+
+1. Directory Structure
+   Sections dir: /Users/sky/Documents/github/reading_notes/02-iique/paper-1/converted/sections
+   Chapter directories: 7
+
+2. Section Files
+   Total section files: 205
+
+3. Image References
+   Images in dir: 4
+   Referenced images: 0
+   Broken references: 0
+   Unreferenced images: 4
+
+4. Content List
+   Total blocks: 2546
+   Images: 0
+   Tables: 4
+   Titles: 0
+
+============================================================
+Issues: 0
+Warnings: 1
+
+--- Warnings ---
+  [WARN] 4 images not referenced in any section
+
+✓ All checks passed!

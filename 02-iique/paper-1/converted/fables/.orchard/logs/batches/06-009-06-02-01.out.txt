@@ -1,0 +1,3 @@
+Both files pass all structural checks. The 07-03-01 entry is skipped (empty source — only an H1 with no body content).
+
+{"status":"pass","written":["06-02-01","06-02-01-1"],"skipped":["07-03-01"]}

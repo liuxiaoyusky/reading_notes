@@ -1,0 +1,3 @@
+All 8 files verified: frontmatter present, exactly 1 H1, all three `##` section headings present, story in simplified Chinese.
+
+{"status":"pass","written":["06-01-02-01","06-01-02-01-1","06-01-02-01-2","06-01-02-01-3","06-01-02-01-4","06-01-02-01-5","06-01-03-01","06-01-03-01-1"]}

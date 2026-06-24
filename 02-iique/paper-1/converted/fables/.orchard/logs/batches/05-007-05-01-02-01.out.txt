@@ -1,0 +1,10 @@
+All 8 files written. Self-check complete:
+
+- All paths correct (`05/` directory)
+- All frontmatter present (title, chapter, section, concept, characters, setting, tags)
+- Each file has exactly one H1 (from manifest h1)
+- Each file has three H2 sections (故事 / 原文定义 / 对应点)
+- All stories in simplified Chinese
+- All concepts drawn from source content
+
+{"status":"pass","written":["05-01-02-01","05-01-03-01","05-01-04-01","05-01-01","05-02-01-01","05-02-02-01","05-02-03-01","05-02-04-01"]}

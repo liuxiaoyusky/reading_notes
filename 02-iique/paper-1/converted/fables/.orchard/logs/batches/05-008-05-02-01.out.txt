@@ -1,0 +1,11 @@
+All 8 files written. Self-check complete:
+
+- Paths: all 8 match manifest targets exactly
+- Frontmatter: `title`, `chapter`, `section`, `concept`, `characters`, `setting`, `tags` — all present
+- Single H1 per file: confirmed
+- Three H2s (`## 故事`, `## 原文定义`, `## 对应点`): confirmed in all files
+- Simplified Chinese throughout: confirmed
+- Concept from source: each fab captures the core concept from its source file
+- Character usage: consistent with chapter-casts (梁志明, 周老板, 冯船长, 黄师傅, Mr. Thompson, 林若兰)
+
+{"status":"pass","written":["05-02-01","05-03-01","05-04-01","05-05-01-01","05-05-02-01","05-05-03-01","05-05-04-01","05-05-01"]}

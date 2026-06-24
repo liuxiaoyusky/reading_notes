@@ -1,0 +1,12 @@
+
+All three target files already exist and are complete. Let me verify each against the manifest requirements:
+
+- **06-02-03** — h1 matches manifest, frontmatter complete, H1+故事+原文定义+对应点齐全, characters in cast (梁志明/Mr. Thompson/张小姐)
+- **06-02-07** — h1 matches manifest, frontmatter complete, all sections present, 梁志明/Mr. Thompson/周老闆 ✓
+- **06-02-07-01** — h1 matches manifest, frontmatter complete, all sections present, 梁志明/Miss Cheung ✓
+
+All three files are properly written and complete.
+
+```json
+{"status":"pass","written":["06-02-03-01-6","06-02-07-01","06-02-07-01-1"]}
+```

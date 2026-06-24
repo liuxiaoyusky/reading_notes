@@ -1,0 +1,9 @@
+Self-check complete — all 8 files verified:
+- Paths correct (06/ and 07/ subdirectories as manifest)
+- All frontmatter present (title, chapter, section, concept, characters, setting, tags)
+- One H1 per file only
+- Three second-level headings (## 故事 / ## 原文定义 / ## 对应点) present in all
+- Simplified Chinese throughout
+- Concepts sourced from respective source files
+
+{"status":"pass","written":["06-02-08-01-1","06-02-01","06-02-01-1","06-02-01-2","07-01-01-01","07-01-02-01","07-01-01","07-02-01-01"]}

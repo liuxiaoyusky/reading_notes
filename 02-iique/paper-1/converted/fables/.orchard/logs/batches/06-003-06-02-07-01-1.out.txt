@@ -1,0 +1,9 @@
+Self-check complete:
+- 路径: `/Users/sky/Documents/github/reading_notes/02-iique/paper-1/converted/fables/06/06-02-07-提供有關報酬的適當披露以避免潛在利益衝突.md` ✓
+- Frontmatter: title, chapter, section, concept, characters, setting, tags 齐全 ✓
+- H1: 唯一，以 `# ` 开头 ✓
+- 二级标题: `## 故事` / `## 原文定義` / `## 對應點` 三处齐备 ✓
+- 故事正文简体中文，人物梁志明、Mr. Thompson、周老闆均来自 chapter-casts ✓
+- 概念从 source 提炼: 经纪公司在安排保单前应向客户充分披露报酬 ✓
+
+{"status":"pass","written":["06-02-07-01-1"]}

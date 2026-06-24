@@ -1,0 +1,3801 @@
+{
+  "last_updated": "2026-06-24T17:02:18.833204+08:00",
+  "schema_version": 2,
+  "retry_threshold": 3,
+  "sections": {
+    "01-01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-風險及保險/01-01-01-風險的意義.md",
+      "source_exists": true,
+      "target_path": "converted/fables/01/01-01-01-風險的意義.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.281271+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.281282+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "01-01-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-風險及保險/01-01-02-原因與影響.md",
+      "source_exists": true,
+      "target_path": "converted/fables/01/01-01-02-原因與影響.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.286805+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.286828+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "01-01-02-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-風險及保險/01-01-02-財務後果.md",
+      "source_exists": true,
+      "target_path": "converted/fables/01/01-01-02-財務後果.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.291472+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.291483+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "01-01-02-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-風險及保險/01-01-02-風險的類別.md",
+      "source_exists": true,
+      "target_path": "converted/fables/01/01-01-02-風險的類別.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.293579+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.293583+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "01-01-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-風險及保險/01-01-03-風險管理.md",
+      "source_exists": true,
+      "target_path": "converted/fables/01/01-01-03-風險管理.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.298195+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.298209+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-風險及保險/01-01-風險的概念.md",
+      "source_exists": true,
+      "target_path": "converted/fables/01/01-01-風險的概念.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.302202+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.302208+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "01-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-風險及保險/01-02-保險的功能及好處.md",
+      "source_exists": true,
+      "target_path": "converted/fables/01/01-02-保險的功能及好處.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.305090+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.305126+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-01-01-定義.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-01-01-定義.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.307383+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.307393+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-01-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-01-02-合約的種類.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-01-02-合約的種類.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.309314+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.309319+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-01-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-01-03-合約元素和要點.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-01-03-合約元素和要點.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.312489+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.312493+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-01-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-01-04-合約的相對性.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-01-04-合約的相對性.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.315471+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.315486+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-01-合約法.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-01-合約法.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.317801+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.317809+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-02-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-02-01-定義.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-02-01-定義.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.319886+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.319890+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-02-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-02-02-代理關係如何產生.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-02-02-代理關係如何產生.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.321789+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.321792+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-02-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-02-03-代理人的權限.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-02-03-代理人的權限.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.324632+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.324638+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-02-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-02-04-代理人對委託人的責任.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-02-04-代理人對委託人的責任.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.326641+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.326648+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-02-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-02-05-委託人對代理人的責任.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-02-05-委託人對代理人的責任.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.328369+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.328373+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-02-06-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-02-06-終止代理關係.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-02-06-終止代理關係.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.330682+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.330690+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "02-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-法律原則/02-02-代理法.md",
+      "source_exists": true,
+      "target_path": "converted/fables/02/02-02-代理法.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.336443+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.336451+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-01-01-定義.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-01-01-定義.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.338015+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.338025+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-01-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-01-02-可保權益的重要性.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-01-02-可保權益的重要性.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.340517+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.340523+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-01-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-01-03-必要條件.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-01-03-必要條件.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.343697+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.343704+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-01-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-01-04-如何產生.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-01-04-如何產生.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.346162+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.346172+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-01-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-01-05-何時需要.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-01-05-何時需要.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.348766+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.348775+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-01-06-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-01-06-轉讓.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-01-06-轉讓.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.350488+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.350494+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-01-可保權益.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-01-可保權益.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.353401+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.353405+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-02-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-02-01-一般誠信.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-02-01-一般誠信.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.355190+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.355196+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-02-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-02-02-最高誠信.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-02-02-最高誠信.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.359374+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.359381+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-02-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-02-03-重要事實.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-02-03-重要事實.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.362030+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.362034+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-02-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-02-04-何時須披露重要事實.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-02-04-何時須披露重要事實.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.363737+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.363740+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-02-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-02-05-違反最高誠信的類別.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-02-05-違反最高誠信的類別.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.367709+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.367720+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-02-06-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-02-06-違反最高誠信的補救.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-02-06-違反最高誠信的補救.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.372025+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.372031+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-02-最高誠信.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-02-最高誠信.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.373771+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.373775+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-03-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-03-01-該原則的定義及重要性.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-03-01-該原則的定義及重要性.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.375485+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.375490+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-03-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-03-02-危險的種類.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-03-02-危險的種類.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.377085+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.377090+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-03-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-03-03-原則的應用.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-03-03-原則的應用.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.380909+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.380913+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-03-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-03-04-保單對這原則的更改.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-03-04-保單對這原則的更改.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.382978+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.382981+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-03-近因.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-03-近因.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.385128+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.385135+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-04-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-04-01-定義.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-04-01-定義.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.386867+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.386875+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-04-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-04-02-含義.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-04-02-含義.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.388818+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.388824+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-04-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-04-03-與可保權益的關聯.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-04-03-與可保權益的關聯.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.391398+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.391403+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-04-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-04-04-如何提供彌償.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-04-04-如何提供彌償.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.395125+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.395132+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-04-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-04-05-損餘.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-04-05-損餘.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.397236+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.397244+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-04-06-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-04-06-委付.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-04-06-委付.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.399524+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.399532+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-04-07-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-04-07-限制彌償的保單條文.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-04-07-限制彌償的保單條文.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.401909+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.401915+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-04-08-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-04-08-提供超額彌償的保單條文.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-04-08-提供超額彌償的保單條文.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.405870+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.405881+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-04-09-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-04-09-實際執行彌償時所面對的難題.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-04-09-實際執行彌償時所面對的難題.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.409172+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.409181+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-04-彌償.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-04-彌償.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.410815+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.410820+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-05-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-05-01-有關分擔的衡平法則.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-05-01-有關分擔的衡平法則.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.412887+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.412893+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-05-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-05-02-比率之數.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-05-02-比率之數.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.414657+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.414663+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-05-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-05-03-如何產生.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-05-03-如何產生.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.418336+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.418349+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-05-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-05-04-如何適用.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-05-04-如何適用.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.421022+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.421027+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-05-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-05-05-如何被保單條件更改.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-05-05-如何被保單條件更改.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.423060+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.423065+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-05-分擔.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-05-分擔.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.425522+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.425531+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-06-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-06-01-定義.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-06-01-定義.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.427117+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.427123+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-06-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-06-02-如何產生.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-06-02-如何產生.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.428719+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.428725+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-06-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-06-03-如何適用.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-06-03-如何適用.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.432575+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.432579+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-06-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-06-04-其他考慮因素.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-06-04-其他考慮因素.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.434764+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.434829+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "03-06-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險原則/03-06-代位.md",
+      "source_exists": true,
+      "target_path": "converted/fables/03/03-06-代位.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.436534+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.436541+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "04-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-01-產品的開發.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-01-產品的開發.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.439127+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.439133+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "04-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-02-客戶服務.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-02-客戶服務.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.440788+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.440793+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "04-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-03-市場行銷及促銷.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-03-市場行銷及促銷.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.443348+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.443352+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "04-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-04-保險的銷售.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-04-保險的銷售.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.449281+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.449294+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:46:55.069839+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:44:28.241037+08:00",
+      "finished_at": "2026-06-24T16:46:55.069970+08:00"
+    },
+    "04-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-05-核保.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-05-核保.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.451753+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.451761+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "04-06-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-06-保單的處理.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-06-保單的處理.md",
+      "retry_count": 1,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.454265+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.454271+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:46:55.163107+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:44:28.380278+08:00"
+    },
+    "04-07-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-07-理賠.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-07-理賠.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.458263+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.458278+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:46:55.298564+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:44:28.477317+08:00",
+      "finished_at": "2026-06-24T16:46:55.298711+08:00"
+    },
+    "04-08-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-08-再保險.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-08-再保險.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.461819+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.461826+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:46:05.455131+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:44:28.292798+08:00",
+      "finished_at": "2026-06-24T16:46:05.455345+08:00"
+    },
+    "04-09-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-09-精算支援.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-09-精算支援.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.463283+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.463289+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "04-10-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-10-會計及投資.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-10-會計及投資.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.467639+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.467650+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:46:05.584147+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:44:28.337091+08:00",
+      "finished_at": "2026-06-24T16:46:05.584286+08:00"
+    },
+    "04-11-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-11-培訓及發展.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-11-培訓及發展.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.472404+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.472413+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:46:05.752563+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:44:28.424327+08:00",
+      "finished_at": "2026-06-24T16:46:05.752696+08:00"
+    },
+    "04-12-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-保險公司的主要功能/04-12-管控要員.md",
+      "source_exists": true,
+      "target_path": "converted/fables/04/04-12-管控要員.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.480690+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.480700+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:47:50.030120+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:46:05.793436+08:00",
+      "finished_at": "2026-06-24T16:47:50.030259+08:00"
+    },
+    "05-01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-01-01-保險的法定類別.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-01-01-保險的法定類別.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.484604+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.484609+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "05-01-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-01-02-保險的實務類別.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-01-02-保險的實務類別.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.488009+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.488018+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:47:50.391185+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:46:05.837096+08:00",
+      "finished_at": "2026-06-24T16:47:50.391386+08:00"
+    },
+    "05-01-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-01-03-保險的學術類別.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-01-03-保險的學術類別.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.490969+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.490979+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:47:50.524754+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:46:05.876607+08:00",
+      "finished_at": "2026-06-24T16:47:50.524894+08:00"
+    },
+    "05-01-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-01-04-再保險.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-01-04-再保險.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.493828+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.493833+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:49:07.772838+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:46:55.358745+08:00",
+      "finished_at": "2026-06-24T16:49:07.772967+08:00"
+    },
+    "05-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-01-保險業務的種類.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-01-保險業務的種類.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.497121+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.497130+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:49:07.896435+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:46:55.402723+08:00",
+      "finished_at": "2026-06-24T16:49:07.896567+08:00"
+    },
+    "05-02-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-02-01-獲授權保險人.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-02-01-獲授權保險人.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.499767+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.499773+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:49:08.016684+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:46:55.444003+08:00",
+      "finished_at": "2026-06-24T16:49:08.016839+08:00"
+    },
+    "05-02-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-02-02-持牌保險中介人.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-02-02-持牌保險中介人.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.504363+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.504376+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:50:23.717590+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:47:50.571058+08:00",
+      "finished_at": "2026-06-24T16:50:23.717746+08:00"
+    },
+    "05-02-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-02-03-獲聘用的人.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-02-03-獲聘用的人.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.510903+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.510917+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:50:23.847631+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:47:50.617065+08:00",
+      "finished_at": "2026-06-24T16:50:23.847787+08:00"
+    },
+    "05-02-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-02-04-保費收入.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-02-04-保費收入.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.514592+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.514613+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:50:24.019175+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:47:50.659714+08:00",
+      "finished_at": "2026-06-24T16:50:24.019401+08:00"
+    },
+    "05-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-02-行業規模.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-02-行業規模.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.518899+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.518911+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "05-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-03-保險公司.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-03-保險公司.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.522017+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.522028+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "05-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-04-保險中介人.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-04-保險中介人.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.524159+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.524165+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "05-05-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-05-01-香港保險業聯會（「保聯」）.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-05-01-香港保險業聯會（「保聯」）.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.527203+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.527213+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "05-05-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-05-02-保險經紀專業團體.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-05-02-保險經紀專業團體.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.530787+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.530810+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "05-05-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-05-03-協助索償人或受害人的行業機構.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-05-03-協助索償人或受害人的行業機構.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.534463+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.534483+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "05-05-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-05-04-僱員補償聯保計劃管理局.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-05-04-僱員補償聯保計劃管理局.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.538177+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.538197+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "05-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-香港保險業的結構/05-05-業界協會／組織.md",
+      "source_exists": true,
+      "target_path": "converted/fables/05/05-05-業界協會／組織.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.541409+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.541424+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-01-《保險業條例》.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-01-《保險業條例》.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.544541+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.544568+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-01-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-01-《保險業條例》其他重要的條文.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-01-《保險業條例》其他重要的條文.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.548553+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.548615+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-01-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-01-保險人的授權.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-01-保險人的授權.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.551488+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.551501+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-01-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-01-償付準備金規定.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-01-償付準備金規定.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.554167+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.554174+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-01-01-4": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-01-干預權力.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-01-干預權力.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.558278+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.558291+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-01-01-5": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-01-控權人、董事、管控要員及獲委任精算師須屬“適當人選”.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-01-控權人、董事、管控要員及獲委任精算師須屬“適當人選”.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.562158+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.562183+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-01-01-6": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-01-股本要求.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-01-股本要求.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.568735+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.568767+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-01-01-7": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-01-足夠的再保險安排.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-01-足夠的再保險安排.md",
+      "retry_count": 1,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.577403+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.577415+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:50:54.229989+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:49:08.062852+08:00"
+    },
+    "06-01-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-02-《承保商專業守則》.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-02-《承保商專業守則》.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.580130+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.580142+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-02-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-02-保險代理人管理.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-02-保險代理人管理.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.583054+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.583063+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-02-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-02-提供建議及銷售的做法.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-02-提供建議及銷售的做法.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.586392+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.586406+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-02-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-02-查詢、投訴及糾紛.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-02-查詢、投訴及糾紛.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.589433+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.589471+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-02-01-4": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-02-目的.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-02-目的.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.593912+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.593928+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-02-01-5": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-02-索償.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-02-索償.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.598085+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.598097+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-03-保險投訴局.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-03-保險投訴局.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.600531+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.600541+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-03-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-03-保險投訴局提供服務的職權範圍.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-03-保險投訴局提供服務的職權範圍.md",
+      "retry_count": 1,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:56:58.919710+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:56:59.005095+08:00"
+        }
+      },
+      "notes": "worker self-review plus local quality checks passed",
+      "updated_at": "2026-06-24T16:56:59.004834+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:49:08.152667+08:00",
+      "finished_at": "2026-06-24T16:56:59.005099+08:00"
+    },
+    "06-01-03-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-03-保險索償投訴委員會的結構及權力.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-03-保險索償投訴委員會的結構及權力.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.602468+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.602474+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-03-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-03-與索償無關的調解服務.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-03-與索償無關的調解服務.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.605862+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.605869+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-合適性評估-同名.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-合適性評估.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.607766+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.607770+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-合適性評估.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-合適性評估-同名.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.610108+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.610116+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-01-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-01-香港保險公司的規管.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-01-香港保險公司的規管.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.611820+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.611824+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-01-合規.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-01-合規.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.614530+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.614537+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-01-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-01-準確的陳述及介紹.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-01-準確的陳述及介紹.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.617158+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.617167+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-01-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-01-監管保險中介人的持牌制度的基本規定.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-01-監管保險中介人的持牌制度的基本規定.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.619682+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.619689+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-01-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-01-防止賄賂.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-01-防止賄賂.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.622020+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.622027+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-01-01-4": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-01-驷擾、強迫或不當影響.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-01-驷擾、強迫或不當影響.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.624270+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.624276+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-02-以符合客戶的最佳利益行事，並應公正、客觀及公平.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-02-以符合客戶的最佳利益行事，並應公正、客觀及公平.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.628577+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.628596+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-02-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-02-尋找及選擇保險產品.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-02-尋找及選擇保險產品.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.630814+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.630823+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-02-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-02-提供公平及公正並符合客戶最佳利益的受規管意見.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-02-提供公平及公正並符合客戶最佳利益的受規管意見.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.633296+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.633302+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-02-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-02-獲授權保險人與其代理人的關係.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-02-獲授權保險人與其代理人的關係.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.637289+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.637299+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-03-保存紀錄.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-03-保存紀錄.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.642010+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.642017+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-03-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-03-保障客戶的私隱及保密性.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-03-保障客戶的私隱及保密性.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.657403+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.657415+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-03-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-03-冷靜期.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-03-冷靜期.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.658892+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.658901+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-03-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-03-執行客戶的指示.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-03-執行客戶的指示.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.661320+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.661328+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-03-01-4": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-03-持牌保險中介人的多重角色.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-03-持牌保險中介人的多重角色.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.663061+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.663065+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-03-01-5": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-03-有關保險索償的協助.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-03-有關保險索償的協助.md",
+      "retry_count": 1,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.667697+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.667704+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:50:54.318477+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:49:08.234619+08:00"
+    },
+    "06-02-03-01-6": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-03-符合預期一位合理及謹慎的持牌保險經紀應有的標準.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-03-符合預期一位合理及謹慎的持牌保險經紀應有的標準.md",
+      "retry_count": 1,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.669489+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.669498+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:51:52.233356+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:50:24.064537+08:00"
+    },
+    "06-02-03-01-7": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-03-處理申請及索償表格.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-03-處理申請及索償表格.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.672896+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.672900+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-04-清楚其知識的局限性.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-04-清楚其知識的局限性.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.676611+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.676676+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-04-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-04-產品知識.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-04-產品知識.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.678665+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.678677+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-04-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-04-發牌.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-04-發牌.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.680757+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.680766+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-保存紀錄.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-保存紀錄.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.685161+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.685171+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-保障客戶的私隱及保密性.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-保障客戶的私隱及保密性.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.688755+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.688766+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-公平、公正及以客户的最佳利益行事.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-公平、公正及以客户的最佳利益行事.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.692826+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.692834+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-其他監管措施.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-其他監管措施.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.695624+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.695633+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-4": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-冷靜期.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-冷靜期.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.700963+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.700975+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-5": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-合規.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-合規.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.702943+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.702954+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-6": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-執行客戶的指示.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-執行客戶的指示.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.705492+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.705502+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-7": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-客戶協議及與客戶訂立的業務條款.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-客戶協議及與客戶訂立的業務條款.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.708896+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.708907+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-8": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-就他人轉介的客戶所需作出的披露-同名.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-就他人轉介的客戶所需作出的披露.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.711537+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.711544+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-9": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-就他人轉介的客戶所需作出的披露.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-就他人轉介的客戶所需作出的披露-同名.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.714851+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.714855+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-10": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-提供公平及公正並符合客戶最佳利益的受規管意見.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-提供公平及公正並符合客戶最佳利益的受規管意見.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.717580+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.717586+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-11": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-有關保單持有人義務的披露.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-有關保單持有人義務的披露.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.720726+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.720731+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-12": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-有關保險產品的披露-同名.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-有關保險產品的披露.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.724211+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.724217+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-13": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-有關保險產品的披露.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-有關保險產品的披露-同名.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.725884+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.725887+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-14": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-清楚其知識的局限性.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-清楚其知識的局限性.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.729261+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.729267+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-15": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-準確的陳述及介紹.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-準確的陳述及介紹.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.730933+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.730936+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-16": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-產品知識-同名-同名.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-產品知識.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.733628+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.733634+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-17": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-產品知識-同名.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-產品知識-同名.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.737855+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.737860+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-18": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-產品知識.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-產品知識-同名-同名.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.739617+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.739626+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-19": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-符合預期一位合理及謹慎的持牌保險代理人應有的標準.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-符合預期一位合理及謹慎的持牌保險代理人應有的標準.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.742295+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.742302+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-20": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-與身份及職分相關的披露.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-與身份及職分相關的披露.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.747579+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.747590+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-21": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-處理申請及索償表格.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-處理申請及索償表格.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.751402+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.751413+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-22": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-防止賄賂.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-防止賄賂.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.754980+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.754990+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-05-01-23": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-05-驚擾、強迫或不當影響.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-05-驚擾、強迫或不當影響.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.758044+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.758054+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-07-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-07-披露代理人與其主事人之間條款與細則中的相關限制.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-07-披露代理人與其主事人之間條款與細則中的相關限制.md",
+      "retry_count": 2,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:02:18.789920+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:02:18.833195+08:00"
+        }
+      },
+      "notes": "manual fab story quality and concept mapping passed",
+      "updated_at": "2026-06-24T17:02:18.833029+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:50:24.114764+08:00",
+      "finished_at": "2026-06-24T17:02:18.833199+08:00"
+    },
+    "06-02-07-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-07-提供有關報酬的適當披露以避免潛在利益衝突.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-07-提供有關報酬的適當披露以避免潛在利益衝突.md",
+      "retry_count": 1,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:59:25.244840+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:59:25.297266+08:00"
+        }
+      },
+      "notes": "worker self-review plus local quality checks passed",
+      "updated_at": "2026-06-24T16:59:25.297105+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:50:24.208806+08:00",
+      "finished_at": "2026-06-24T16:59:25.297269+08:00"
+    },
+    "06-02-07-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-07-透過適當披露主事人與代理人關係，避免潛在利益衝突並提高透.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-07-透過適當披露主事人與代理人關係，避免潛在利益衝突並提高透明度.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.760982+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.760992+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:53:17.334385+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:50:54.361197+08:00",
+      "finished_at": "2026-06-24T16:53:17.334515+08:00"
+    },
+    "06-02-07-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-07-避免讓自身利益影響客戶的決定-同名.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-07-避免讓自身利益影響客戶的決定.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.764217+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.764225+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:53:17.470185+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:50:54.401179+08:00",
+      "finished_at": "2026-06-24T16:53:17.470377+08:00"
+    },
+    "06-02-07-01-4": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-07-避免讓自身利益影響客戶的決定.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-07-避免讓自身利益影響客戶的決定-同名.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.767006+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.767011+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:53:17.610889+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:50:54.439205+08:00",
+      "finished_at": "2026-06-24T16:53:17.611030+08:00"
+    },
+    "06-02-07-01-5": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-07-闡明有關與保險人關係的潛在利益衝突.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-07-闡明有關與保險人關係的潛在利益衝突.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.770785+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.770790+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-08-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-08-保費處理.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-08-保費處理.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.775625+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.775630+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-08-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-08-客戶資產處理.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-08-客戶資產處理.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.779306+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.779313+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "06-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-建議-同名.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-建議.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.783148+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.783153+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:55:07.154868+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:51:52.403929+08:00",
+      "finished_at": "2026-06-24T16:55:07.154989+08:00"
+    },
+    "06-02-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-建議.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-建議-同名.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.786242+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.786249+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix",
+      "updated_at": "2026-06-24T16:55:07.266217+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:51:52.456723+08:00",
+      "finished_at": "2026-06-24T16:55:07.266336+08:00"
+    },
+    "06-02-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/06-保險業的規管架構/06-02-香港保險中介人的規管.md",
+      "source_exists": true,
+      "target_path": "converted/fables/06/06-02-香港保險中介人的規管.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.788106+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.788112+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-01-01-如果保險中介人是保險經紀.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-01-01-如果保險中介人是保險經紀.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.790638+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.790643+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-01-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-01-02-如果保險中介人是保險代理人.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-01-02-如果保險中介人是保險代理人.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.793400+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.793408+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-01-保險中介人對保單持有人的責任.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-01-保險中介人對保單持有人的責任.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.794774+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.794778+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-02-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-02-01-《條例》的特點.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-02-01-《條例》的特點.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.798067+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.798073+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-02-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-02-02-在保險上的應用.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-02-02-在保險上的應用.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.800507+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.800515+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-02-保護個人資料.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-02-保護個人資料.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.802645+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.802650+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-03-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-03-01-針對歧視的法例.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-03-01-針對歧視的法例.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.804899+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.804903+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-03-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-03-02-保險中的「公平」歧視.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-03-02-保險中的「公平」歧視.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.807234+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.807239+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-03-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-03-03-保險中的不公平歧視.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-03-03-保險中的不公平歧視.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.812674+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.812682+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-03-平等機會事宜.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-03-平等機會事宜.md",
+      "retry_count": 1,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:01:00.224996+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:01:00.261027+08:00"
+        }
+      },
+      "notes": "worker self-review plus local quality checks passed",
+      "updated_at": "2026-06-24T17:01:00.260874+08:00",
+      "mode": "claude-cli",
+      "started_at": "2026-06-24T16:51:52.521935+08:00",
+      "finished_at": "2026-06-24T17:01:00.261031+08:00"
+    },
+    "07-04-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-01-什麼是洗錢.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-01-什麼是洗錢.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.817622+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.817627+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-02-什麼是恐怖分子資金籌集.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-02-什麼是恐怖分子資金籌集.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.820873+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.820879+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-03-保險業所面對的風險.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-03-保險業所面對的風險.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.825916+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.825922+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-04-洗錢的階段.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-04-洗錢的階段.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.828195+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.828202+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-05-《打擊洗錢及恐怖分子資金籌集（金融機構）條例》.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-05-《打擊洗錢及恐怖分子資金籌集（金融機構）條例》.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.833323+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.833330+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-05-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-05-《有組織及嚴重罪行條例》.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-05-《有組織及嚴重罪行條例》.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.836910+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.836914+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-05-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-05-《聯合國（反恐怖主義措施）條例》.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-05-《聯合國（反恐怖主義措施）條例》.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.838860+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.838865+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-05-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-05-《販毒（追討得益）條例》.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-05-《販毒（追討得益）條例》.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.840908+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.840914+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-05-01-4": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-05-有關打擊洗錢及恐怖分子資金籌集活動的法例.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-05-有關打擊洗錢及恐怖分子資金籌集活動的法例.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.842985+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.842990+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-備存紀錄.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-備存紀錄.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.844905+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.844910+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-可疑交易報告.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-可疑交易報告.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.847294+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.847299+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-客戶盡職審查.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-客戶盡職審查.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.849567+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.849573+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-引言.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-引言.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.851730+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.851735+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01-4": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-恐怖分子資金籌集及擴散資金籌集.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-恐怖分子資金籌集及擴散資金籌集.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.854538+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.854544+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01-5": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-打擊洗錢／恐怖分子資金籌集制度.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-打擊洗錢／恐怖分子資金籌集制度.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.856633+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.856638+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01-6": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-持續監察.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-持續監察.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.859711+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.859719+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01-7": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-數據庫備存及篩查（客戶及付款）.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-數據庫備存及篩查（客戶及付款）.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.861741+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.861747+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01-8": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-適用於香港以外進行業務的集團的打擊洗錢／恐怖分子資金籌集.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-適用於香港以外進行業務的集團的打擊洗錢／恐怖分子資金籌集政策.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.865419+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.865427+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01-9": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-金融制裁.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-金融制裁.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.868278+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.868285+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01-10": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-電傳轉賬.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-電傳轉賬.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.871807+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.871812+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-06-01-11": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-06-風險為本的方法.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-06-風險為本的方法.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.873812+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.873818+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-61-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-61-職員培訓.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-61-職員培訓.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.878051+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.878063+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-04-防止洗錢及恐怖分子籌資活動.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-04-防止洗錢及恐怖分子籌資活動.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.880319+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.880329+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-05-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-05-01-《防止賄賂條例》內容重點.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-05-01-《防止賄賂條例》內容重點.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.883121+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.883134+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-05-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-05-02-舉報貪污.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-05-02-舉報貪污.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.887401+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.887413+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-05-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-05-03-廉政公署的服務.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-05-03-廉政公署的服務.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.892272+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.892285+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-05-防止貪污.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-05-防止貪污.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.894950+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.894958+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-06-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-06-01-當心成為犯罪同伙.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-06-01-當心成為犯罪同伙.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.897846+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.897857+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-06-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-06-02-保險中介人與保險詐騙的例子.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-06-02-保險中介人與保險詐騙的例子.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.901091+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.901102+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-06-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-06-03-防止詐騙的實際步驟.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-06-03-防止詐騙的實際步驟.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.903789+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.903796+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    },
+    "07-06-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/07-職業道德及其他有關問題/07-06-防止保險詐騙.md",
+      "source_exists": true,
+      "target_path": "converted/fables/07/07-06-防止保險詐騙.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.906314+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T16:55:43.906319+08:00"
+        }
+      },
+      "notes": "validated after driver threshold fix"
+    }
+  }
+}

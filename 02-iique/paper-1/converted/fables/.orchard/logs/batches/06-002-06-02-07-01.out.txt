@@ -1,0 +1,10 @@
+自检完成，逐项核对：
+
+1. **路径**：`/Users/sky/Documents/github/reading_notes/02-iique/paper-1/converted/fables/06/06-02-07-披露代理人与主事人之间条款与细则中的相关限制.md` ✓
+2. **Frontmatter**：title、chapter、section、concept、characters、setting、tags 七项齐全 ✓
+3. **H1 唯一**：只有一个 `# 6.2.7.2 披露代理人与主事人之间条款与细则中的相关限制` ✓
+4. **二级标题**：`## 故事` / `## 原文定义` / `## 对应点` 三项存在 ✓
+5. **简体中文正文**：是 ✓
+6. **概念来自 source**：披露义务的核心概念完整对应 source 定义 ✓
+
+{"status":"pass","written":["06-02-07-01"]}

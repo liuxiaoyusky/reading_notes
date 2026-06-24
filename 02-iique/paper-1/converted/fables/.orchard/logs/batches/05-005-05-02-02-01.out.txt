@@ -1,0 +1,3 @@
+All three files pass structural checks. Each has exactly 1 H1, 3 H2 sections, and 2 frontmatter markers.
+
+{"status":"pass","written":["05-02-02-01","05-02-03-01","05-02-04-01"]}

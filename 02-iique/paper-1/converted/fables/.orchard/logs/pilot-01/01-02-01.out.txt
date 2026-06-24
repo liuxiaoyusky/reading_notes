@@ -1,0 +1,11 @@
+All checks pass. 
+
+**PASS**
+
+- Path correct: `/Users/sky/Documents/github/reading_notes/02-iique/paper-1/converted/fables/01/01-02-保險的功能及好處.md`
+- Frontmatter: title, chapter, section, concept, characters, setting, tags — all present
+- H1 count: exactly 1 (`# 1.2 保險的功能及好處`)
+- Three required headers: `## 故事`, `## 原文定义`, `## 对应点` — all present
+- Story length: 1443 chars (within 800–1500)
+- Simplified Chinese: 够×7, 夠×0; traditional char hits in story = 6 (well under 20)
+- Core concept: risk transfer — paying small premiums to shift major financial loss to a pool; when disaster strikes, compensation from that pool helps the individual recover without bearing it alone

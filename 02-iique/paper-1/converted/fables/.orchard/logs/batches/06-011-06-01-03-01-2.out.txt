@@ -1,0 +1,3 @@
+All 8 files pass. Every file has: 2 frontmatter markers, required fields, exactly 1 H1, and the 3 required H2 sections.
+
+{"status":"pass","written":["06-01-03-01-2","06-01-03-01-3","06-01-01","06-01-01-1","06-01-01-2","06-02-01-01","06-02-01-01-1","06-02-01-01-2"]}

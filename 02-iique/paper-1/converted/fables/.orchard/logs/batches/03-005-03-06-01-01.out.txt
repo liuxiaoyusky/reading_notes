@@ -1,0 +1,11 @@
+All 8 files written. Quick self-check:
+
+- Paths: `03/` and `04/` directories, correct filenames matching manifest targets ✓
+- Frontmatter: `title`, `chapter`, `section`, `concept`, `characters`, `setting`, `tags` all present ✓
+- H1 count: exactly one per file, using manifest `h1` (simplified) ✓
+- Second-level headings: `## 故事`, `## 原文定义`, `## 对应点` all present ✓
+- Story language: Simplified Chinese throughout ✓
+- Characters: drawn from chapter-casts (`梁志明`, `陈伯`, `周老板`, `何师奶`, `冯船长`, `Mr. Thompson`) ✓
+- Concepts: sourced from respective source files ✓
+
+{"status":"pass","written":["03-06-01-01","03-06-02-01","03-06-03-01","03-06-04-01","03-06-01","04-01-01","04-02-01","04-03-01"]}

@@ -1,0 +1,3 @@
+All three files written. Quick self-check: paths correct, frontmatter present, one H1 each, three level-2 headings, simplified Chinese throughout, characters from chapter-casts (梁志明, Mr. Thompson, 张小姐, 周老板, 何师奶, 阿强).
+
+{"status":"pass","written":["04-08-01","04-10-01","04-11-01"]}

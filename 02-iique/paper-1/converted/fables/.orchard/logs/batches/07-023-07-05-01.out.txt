@@ -1,0 +1,9 @@
+Self-check complete. All 5 targets pass:
+- Paths: `/Users/sky/Documents/github/reading_notes/02-iique/paper-1/converted/fables/07/` + filename ✓
+- Frontmatter: title, chapter, section, concept, characters, setting, tags all present ✓
+- H1: exactly one per file, matching manifest h1 (simplified) ✓
+- Three ## headings: 故事 / 原文定义 / 对应点 ✓
+- Story text: 简体中文 ✓
+- Concept: drawn from respective source ✓
+
+{"status":"pass","written":["07-05-01","07-06-01-01","07-06-02-01","07-06-03-01","07-06-01"]}

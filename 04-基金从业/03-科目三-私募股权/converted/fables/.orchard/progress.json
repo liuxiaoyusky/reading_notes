@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T17:05:39.863919+08:00",
+  "last_updated": "2026-06-24T17:06:58.356338+08:00",
   "schema_version": 2,
   "legacy_schema_version": "h1-fab-v1",
   "retry_threshold": 3,
@@ -8957,7 +8957,7 @@
       "finished_at": "2026-06-24T17:05:39.863917+08:00"
     },
     "372": {
-      "status": "pending",
+      "status": "implementer_dispatched",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/25-（三）投资方退出条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/25-（三）投资方退出条款.md",
@@ -8969,10 +8969,13 @@
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:06:58.039724+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T17:06:58.040166+08:00"
     },
     "373": {
-      "status": "pending",
+      "status": "implementer_dispatched",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/26-1.回购条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/26-1.回购条款.md",
@@ -8984,10 +8987,13 @@
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:06:58.084428+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T17:06:58.084659+08:00"
     },
     "374": {
-      "status": "pending",
+      "status": "implementer_dispatched",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/27-(1)回购触发事件.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/27-(1)回购触发事件.md",
@@ -8999,10 +9005,13 @@
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:06:58.127894+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T17:06:58.128140+08:00"
     },
     "375": {
-      "status": "pending",
+      "status": "implementer_dispatched",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/28-（2）回购的义务主体.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/28-（2）回购的义务主体.md",
@@ -9014,10 +9023,13 @@
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:06:58.188092+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T17:06:58.188241+08:00"
     },
     "376": {
-      "status": "pending",
+      "status": "implementer_dispatched",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/29-(3)回购的方式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/29-(3)回购的方式.md",
@@ -9029,10 +9041,13 @@
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:06:58.230834+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T17:06:58.230969+08:00"
     },
     "377": {
-      "status": "pending",
+      "status": "implementer_dispatched",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/30-(4)回购价格.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/30-(4)回购价格.md",
@@ -9044,10 +9059,13 @@
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:06:58.273133+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T17:06:58.273304+08:00"
     },
     "378": {
-      "status": "pending",
+      "status": "implementer_dispatched",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/31-2.拖售权.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/31-2.拖售权.md",
@@ -9059,10 +9077,13 @@
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:06:58.314494+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T17:06:58.314788+08:00"
     },
     "379": {
-      "status": "pending",
+      "status": "implementer_dispatched",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/32-3.投资方转让条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/32-3.投资方转让条款.md",
@@ -9074,7 +9095,10 @@
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:06:58.356088+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T17:06:58.356332+08:00"
     },
     "380": {
       "status": "pending",

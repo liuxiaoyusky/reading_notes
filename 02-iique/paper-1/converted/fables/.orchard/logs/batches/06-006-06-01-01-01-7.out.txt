@@ -1,0 +1,10 @@
+
+All three files written. Quick self-check:
+- Paths correct (target/06/...)
+- Frontmatter: title, chapter, section, concept, characters, setting, tags — all present
+- One H1 each
+- Three second-level headings: 故事, 原文定义, 对应点
+- Simplified Chinese throughout
+- Concept drawn from source
+
+{"status":"pass","written":["06-01-01-01-7","06-01-03-01-1","06-02-03-01-5"]}

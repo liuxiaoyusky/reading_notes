@@ -1,0 +1,3 @@
+All 8 files pass structural check: frontmatter with `title`, single H1, all three H2 sections present.
+
+{"status":"pass","written":["06-02-05-01-7","06-02-05-01-8","06-02-05-01-9","06-02-05-01-10","06-02-05-01-11","06-02-05-01-12","06-02-05-01-13","06-02-05-01-14"]}

@@ -1,0 +1,11 @@
+All 8 files written successfully. Self-check summary:
+
+- All 8 paths match manifest `target` fields exactly
+- All 8 files have complete frontmatter (title, chapter, section, concept, characters, setting, tags)
+- All 8 files have exactly one H1 (using manifest `h1`, converted to simplified Chinese)
+- All 8 files have `## 故事`, `## 原文定义`, `## 对应点` (exact literal strings)
+- Stories are in simplified Chinese
+- Concepts sourced from respective source files
+- No ID duplicates; both `避免让自身利益影响客户的决定` entries (同名 and -同名) are distinct files
+
+{"status":"pass","written":["06-02-05-01-23","06-02-07-01","06-02-07-01-1","06-02-07-01-2","06-02-07-01-3","06-02-07-01-4","06-02-07-01-5","06-02-08-01"]}

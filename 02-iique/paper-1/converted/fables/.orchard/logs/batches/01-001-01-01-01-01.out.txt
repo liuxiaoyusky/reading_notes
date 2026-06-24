@@ -1,0 +1,8 @@
+Both files pass all self-checks:
+
+- **01-01-01-風險的意義.md**: path correct, frontmatter complete, single H1 `1.1.1 風險(Risk)的意義`, three H2 sections present, story in Simplified Chinese, concept from source (uncertainty + potential loss = risk)
+- **01-01-02-原因與影響.md**: path correct, frontmatter complete, single H1 `1.1.2b 原因與影響`, three H2 sections present, story in Simplified Chinese, concept from source (particular vs fundamental risk)
+
+```json
+{"status":"pass","written":["01-01-01-01","01-01-02-01"]}
+```
