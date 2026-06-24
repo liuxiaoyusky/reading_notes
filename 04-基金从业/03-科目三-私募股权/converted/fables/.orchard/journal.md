@@ -346,3 +346,6 @@ subagent 纪律强化提示在 prompt 末尾显式要求 "git diff --cached --st
 教训:3 subagent 并发跑 fab 时,各自写完文件到不同 path 不会冲突,但 git add 任何文件时 staging 区是共享的。如果 subagent 在 staged 之前发现已有他人 staged 文件,**必须**先 git restore --staged <他人文件> 清理,再 add 自己的。
 
 下一批待派:337/338/339 (进入第 5 章 4 节交易文件/结构)。本批完成累计 30 fab,主 loop 准备 /compact。
+
+## 2026-06-24T12:39:39.727262+08:00
+2026-06-24 Chunk 337-341 (idx 30-34): 风险资本估值法概述 / 风险资本估值法的步骤 / 1.估计目标公司退出时股权价值 / 2.计算当前股权价值 / 3.估计退出时要求持股比例. implementer commit d737eb9, spec ✅ 5/5, quality ✅ 5/5, all retry_count=0. 341/724 = 47.1% quality_passed.
