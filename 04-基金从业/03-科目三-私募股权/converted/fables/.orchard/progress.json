@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T14:24:06.460331+08:00",
+  "last_updated": "2026-06-24T14:44:14.331655+08:00",
   "schema_version": 2,
   "legacy_schema_version": "h1-fab-v1",
   "retry_threshold": 3,
@@ -8350,124 +8350,211 @@
       "finished_at": "2026-06-24T14:24:06.460329+08:00"
     },
     "348": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/01-一、交易文件概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/01-一、交易文件概述.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:33:49.865623+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:36:30.199398+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:36:30.199031+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:25:25.543173+08:00",
+      "finished_at": "2026-06-24T14:36:30.199402+08:00"
     },
     "349": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/02-（一）投资意向书.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/02-（一）投资意向书.md",
-      "retry_count": 0,
+      "retry_count": 1,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:33:49.909948+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:44:14.070022+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:44:14.069284+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:25:25.584570+08:00",
+      "notes": "对应点表格 8 行,超出 5-7 上限;需压到 7 行",
+      "finished_at": "2026-06-24T14:44:14.070025+08:00"
     },
     "350": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/03-（二）增资协议（或股权转让协议）和股东协议.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/03-（二）增资协议（或股权转让协议）和股东协议.md",
-      "retry_count": 0,
+      "retry_count": 1,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:33:49.956882+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:44:14.125067+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:44:14.124931+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:25:25.623570+08:00",
+      "notes": "对应点表格 9 行,超出 5-7 上限;需压到 7 行",
+      "finished_at": "2026-06-24T14:44:14.125070+08:00"
     },
     "351": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/04-(四)交割文件.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/04-(四)交割文件.md",
-      "retry_count": 0,
+      "retry_count": 1,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:33:50.031796+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:44:14.167052+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:44:14.166901+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:25:25.665669+08:00",
+      "notes": "故事正文第 11 行出现「股东会的决议」(命中禁用术语「股东会决议」);对应点表格 8 行超出上限",
+      "finished_at": "2026-06-24T14:44:14.167056+08:00"
     },
     "352": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/05-二、增资协议的主要条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/05-二、增资协议的主要条款.md",
-      "retry_count": 0,
+      "retry_count": 1,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:33:50.088137+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:44:14.209435+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:44:14.209319+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:25:25.706701+08:00",
+      "notes": "对应点表格 8 行,超出 5-7 上限;需压到 7 行",
+      "finished_at": "2026-06-24T14:44:14.209438+08:00"
     },
     "353": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/06-（一）交割条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/06-（一）交割条款.md",
-      "retry_count": 0,
+      "retry_count": 1,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:33:50.145957+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:44:14.249567+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:44:14.249433+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:25:25.751235+08:00",
+      "notes": "对应点表格 8 行,超出 5-7 上限;需压到 7 行",
+      "finished_at": "2026-06-24T14:44:14.249570+08:00"
     },
     "354": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/07-（二）股权的出售与认购条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/07-（二）股权的出售与认购条款.md",
-      "retry_count": 0,
+      "retry_count": 1,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:33:50.193122+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:44:14.290128+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:44:14.290008+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:25:25.793742+08:00",
+      "notes": "对应点表格 8 行,超出 5-7 上限;需压到 7 行",
+      "finished_at": "2026-06-24T14:44:14.290131+08:00"
     },
     "355": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/08-（三）交割前提条件.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/08-（三）交割前提条件.md",
-      "retry_count": 0,
+      "retry_count": 1,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:33:50.236667+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:44:14.331650+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:44:14.331488+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:25:25.834859+08:00",
+      "notes": "对应点表格 9 行,超出 5-7 上限;需压到 7 行",
+      "finished_at": "2026-06-24T14:44:14.331653+08:00"
     },
     "356": {
       "status": "pending",

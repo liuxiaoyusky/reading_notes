@@ -352,3 +352,6 @@ subagent 纪律强化提示在 prompt 末尾显式要求 "git diff --cached --st
 
 ## 2026-06-24T14:24:06.501106+08:00
 2026-06-24 Chunk 342-347 (idx 35-40): 六、估值应用 / （一）创业投资基金 / 1.初创期 / 2.成长期 / 3.成熟期 / （二）并购基金. implementer commit 0097b20, spec ✅ 6/6, quality ✅ 6/6, all retry_count=0. 347/724 = 47.9% quality_passed.
+
+## 2026-06-24T14:44:14.371116+08:00
+2026-06-24 Chunk 348-355 (idx 1-8): 一、交易文件概述 / （一）投资意向书 / （二）增资协议和股东协议 / (四) 交割文件 / 二、增资协议的主要条款 / （一）交割条款 / （二）股权的出售与认购条款 / （三）交割前提条件. implementer commit e3e2992, spec ✅ 8/8, quality 1/8 通过 + 7/8 因对应点表格 8-9 行(idx 04 还有术语漏出)首次 fail, implementer 修复(压行+替换术语)后 quality ✅ 7/7. 355/724 = 49.0% quality_passed.
