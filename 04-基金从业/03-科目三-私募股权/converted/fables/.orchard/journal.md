@@ -349,3 +349,6 @@ subagent 纪律强化提示在 prompt 末尾显式要求 "git diff --cached --st
 
 ## 2026-06-24T12:39:39.727262+08:00
 2026-06-24 Chunk 337-341 (idx 30-34): 风险资本估值法概述 / 风险资本估值法的步骤 / 1.估计目标公司退出时股权价值 / 2.计算当前股权价值 / 3.估计退出时要求持股比例. implementer commit d737eb9, spec ✅ 5/5, quality ✅ 5/5, all retry_count=0. 341/724 = 47.1% quality_passed.
+
+## 2026-06-24T14:24:06.501106+08:00
+2026-06-24 Chunk 342-347 (idx 35-40): 六、估值应用 / （一）创业投资基金 / 1.初创期 / 2.成长期 / 3.成熟期 / （二）并购基金. implementer commit 0097b20, spec ✅ 6/6, quality ✅ 6/6, all retry_count=0. 347/724 = 47.9% quality_passed.

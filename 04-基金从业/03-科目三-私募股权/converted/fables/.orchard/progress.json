@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T12:39:32.168673+08:00",
+  "last_updated": "2026-06-24T14:24:06.460331+08:00",
   "schema_version": 2,
   "legacy_schema_version": "h1-fab-v1",
   "retry_threshold": 3,
@@ -8200,94 +8200,154 @@
       "finished_at": "2026-06-24T12:39:32.168671+08:00"
     },
     "342": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/35-六、股权投资基金的估值应用.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/35-六、股权投资基金的估值应用.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:23:22.644243+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:24:06.246296+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:24:06.246149+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:16:53.595389+08:00",
+      "finished_at": "2026-06-24T14:24:06.246299+08:00"
     },
     "343": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/36-（一）创业投资基金的估值应用.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/36-（一）创业投资基金的估值应用.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:23:22.712441+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:24:06.289965+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:24:06.289810+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:16:53.656892+08:00",
+      "finished_at": "2026-06-24T14:24:06.289969+08:00"
     },
     "344": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/37-1.初创期企业的估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/37-1.初创期企业的估值.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:23:22.756483+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:24:06.332699+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:24:06.332573+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:16:53.719866+08:00",
+      "finished_at": "2026-06-24T14:24:06.332702+08:00"
     },
     "345": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/38-2.成长期企业的估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/38-2.成长期企业的估值.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:23:22.798427+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:24:06.375974+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:24:06.375837+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:16:53.770083+08:00",
+      "finished_at": "2026-06-24T14:24:06.375981+08:00"
     },
     "346": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/39-3.成熟期企业的估值.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/39-3.成熟期企业的估值.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:23:22.838526+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:24:06.416808+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:24:06.416522+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:16:53.812101+08:00",
+      "finished_at": "2026-06-24T14:24:06.416814+08:00"
     },
     "347": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/03-投资项目估值.md",
       "target_path": "converted/fables/05-股权投资基金的投资/03-投资项目估值/40-（二）并购基金的估值应用.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/03-投资项目估值/40-（二）并购基金的估值应用.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:23:22.879158+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T14:24:06.460323+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T14:24:06.460166+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T14:16:53.856664+08:00",
+      "finished_at": "2026-06-24T14:24:06.460329+08:00"
     },
     "348": {
       "status": "pending",
