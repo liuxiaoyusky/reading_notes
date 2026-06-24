@@ -358,3 +358,6 @@ subagent 纪律强化提示在 prompt 末尾显式要求 "git diff --cached --st
 
 ## 2026-06-24T14:57:51.913869+08:00
 2026-06-24 Chunk 356-363 (idx 9-16): (四) 过渡期安排 / (五) 交割后义务 / 三、股东协议的主要条款 / （一）经济权益相关条款 / 1.优先认购权 / 2.转让限制条款 / 3.优先购买权 / 4.共同出售权. implementer commit 77c2e94, spec ✅ 8/8, quality ✅ 8/8, all retry_count=0. 363/724 = 50.1% quality_passed.
+
+## 2026-06-24T17:05:39.905426+08:00
+2026-06-24 Chunk 364-371 (idx 17-24): 5.优先分红权 / 6.反稀释条款 / 7.优先清算权 / 8.估值调整条款 / （二）公司治理相关条款 / 1.董事会席位条款 / 2.保护性条款 / 3.信息权与检查权. implementer commit dec02e1c, spec ✅ 8/8, quality ✅ 8/8, all retry_count=0. 371/724 = 51.2% quality_passed.

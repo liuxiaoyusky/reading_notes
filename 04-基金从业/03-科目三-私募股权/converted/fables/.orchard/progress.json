@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T14:57:51.860152+08:00",
+  "last_updated": "2026-06-24T17:05:39.863919+08:00",
   "schema_version": 2,
   "legacy_schema_version": "h1-fab-v1",
   "retry_threshold": 3,
@@ -8757,124 +8757,204 @@
       "finished_at": "2026-06-24T14:57:51.860150+08:00"
     },
     "364": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/17-5.优先分红权.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/17-5.优先分红权.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:04:50.612308+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:05:39.442632+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:05:39.441947+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T16:56:11.431768+08:00",
+      "finished_at": "2026-06-24T17:05:39.442665+08:00"
     },
     "365": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/18-6.反稀释条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/18-6.反稀释条款.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:04:50.668479+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:05:39.564468+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:05:39.563559+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T16:56:11.486661+08:00",
+      "finished_at": "2026-06-24T17:05:39.564473+08:00"
     },
     "366": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/19-7.优先清算权.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/19-7.优先清算权.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:04:50.725146+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:05:39.626587+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:05:39.626290+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T16:56:11.535996+08:00",
+      "finished_at": "2026-06-24T17:05:39.626591+08:00"
     },
     "367": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/20-8.估值调整条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/20-8.估值调整条款.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:04:50.778360+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:05:39.678486+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:05:39.678320+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T16:56:11.583559+08:00",
+      "finished_at": "2026-06-24T17:05:39.678491+08:00"
     },
     "368": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/21-（二）公司治理相关条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/21-（二）公司治理相关条款.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:04:50.823763+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:05:39.726311+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:05:39.726098+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T16:56:11.644407+08:00",
+      "finished_at": "2026-06-24T17:05:39.726315+08:00"
     },
     "369": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/22-1.董事会席位条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/22-1.董事会席位条款.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:04:50.868018+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:05:39.773683+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:05:39.773533+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T16:56:11.698985+08:00",
+      "finished_at": "2026-06-24T17:05:39.773688+08:00"
     },
     "370": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/23-2.保护性条款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/23-2.保护性条款.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:04:50.911562+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:05:39.817699+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:05:39.817489+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T16:56:11.756025+08:00",
+      "finished_at": "2026-06-24T17:05:39.817704+08:00"
     },
     "371": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/04-交易文件.md",
       "target_path": "converted/fables/05-股权投资基金的投资/04-交易文件/24-3.信息权与检查权.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/04-交易文件/24-3.信息权与检查权.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:04:50.954349+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:05:39.863914+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T17:05:39.863771+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T16:56:11.807708+08:00",
+      "finished_at": "2026-06-24T17:05:39.863917+08:00"
     },
     "372": {
       "status": "pending",
