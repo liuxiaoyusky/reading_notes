@@ -368,3 +368,15 @@ subagent 纪律强化提示在 prompt 末尾显式要求 "git diff --cached --st
 ⚠️ 严重事故:5 个 fab(25-29)在外部污染 commit 57f0794(message='1',02-iique 项目相关)中被误提交;3 个 fab(30-32)由本会话 implementer 在 commit 6f0b85a 中提交。本会话独立 spec ✅ 8/8, quality ✅ 7/8(idx 26 字数 487 < 500 下限 13 字);Edit 扩到 520 后 record quality_passed(retry_count=1)。接受 5 个被污染 fab 的内容(0 加粗/0 禁用术语/对应点 5-6 行/来源含科目三),5 个 fab 内容与 6f0b85a 报告一致。
 
 379/724 = 52.3% quality_passed.
+
+## 2026-06-24T18:28:27.911596+08:00
+Spec review batch idx=33-43 (id 380-390, 第五节 投资交易结构): 10/11 passed. 381 FAIL - story body 377 chinese chars (just under 400 minimum). Fabs 380,382-390 PASS all 8 checks.
+
+## 2026-06-24T18:33:56.062618+08:00
+Round 380-390 quality review: 11/11 passed. 第五章第五节 投资交易结构 (idx 33-43) all fables passed v2 quality review on first pass.
+
+## 2026-06-24T19:01:00.280942+08:00
+Spec review 06-投后管理概述 idx=44-51 (id 391-398): 8/8 PASS — all 8 mechanical checks pass (file exists, filename match, H1 match, story structure, length 400-1600, no bold, 科目三 in source, ≤7 data rows).
+
+## 2026-06-24T19:07:18.473596+08:00
+Round 2026-06-24 quality review: 第六章 第一节 投后管理概述 (id 391-398, idx 44-51) — 8/8 passed. All fables: 0加粗, 0禁用术语, 4段式(开场冲突转折结局), 1核心概念, 末尾三段齐全(6-7行对应点表), 含科目三来源.

@@ -1,0 +1,1048 @@
+{
+  "last_updated": "2026-06-24T17:42:10.658864+08:00",
+  "schema_version": 2,
+  "retry_threshold": 3,
+  "sections": {
+    "01-01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-01-01-壽 險 的 需 求.md",
+      "target_path": "converted/fables/01/01-01-01-壽 險 的 需 求.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:41:41.310817+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T17:42:10.658852+08:00"
+        }
+      },
+      "updated_at": "2026-06-24T17:42:10.658547+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-24T17:40:48.652970+08:00",
+      "notes": "word count slightly over 900 (960); table 8 rows vs 5-7 rule, both borderline acceptable for end-to-end test",
+      "finished_at": "2026-06-24T17:42:10.658860+08:00"
+    },
+    "01-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-01-壽 險 定 義.md",
+      "target_path": "converted/fables/01/01-01-壽 險 定 義.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "01-02-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-02-01-可 保 權 益.md",
+      "target_path": "converted/fables/01/01-02-01-可 保 權 益.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "01-02-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-02-02-披 露 責 任 （ 或 稱 申 報 實 情 責 任 ）.md",
+      "target_path": "converted/fables/01/01-02-02-披 露 責 任 （ 或 稱 申 報 實 情 責 任 ）.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "01-02-03-01": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-02-03-其他保險原則.md",
+      "target_path": "converted/fables/01/01-02-03-其他保險原則.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "01-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-02-壽 險 原 則.md",
+      "target_path": "converted/fables/01/01-02-壽 險 原 則.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "01-03-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-01-其 他 因 素.md",
+      "target_path": "converted/fables/01/01-03-01-其 他 因 素.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "01-03-01-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-01-定 價 因 素.md",
+      "target_path": "converted/fables/01/01-03-01-定 價 因 素.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "01-03-01-01-2": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-01-死 亡 率 、 利 息 及 開 支.md",
+      "target_path": "converted/fables/01/01-03-01-死 亡 率 、 利 息 及 開 支.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "01-03-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-02-均 衡 保 費（ 釐 定 ）制 度.md",
+      "target_path": "converted/fables/01/01-03-02-均 衡 保 費（ 釐 定 ）制 度.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "01-03-02-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-02-定 價 制 度.md",
+      "target_path": "converted/fables/01/01-03-02-定 價 制 度.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "01-03-02-01-2": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-02-自 然 保 費（ 釐 定 ）制 度.md",
+      "target_path": "converted/fables/01/01-03-02-自 然 保 費（ 釐 定 ）制 度.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "01-03-01": {
+      "status": "pending",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-壽 險 保 費 的 計 算.md",
+      "target_path": "converted/fables/01/01-03-壽 險 保 費 的 計 算.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-01-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-01-可續保／可轉換定期壽險.md",
+      "target_path": "converted/fables/02/02-01-01-可續保／可轉換定期壽險.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-01-01-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-01-定 期 壽 險.md",
+      "target_path": "converted/fables/02/02-01-01-定 期 壽 險.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-01-01-01-2": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-01-定 額／遞 減／遞 增 定 期 壽 險.md",
+      "target_path": "converted/fables/02/02-01-01-定 額／遞 減／遞 增 定 期 壽 險.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-01-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-02-儲 蓄 壽 險.md",
+      "target_path": "converted/fables/02/02-01-02-儲 蓄 壽 險.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-01-03-01": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-03-終 身 壽 險.md",
+      "target_path": "converted/fables/02/02-01-03-終 身 壽 險.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-傳 統 的 人 壽 保 險 類 別.md",
+      "target_path": "converted/fables/02/02-01-傳 統 的 人 壽 保 險 類 別.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-02-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-02-01-萬 用 壽 險.md",
+      "target_path": "converted/fables/02/02-02-01-萬 用 壽 險.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-02-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-02-02-單 位 相 連 長 期 保 險.md",
+      "target_path": "converted/fables/02/02-02-02-單 位 相 連 長 期 保 險.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-02-非 傳 統 的 人 壽 保 險 類 別.md",
+      "target_path": "converted/fables/02/02-02-非 傳 統 的 人 壽 保 險 類 別.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-03-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-01-年 金.md",
+      "target_path": "converted/fables/02/02-03-01-年 金.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-03-01-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-01-延 期 年 金 保 費 的 稅 務 扣 除.md",
+      "target_path": "converted/fables/02/02-03-01-延 期 年 金 保 費 的 稅 務 扣 除.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-03-01-01-2": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-01-香港年金計劃 - 一個公共即 期 終 身 年 金 計 劃.md",
+      "target_path": "converted/fables/02/02-03-01-香港年金計劃 - 一個公共即 期 終 身 年 金 計 劃.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-03-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-02-退 休 金.md",
+      "target_path": "converted/fables/02/02-03-02-退 休 金.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-03-01": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-年 金 及 退 休 金.md",
+      "target_path": "converted/fables/02/02-03-年 金 及 退 休 金.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "02-04-01": {
+      "status": "pending",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-04-團 體 及 個 人 保 險 計 劃.md",
+      "target_path": "converted/fables/02/02-04-團 體 及 個 人 保 險 計 劃.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-01-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-01-01-殘 疾 豁 免 保 費（ 即 豁 免 保 費 附約.md",
+      "target_path": "converted/fables/03/03-01-01-殘 疾 豁 免 保 費（ 即 豁 免 保 費 附約.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-01-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-01-02-殘 疾 收 入.md",
+      "target_path": "converted/fables/03/03-01-02-殘 疾 收 入.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-01-殘 疾 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-01-殘 疾 保 險 利 益.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-02-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-02-01-意 外 死 亡 及 喪 失 肢 體.md",
+      "target_path": "converted/fables/03/03-02-01-意 外 死 亡 及 喪 失 肢 體.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-02-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-02-02-其 他 意 外 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-02-02-其 他 意 外 保 險 利 益.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-02-意 外 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-02-意 外 保 險 利 益.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-03-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-03-01-危 疾 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-03-01-危 疾 保 險 利 益.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-03-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-03-02-長 期 護 理 利 益.md",
+      "target_path": "converted/fables/03/03-03-02-長 期 護 理 利 益.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-03-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-03-提 前 支 付 死 亡 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-03-提 前 支 付 死 亡 保 險 利 益.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-04-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-04-01-自 願 醫 保 計 劃.md",
+      "target_path": "converted/fables/03/03-04-01-自 願 醫 保 計 劃.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-04-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-04-02-醫 療 保 險 業 務 指 引（指 引 31）.md",
+      "target_path": "converted/fables/03/03-04-02-醫 療 保 險 業 務 指 引（指 引 31）.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-04-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-04-醫 療 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-04-醫 療 保 險 利 益.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-05-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-05-01-保證可保選擇.md",
+      "target_path": "converted/fables/03/03-05-01-保證可保選擇.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-05-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-05-可 保 權 利 益.md",
+      "target_path": "converted/fables/03/03-05-可 保 權 利 益.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-06-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-06-01-生 活 指 數 調 整 利 益.md",
+      "target_path": "converted/fables/03/03-06-01-生 活 指 數 調 整 利 益.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "03-06-01": {
+      "status": "pending",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-06-通 貨 膨 脹 調 整.md",
+      "target_path": "converted/fables/03/03-06-通 貨 膨 脹 調 整.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-01-完 整 合 約 條 款.md",
+      "target_path": "converted/fables/04/04-01-完 整 合 約 條 款.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-02-不 可 異 議 條 款.md",
+      "target_path": "converted/fables/04/04-02-不 可 異 議 條 款.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-03-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-03-寬 限 期.md",
+      "target_path": "converted/fables/04/04-03-寬 限 期.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-04-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-04-受 益 人 的 指 定.md",
+      "target_path": "converted/fables/04/04-04-受 益 人 的 指 定.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-05-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-05-不 能 作 廢 條 款.md",
+      "target_path": "converted/fables/04/04-05-不 能 作 廢 條 款.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-06-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-06-保 單 抵 押 貸 款.md",
+      "target_path": "converted/fables/04/04-06-保 單 抵 押 貸 款.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-07-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-07-復 效.md",
+      "target_path": "converted/fables/04/04-07-復 效.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-08-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-08-誤 報 年 齡 或 性 別.md",
+      "target_path": "converted/fables/04/04-08-誤 報 年 齡 或 性 別.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-09-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-09-轉 讓.md",
+      "target_path": "converted/fables/04/04-09-轉 讓.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-10-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-10-紅 利 選 擇.md",
+      "target_path": "converted/fables/04/04-10-紅 利 選 擇.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-11-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-11-賠 付 選 擇.md",
+      "target_path": "converted/fables/04/04-11-賠 付 選 擇.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "04-12-01": {
+      "status": "pending",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-12-自 殺 除 外 責 任.md",
+      "target_path": "converted/fables/04/04-12-自 殺 除 外 責 任.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-01-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-01-01-典 型 公 司 運 作 結 構.md",
+      "target_path": "converted/fables/05/05-01-01-典 型 公 司 運 作 結 構.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-01-公 司 運 作.md",
+      "target_path": "converted/fables/05/05-01-公 司 運 作.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-01-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-01-獲授權保險人和持牌保險中介人在營銷、推廣或分銷類別C產品.md",
+      "target_path": "converted/fables/05/05-01-獲授權保險人和持牌保險中介人在營銷、推廣或分銷類別C產品時，不應.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-01-投 保 手 續.md",
+      "target_path": "converted/fables/05/05-02-01-投 保 手 續.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-02-收 據 及 保 單 生 效.md",
+      "target_path": "converted/fables/05/05-02-02-收 據 及 保 單 生 效.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-03-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-03-怎 樣達 致高 素 質 的 顧 客 服 務.md",
+      "target_path": "converted/fables/05/05-02-03-怎 樣達 致高 素 質 的 顧 客 服 務.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-03-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-03-顧 客 服 務的 重 要 性.md",
+      "target_path": "converted/fables/05/05-02-03-顧 客 服 務的 重 要 性.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-03-01-2": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-03-顧客服務 方 針 及 標 準.md",
+      "target_path": "converted/fables/05/05-02-03-顧客服務 方 針 及 標 準.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-04-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-04-冷 靜 期.md",
+      "target_path": "converted/fables/05/05-02-04-冷 靜 期.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-05-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-05-轉 保.md",
+      "target_path": "converted/fables/05/05-02-05-轉 保.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-06-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-06-分 紅 保 單 利 益說 明文 件 的 具 體 規定（指.md",
+      "target_path": "converted/fables/05/05-02-06-分 紅 保 單 利 益說 明文 件 的 具 體 規定（指 引 2.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-06-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-06-萬用壽險（非投資相連）保單利益說明文件的具體規定（指 引.md",
+      "target_path": "converted/fables/05/05-02-06-萬用壽險（非投資相連）保單利益說明文件的具體規定（指 引 28.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-06-01-2": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-06-長 期 保 險 保 單 利 益 說 明.md",
+      "target_path": "converted/fables/05/05-02-06-長 期 保 險 保 單 利 益 說 明.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-06-01-3": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-06-非 分 紅 保 單 利 益 說 明 文 件 的 具 體 .md",
+      "target_path": "converted/fables/05/05-02-06-非 分 紅 保 單 利 益 說 明 文 件 的 具 體 規 定（.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-07-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-07-人 壽 保 險 人 在 紅 利 方 面 的 透 明 度.md",
+      "target_path": "converted/fables/05/05-02-07-人 壽 保 險 人 在 紅 利 方 面 的 透 明 度.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-07-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-07-分 紅保 單 的 好 處.md",
+      "target_path": "converted/fables/05/05-02-07-分 紅保 單 的 好 處.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-07-01-2": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-07-派 發 保 單 紅 利.md",
+      "target_path": "converted/fables/05/05-02-07-派 發 保 單 紅 利.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-07-01-3": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-07-派 發 紅 利 的 基 本 原 理.md",
+      "target_path": "converted/fables/05/05-02-07-派 發 紅 利 的 基 本 原 理.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-07-01-4": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-07-派 發 紅 利 的 方 式.md",
+      "target_path": "converted/fables/05/05-02-07-派 發 紅 利 的 方 式.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-08-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-08-《 承 保 長 期 保 險 業 務 （ 類 別 C 業 .md",
+      "target_path": "converted/fables/05/05-02-08-《 承 保 長 期 保 險 業 務 （ 類 別 C 業 務 除.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-09-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-09-《 財 務 需 要 分 析指 引》（指 引30）.md",
+      "target_path": "converted/fables/05/05-02-09-《 財 務 需 要 分 析指 引》（指 引30）.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-10-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-10-重 要 資 料 聲 明 書—內 地 人 士 在 港 投 .md",
+      "target_path": "converted/fables/05/05-02-10-重 要 資 料 聲 明 書—內 地 人 士 在 港 投 購 人身.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-11-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-11-送 贈 禮 品 指 引 （ 指 引 25）.md",
+      "target_path": "converted/fables/05/05-02-11-送 贈 禮 品 指 引 （ 指 引 25）.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-投 保.md",
+      "target_path": "converted/fables/05/05-02-投 保.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-02-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-除在符合第5.3段的規定之情況外，獲授權保險人和持牌保險.md",
+      "target_path": "converted/fables/05/05-02-除在符合第5.3段的規定之情況外，獲授權保險人和持牌保險中介人在.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-03-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-01-核 保因 素.md",
+      "target_path": "converted/fables/05/05-03-01-核 保因 素.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-03-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-02-免 體 檢 業 務.md",
+      "target_path": "converted/fables/05/05-03-02-免 體 檢 業 務.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-03-02-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-02-要 體 檢 業 務.md",
+      "target_path": "converted/fables/05/05-03-02-要 體 檢 業 務.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-03-02-01-2": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-02-醫 療 報 告.md",
+      "target_path": "converted/fables/05/05-03-02-醫 療 報 告.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-03-03-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-03-次 標 準 人 壽 及 核 保 措 施.md",
+      "target_path": "converted/fables/05/05-03-03-次 標 準 人 壽 及 核 保 措 施.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-03-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-就第 5.2段而言，僅於獲授權保险人或持牌保险中介人根據.md",
+      "target_path": "converted/fables/05/05-03-就第 5.2段而言，僅於獲授權保险人或持牌保险中介人根據其作出的.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-03-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-核 保.md",
+      "target_path": "converted/fables/05/05-03-核 保.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-04-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-04-01-交 付 保 單.md",
+      "target_path": "converted/fables/05/05-04-01-交 付 保 單.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-04-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-04-簽 發 保 單.md",
+      "target_path": "converted/fables/05/05-04-簽 發 保 單.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-05-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-05-01-更 改 保 單.md",
+      "target_path": "converted/fables/05/05-05-01-更 改 保 單.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-05-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-05-售 後 服 務.md",
+      "target_path": "converted/fables/05/05-05-售 後 服 務.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-06-01-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-01-期 滿 索 償.md",
+      "target_path": "converted/fables/05/05-06-01-期 滿 索 償.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-06-02-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-02-死 亡 索 償.md",
+      "target_path": "converted/fables/05/05-06-02-死 亡 索 償.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-06-03-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-03-保險業監管局（“保監局”）依據《保險業條例》（第41章).md",
+      "target_path": "converted/fables/05/05-06-03-保險業監管局（“保監局”）依據《保險業條例》（第41章)(“該條.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-06-03-01-1": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-03-在保險產品的營銷、推廣或分銷過程中為客戶送贈禮品(如本指.md",
+      "target_path": "converted/fables/05/05-06-03-在保險產品的營銷、推廣或分銷過程中為客戶送贈禮品(如本指引第2節.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-06-03-01-2": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-03-在本指引中，除文意另有所指外：.md",
+      "target_path": "converted/fables/05/05-06-03-在本指引中，除文意另有所指外：.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-06-03-01-3": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-03-本指引並非附屬法例，故不具法律效力，及不應被詮釋為凌駕於.md",
+      "target_path": "converted/fables/05/05-06-03-本指引並非附屬法例，故不具法律效力，及不應被詮釋為凌駕於任何法律.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-06-03-01-4": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-03-本指引適用於所有經營長期業務的獲授權保險人及所有就長期業.md",
+      "target_path": "converted/fables/05/05-06-03-本指引適用於所有經營長期業務的獲授權保險人及所有就長期業務進行受.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-06-03-01-5": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-03-本指引（在適當情況下）應與該條例的相關條文及所有由保監局.md",
+      "target_path": "converted/fables/05/05-06-03-本指引（在適當情況下）應與該條例的相關條文及所有由保監局或其他監.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-06-03-01-6": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-03-退 保.md",
+      "target_path": "converted/fables/05/05-06-03-退 保.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-06-03-01-7": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-03-除非另有指明，本指引內所使用的字詞與該條例中所界定者具相.md",
+      "target_path": "converted/fables/05/05-06-03-除非另有指明，本指引內所使用的字詞與該條例中所界定者具相同涵義.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    },
+    "05-06-01": {
+      "status": "pending",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-理 賠.md",
+      "target_path": "converted/fables/05/05-06-理 賠.md",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      }
+    }
+  }
+}

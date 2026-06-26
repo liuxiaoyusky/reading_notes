@@ -1,0 +1,2017 @@
+{
+  "last_updated": "2026-06-26T14:44:36.994238+08:00",
+  "schema_version": 2,
+  "retry_threshold": 3,
+  "sections": {
+    "01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-01-壽 險 定 義.md",
+      "target_path": "converted/fables/01/01-01-壽 險 定 義.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-25T17:15:57.630978+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-25T17:15:57.689886+08:00"
+        }
+      },
+      "updated_at": "2026-06-25T17:15:57.689639+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-25T17:15:57.550351+08:00",
+      "finished_at": "2026-06-25T17:15:57.689893+08:00"
+    },
+    "01-01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-01-01-壽 險 的 需 求.md",
+      "target_path": "converted/fables/01/01-01-01-壽 險 的 需 求.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-25T17:17:23.586038+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-25T17:17:23.626496+08:00"
+        }
+      },
+      "updated_at": "2026-06-25T17:17:23.626140+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-25T17:17:23.478502+08:00",
+      "finished_at": "2026-06-25T17:17:23.626499+08:00"
+    },
+    "01-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-02-壽 險 原 則.md",
+      "target_path": "converted/fables/01/01-02-壽 險 原 則.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:02.328918+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:02.359157+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:40:02.359038+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:40:02.264568+08:00",
+      "finished_at": "2026-06-26T11:40:02.359160+08:00"
+    },
+    "01-02-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-02-01-可 保 權 益.md",
+      "target_path": "converted/fables/01/01-02-01-可 保 權 益.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:02.464460+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:02.497753+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:40:02.497644+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:40:02.391247+08:00",
+      "finished_at": "2026-06-26T11:40:02.497756+08:00"
+    },
+    "01-02-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-02-02-披 露 責 任 （ 或 稱 申 報 實 情 責 任 ）.md",
+      "target_path": "converted/fables/01/01-02-02-披 露 責 任 （ 或 稱 申 報 實 情 責 任 ）.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-25T17:20:52.086385+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-25T17:20:52.119597+08:00"
+        }
+      },
+      "updated_at": "2026-06-25T17:20:52.119484+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-25T17:20:52.014855+08:00",
+      "finished_at": "2026-06-25T17:20:52.119600+08:00"
+    },
+    "01-02-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-02-03-其他保險原則.md",
+      "target_path": "converted/fables/01/01-02-03-其他保險原則.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:02.597463+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:02.629795+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:40:02.629695+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:40:02.530683+08:00",
+      "finished_at": "2026-06-26T11:40:02.629798+08:00"
+    },
+    "01-03-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-壽 險 保 費 的 計 算.md",
+      "target_path": "converted/fables/01/01-03-壽 險 保 費 的 計 算.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 01-03-01-01-1"
+    },
+    "01-03-01-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-01-定 價 因 素.md",
+      "target_path": "converted/fables/01/01-03-01-定 價 因 素.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 01-03-01-01-1"
+    },
+    "01-03-01-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-01-死 亡 率 、 利 息 及 開 支.md",
+      "target_path": "converted/fables/01/01-03-01-死 亡 率 、 利 息 及 開 支.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-25T17:21:35.152975+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-25T17:21:35.200583+08:00"
+        }
+      },
+      "updated_at": "2026-06-25T17:21:35.200445+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-25T17:21:35.070153+08:00",
+      "finished_at": "2026-06-25T17:21:35.200586+08:00"
+    },
+    "01-03-01-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-01-其 他 因 素.md",
+      "target_path": "converted/fables/01/01-03-01-其 他 因 素.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:02.728163+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:02.759208+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:40:02.759110+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:40:02.662946+08:00",
+      "finished_at": "2026-06-26T11:40:02.759211+08:00"
+    },
+    "01-03-02-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-02-定 價 制 度.md",
+      "target_path": "converted/fables/01/01-03-02-定 價 制 度.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 01-03-02-01-1"
+    },
+    "01-03-02-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-02-自 然 保 費（ 釐 定 ）制 度.md",
+      "target_path": "converted/fables/01/01-03-02-自 然 保 費（ 釐 定 ）制 度.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:02.857776+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:02.890334+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:40:02.890196+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:40:02.793974+08:00",
+      "finished_at": "2026-06-26T11:40:02.890337+08:00"
+    },
+    "01-03-02-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/01-人壽保 險簡介/01-03-02-均 衡 保 費（ 釐 定 ）制 度.md",
+      "target_path": "converted/fables/01/01-03-02-均 衡 保 費（ 釐 定 ）制 度.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:02.986972+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:40:03.019838+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:40:03.019726+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:40:02.923072+08:00",
+      "finished_at": "2026-06-26T11:40:03.019841+08:00"
+    },
+    "02-01-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-傳 統 的 人 壽 保 險 類 別.md",
+      "target_path": "converted/fables/02/02-01-傳 統 的 人 壽 保 險 類 別.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 02-01-01-01"
+    },
+    "02-01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-01-定 期 壽 險.md",
+      "target_path": "converted/fables/02/02-01-01-定 期 壽 險.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:44:41.037939+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:44:41.070299+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:44:41.070186+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:44:34.454168+08:00",
+      "finished_at": "2026-06-26T11:44:41.070303+08:00"
+    },
+    "02-01-01-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-01-定 額／遞 減／遞 增 定 期 壽 險.md",
+      "target_path": "converted/fables/02/02-01-01-定 額／遞 減／遞 增 定 期 壽 險.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:49:10.718575+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:49:10.748376+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:49:10.748275+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:49:10.657543+08:00",
+      "finished_at": "2026-06-26T11:49:10.748380+08:00"
+    },
+    "02-01-01-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-01-可續保／可轉換定期壽險.md",
+      "target_path": "converted/fables/02/02-01-01-可續保／可轉換定期壽險.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:51:49.416191+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:51:49.445730+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:51:49.445628+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:51:49.354235+08:00",
+      "finished_at": "2026-06-26T11:51:49.445733+08:00"
+    },
+    "02-01-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-02-儲 蓄 壽 險.md",
+      "target_path": "converted/fables/02/02-01-02-儲 蓄 壽 險.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:53:54.477684+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:53:54.507566+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:53:54.507464+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:53:54.415924+08:00",
+      "finished_at": "2026-06-26T11:53:54.507569+08:00"
+    },
+    "02-01-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-01-03-終 身 壽 險.md",
+      "target_path": "converted/fables/02/02-01-03-終 身 壽 險.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:56:03.241560+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:56:03.274670+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:56:03.274566+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:56:03.181434+08:00",
+      "finished_at": "2026-06-26T11:56:03.274675+08:00"
+    },
+    "02-02-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-02-非 傳 統 的 人 壽 保 險 類 別.md",
+      "target_path": "converted/fables/02/02-02-非 傳 統 的 人 壽 保 險 類 別.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 02-02-01-01"
+    },
+    "02-02-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-02-01-萬 用 壽 險.md",
+      "target_path": "converted/fables/02/02-02-01-萬 用 壽 險.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:59:37.583170+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T11:59:37.613399+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T11:59:37.613287+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T11:59:37.522603+08:00",
+      "finished_at": "2026-06-26T11:59:37.613404+08:00"
+    },
+    "02-02-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-02-02-單 位 相 連 長 期 保 險.md",
+      "target_path": "converted/fables/02/02-02-02-單 位 相 連 長 期 保 險.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:01:09.505031+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:01:09.534325+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:01:09.534229+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:01:09.445271+08:00",
+      "finished_at": "2026-06-26T12:01:09.534329+08:00"
+    },
+    "02-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-年 金 及 退 休 金.md",
+      "target_path": "converted/fables/02/02-03-年 金 及 退 休 金.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:02:25.803915+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:02:25.833168+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:02:25.833073+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:02:25.740485+08:00",
+      "finished_at": "2026-06-26T12:02:25.833171+08:00"
+    },
+    "02-03-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-01-年 金.md",
+      "target_path": "converted/fables/02/02-03-01-年 金.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:04:59.156462+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:04:59.186480+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:04:59.186380+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:04:59.096560+08:00",
+      "finished_at": "2026-06-26T12:04:59.186483+08:00"
+    },
+    "02-03-01-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-01-香港年金計劃 - 一個公共即 期 終 身 年 金 計 劃.md",
+      "target_path": "converted/fables/02/02-03-01-香港年金計劃 - 一個公共即 期 終 身 年 金 計 劃.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:06:44.585677+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:06:44.615969+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:06:44.615861+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:06:44.525229+08:00",
+      "finished_at": "2026-06-26T12:06:44.615973+08:00"
+    },
+    "02-03-01-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-01-延 期 年 金 保 費 的 稅 務 扣 除.md",
+      "target_path": "converted/fables/02/02-03-01-延 期 年 金 保 費 的 稅 務 扣 除.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:09:05.923171+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:09:05.952607+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:09:05.952516+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:09:05.863661+08:00",
+      "finished_at": "2026-06-26T12:09:05.952611+08:00"
+    },
+    "02-03-01-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-01b-指 引 19 認 證 準 則.md",
+      "target_path": "converted/fables/02/02-03-01-2.3.1b-1 指 引 19 認 證 準 則.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:10:31.762404+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:10:31.792086+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:10:31.791988+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:10:31.702912+08:00",
+      "finished_at": "2026-06-26T12:10:31.792089+08:00"
+    },
+    "02-03-01-01-4": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-01c-合 資 格 延 期 年 金 保 單 標 誌 指 南.md",
+      "target_path": "converted/fables/02/02-03-01-2.3.1b-2 合 資 格 延 期 年 金 保 單 標 誌 指.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:12:23.692103+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:12:23.722076+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:12:23.721979+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:12:23.629226+08:00",
+      "finished_at": "2026-06-26T12:12:23.722081+08:00"
+    },
+    "02-03-02-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-03-02-退 休 金.md",
+      "target_path": "converted/fables/02/02-03-02-退 休 金.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 02-03-01"
+    },
+    "02-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/02-人壽保 險及年金的種 類/02-04-團 體 及 個 人 保 險 計 劃.md",
+      "target_path": "converted/fables/02/02-04-團 體 及 個 人 保 險 計 劃.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:15:52.071210+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:15:52.100844+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:15:52.100738+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:15:52.011752+08:00",
+      "finished_at": "2026-06-26T12:15:52.100847+08:00"
+    },
+    "03-01-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-01-殘 疾 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-01-殘 疾 保 險 利 益.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 03-01-01-01"
+    },
+    "03-01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-01-01-殘 疾 豁 免 保 費（ 即 豁 免 保 費 附約.md",
+      "target_path": "converted/fables/03/03-01-01-殘 疾 豁 免 保 費（ 即 豁 免 保 費 附約.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:17:36.338432+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:17:36.373777+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:17:36.373621+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:17:36.175836+08:00",
+      "finished_at": "2026-06-26T12:17:36.373784+08:00"
+    },
+    "03-01-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-01-02-殘 疾 收 入.md",
+      "target_path": "converted/fables/03/03-01-02-殘 疾 收 入.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:18:31.893967+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:18:31.923935+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:18:31.923839+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:18:31.835143+08:00",
+      "finished_at": "2026-06-26T12:18:31.923939+08:00"
+    },
+    "03-02-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-02-意 外 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-02-意 外 保 險 利 益.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 03-02-01-01"
+    },
+    "03-02-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-02-01-意 外 死 亡 及 喪 失 肢 體.md",
+      "target_path": "converted/fables/03/03-02-01-意 外 死 亡 及 喪 失 肢 體.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:22:14.119141+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:22:14.148319+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:22:14.148218+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:22:14.059500+08:00",
+      "finished_at": "2026-06-26T12:22:14.148323+08:00"
+    },
+    "03-02-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-02-02-其 他 意 外 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-02-02-其 他 意 外 保 險 利 益.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:28:11.383513+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:28:11.413120+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:28:11.413019+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:28:11.323712+08:00",
+      "finished_at": "2026-06-26T12:28:11.413123+08:00"
+    },
+    "03-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-03-提 前 支 付 死 亡 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-03-提 前 支 付 死 亡 保 險 利 益.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:33:51.895386+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:33:51.925940+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:33:51.925845+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:33:51.833764+08:00",
+      "finished_at": "2026-06-26T12:33:51.925944+08:00"
+    },
+    "03-03-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-03-01-危 疾 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-03-01-危 疾 保 險 利 益.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:34:49.779058+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:34:49.808319+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:34:49.808229+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:34:49.719994+08:00",
+      "finished_at": "2026-06-26T12:34:49.808321+08:00"
+    },
+    "03-03-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-03-02-長 期 護 理 利 益.md",
+      "target_path": "converted/fables/03/03-03-02-長 期 護 理 利 益.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:37:10.057472+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:37:10.086635+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:37:10.086547+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:37:09.997808+08:00",
+      "finished_at": "2026-06-26T12:37:10.086638+08:00"
+    },
+    "03-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-04-醫 療 保 險 利 益.md",
+      "target_path": "converted/fables/03/03-04-醫 療 保 險 利 益.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:39:00.378653+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:39:00.408187+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:39:00.408089+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:39:00.317171+08:00",
+      "finished_at": "2026-06-26T12:39:00.408189+08:00"
+    },
+    "03-04-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-04-01-自 願 醫 保 計 劃.md",
+      "target_path": "converted/fables/03/03-04-01-自 願 醫 保 計 劃.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:40:15.530269+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:40:15.559472+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:40:15.559386+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:40:15.470977+08:00",
+      "finished_at": "2026-06-26T12:40:15.559475+08:00"
+    },
+    "03-04-01-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-04-01a-自 願 醫 保 的 基 本 特 點.md",
+      "target_path": "converted/fables/03/03-04-01-自 願 醫 保 的 基 本 特 點.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:43:49.807350+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:43:49.838223+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:43:49.838111+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:43:49.746426+08:00",
+      "finished_at": "2026-06-26T12:43:49.838227+08:00"
+    },
+    "03-04-01-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-04-01b-自 願 醫 保 的 管 理.md",
+      "target_path": "converted/fables/03/03-04-01-自 願 醫 保 的 管 理.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:45:49.823067+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:45:49.852623+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:45:49.852519+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:45:49.763412+08:00",
+      "finished_at": "2026-06-26T12:45:49.852626+08:00"
+    },
+    "03-04-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-04-02-醫 療 保 險 業 務 指 引（指 引 31）.md",
+      "target_path": "converted/fables/03/03-04-02-醫 療 保 險 業 務 指 引（指 引 31）.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:50:02.091115+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:50:02.120488+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:50:02.120384+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:50:02.026799+08:00",
+      "finished_at": "2026-06-26T12:50:02.120491+08:00"
+    },
+    "03-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-05-可 保 權 利 益.md",
+      "target_path": "converted/fables/03/03-05-可 保 權 利 益.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:51:07.569981+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:51:07.600337+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:51:07.600234+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:51:07.509555+08:00",
+      "finished_at": "2026-06-26T12:51:07.600340+08:00"
+    },
+    "03-05-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-05-01-保證可保選擇.md",
+      "target_path": "converted/fables/03/03-05-01-保證可保選擇.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:52:11.711544+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:52:11.743788+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:52:11.743688+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:52:11.651117+08:00",
+      "finished_at": "2026-06-26T12:52:11.743791+08:00"
+    },
+    "03-06-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-06-通 貨 膨 脹 調 整.md",
+      "target_path": "converted/fables/03/03-06-通 貨 膨 脹 調 整.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:53:29.108648+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:53:29.138418+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:53:29.138320+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:53:29.049803+08:00",
+      "finished_at": "2026-06-26T12:53:29.138422+08:00"
+    },
+    "03-06-01-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/03-保險利 益附約及其他 產品/03-06-01-生 活 指 數 調 整 利 益.md",
+      "target_path": "converted/fables/03/03-06-01-生 活 指 數 調 整 利 益.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 03-06-01"
+    },
+    "04-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-01-完 整 合 約 條 款.md",
+      "target_path": "converted/fables/04/04-01-完 整 合 約 條 款.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:55:27.440033+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:55:27.469725+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:55:27.469635+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:55:27.380125+08:00",
+      "finished_at": "2026-06-26T12:55:27.469728+08:00"
+    },
+    "04-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-02-不 可 異 議 條 款.md",
+      "target_path": "converted/fables/04/04-02-不 可 異 議 條 款.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:56:59.739744+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:56:59.769924+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:56:59.769836+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:56:59.680208+08:00",
+      "finished_at": "2026-06-26T12:56:59.769927+08:00"
+    },
+    "04-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-03-寬 限 期.md",
+      "target_path": "converted/fables/04/04-03-寬 限 期.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:58:07.778091+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:58:07.807425+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:58:07.807340+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:58:07.717347+08:00",
+      "finished_at": "2026-06-26T12:58:07.807429+08:00"
+    },
+    "04-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-04-受 益 人 的 指 定.md",
+      "target_path": "converted/fables/04/04-04-受 益 人 的 指 定.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:58:50.985709+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:58:51.015209+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:58:51.015112+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:58:50.925788+08:00",
+      "finished_at": "2026-06-26T12:58:51.015212+08:00"
+    },
+    "04-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-05-不 能 作 廢 條 款.md",
+      "target_path": "converted/fables/04/04-05-不 能 作 廢 條 款.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:59:58.486381+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T12:59:58.515923+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T12:59:58.515830+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T12:59:58.421935+08:00",
+      "finished_at": "2026-06-26T12:59:58.515926+08:00"
+    },
+    "04-06-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-06-保 單 抵 押 貸 款.md",
+      "target_path": "converted/fables/04/04-06-保 單 抵 押 貸 款.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:01:44.421836+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:01:44.450785+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:01:44.450691+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:01:44.362113+08:00",
+      "finished_at": "2026-06-26T13:01:44.450788+08:00"
+    },
+    "04-07-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-07-復 效.md",
+      "target_path": "converted/fables/04/04-07-復 效.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:03:48.998784+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:03:49.028682+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:03:49.028582+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:03:48.938614+08:00",
+      "finished_at": "2026-06-26T13:03:49.028685+08:00"
+    },
+    "04-08-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-08-誤 報 年 齡 或 性 別.md",
+      "target_path": "converted/fables/04/04-08-誤 報 年 齡 或 性 別.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:05:08.864837+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:05:08.895116+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:05:08.895009+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:05:08.804391+08:00",
+      "finished_at": "2026-06-26T13:05:08.895119+08:00"
+    },
+    "04-09-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-09-轉 讓.md",
+      "target_path": "converted/fables/04/04-09-轉 讓.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:06:10.145916+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:06:10.176301+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:06:10.176206+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:06:10.086568+08:00",
+      "finished_at": "2026-06-26T13:06:10.176304+08:00"
+    },
+    "04-10-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-10-紅 利 選 擇.md",
+      "target_path": "converted/fables/04/04-10-紅 利 選 擇.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:06:59.928993+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:06:59.959253+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:06:59.959135+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:06:59.867705+08:00",
+      "finished_at": "2026-06-26T13:06:59.959258+08:00"
+    },
+    "04-11-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-11-賠 付 選 擇.md",
+      "target_path": "converted/fables/04/04-11-賠 付 選 擇.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:07:53.256326+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:07:53.289222+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:07:53.289090+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:07:53.195853+08:00",
+      "finished_at": "2026-06-26T13:07:53.289227+08:00"
+    },
+    "04-12-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/04-闡釋人 壽保險單/04-12-自 殺 除 外 責 任.md",
+      "target_path": "converted/fables/04/04-12-自 殺 除 外 責 任.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:09:02.461059+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:09:02.490391+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:09:02.490302+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:09:02.400993+08:00",
+      "finished_at": "2026-06-26T13:09:02.490394+08:00"
+    },
+    "05-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-01-公 司 運 作.md",
+      "target_path": "converted/fables/05/05-01-公 司 運 作.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:11:34.306922+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:11:34.336473+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:11:34.336388+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:11:34.246605+08:00",
+      "finished_at": "2026-06-26T13:11:34.336476+08:00"
+    },
+    "05-01-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-01-01-典 型 公 司 運 作 結 構.md",
+      "target_path": "converted/fables/05/05-01-01-典 型 公 司 運 作 結 構.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:13:16.274561+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:13:16.304693+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:13:16.304588+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:13:16.214192+08:00",
+      "finished_at": "2026-06-26T13:13:16.304698+08:00"
+    },
+    "05-02-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-投 保.md",
+      "target_path": "converted/fables/05/05-02-投 保.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 05-02-01-01"
+    },
+    "05-02-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-01-投 保 手 續.md",
+      "target_path": "converted/fables/05/05-02-01-投 保 手 續.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:15:49.071277+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:15:49.104562+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:15:49.104451+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:15:49.003562+08:00",
+      "finished_at": "2026-06-26T13:15:49.104567+08:00"
+    },
+    "05-02-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-02-收 據 及 保 單 生 效.md",
+      "target_path": "converted/fables/05/05-02-02-收 據 及 保 單 生 效.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:17:15.562364+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:17:15.592220+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:17:15.592118+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:17:15.503078+08:00",
+      "finished_at": "2026-06-26T13:17:15.592223+08:00"
+    },
+    "05-02-03-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-03-顧客服務 方 針 及 標 準.md",
+      "target_path": "converted/fables/05/05-02-03-顧客服務 方 針 及 標 準.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 05-02-03-01-1"
+    },
+    "05-02-03-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-03-顧 客 服 務的 重 要 性.md",
+      "target_path": "converted/fables/05/05-02-03-顧 客 服 務的 重 要 性.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:18:23.110743+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:18:23.140078+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:18:23.139984+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:18:23.051798+08:00",
+      "finished_at": "2026-06-26T13:18:23.140081+08:00"
+    },
+    "05-02-03-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-03-怎 樣達 致高 素 質 的 顧 客 服 務.md",
+      "target_path": "converted/fables/05/05-02-03-怎 樣達 致高 素 質 的 顧 客 服 務.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:19:52.965958+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:19:52.995873+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:19:52.995778+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:19:52.906455+08:00",
+      "finished_at": "2026-06-26T13:19:52.995877+08:00"
+    },
+    "05-02-04-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-04-冷 靜 期.md",
+      "target_path": "converted/fables/05/05-02-04-冷 靜 期.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:21:03.294005+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:21:03.323693+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:21:03.323600+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:21:03.233632+08:00",
+      "finished_at": "2026-06-26T13:21:03.323696+08:00"
+    },
+    "05-02-04-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-04a-冷 靜 期 內 取 消 保 單 與 中 介 人 義 務.md",
+      "target_path": "converted/fables/05/05-02-04-冷 靜 期 內 取 消 保 單 與 中 介 人 義 務.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:22:32.241267+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:22:32.270890+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:22:32.270795+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:22:32.181083+08:00",
+      "finished_at": "2026-06-26T13:22:32.270893+08:00"
+    },
+    "05-02-04-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-04b-投 保 申 請 書 與 簽 發 保 單 提 示.md",
+      "target_path": "converted/fables/05/05-02-04-投 保 申 請 書 與 簽 發 保 單 提 示.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:24:51.740984+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:24:51.770589+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:24:51.770494+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:24:51.680045+08:00",
+      "finished_at": "2026-06-26T13:24:51.770592+08:00"
+    },
+    "05-02-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-05-轉 保.md",
+      "target_path": "converted/fables/05/05-02-05-轉 保.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:26:27.651280+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:26:27.682596+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:26:27.682505+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:26:27.588117+08:00",
+      "finished_at": "2026-06-26T13:26:27.682599+08:00"
+    },
+    "05-02-05-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-05a-重 要 資 料 聲 明 書 與 內 部 轉 保.md",
+      "target_path": "converted/fables/05/05-02-05-重 要 資 料 聲 明 書 與 內 部 轉 保.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:27:26.446625+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:27:26.476972+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:27:26.476867+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:27:26.386393+08:00",
+      "finished_at": "2026-06-26T13:27:26.476975+08:00"
+    },
+    "05-02-05-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-05b-監 察 投 訴 與 內 部 管 控.md",
+      "target_path": "converted/fables/05/05-02-05-監 察 投 訴 與 內 部 管 控.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:28:45.174046+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:28:45.203229+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:28:45.203125+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:28:45.113698+08:00",
+      "finished_at": "2026-06-26T13:28:45.203234+08:00"
+    },
+    "05-02-06-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-06-長 期 保 險 保 單 利 益 說 明.md",
+      "target_path": "converted/fables/05/05-02-06-長 期 保 險 保 單 利 益 說 明.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:30:07.787482+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:30:07.816838+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:30:07.816742+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:30:07.728088+08:00",
+      "finished_at": "2026-06-26T13:30:07.816841+08:00"
+    },
+    "05-02-06-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-06e-投 資 壽 險 保 單 利 益 說 明 具 體 規 定.md",
+      "target_path": "converted/fables/05/05-02-06-投 資 壽 險 保 單 利 益 說 明 具 體 規 定.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:31:49.140087+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:31:49.170182+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:31:49.170071+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:31:49.078532+08:00",
+      "finished_at": "2026-06-26T13:31:49.170188+08:00"
+    },
+    "05-02-06-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-06-分 紅 保 單 利 益說 明文 件 的 具 體 規定（指.md",
+      "target_path": "converted/fables/05/05-02-06-分 紅 保 單 利 益說 明文 件 的 具 體 規定（指 引 2.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:42:05.193624+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:42:05.225943+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:42:05.225815+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:42:05.128955+08:00",
+      "finished_at": "2026-06-26T13:42:05.225947+08:00"
+    },
+    "05-02-06-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-06-萬用壽險（非投資相連）保單利益說明文件的具體規定（指 引.md",
+      "target_path": "converted/fables/05/05-02-06-萬用壽險（非投資相連）保單利益說明文件的具體規定（指 引 28.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:45:31.166041+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:45:31.203174+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:45:31.202930+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:45:31.097301+08:00",
+      "finished_at": "2026-06-26T13:45:31.203180+08:00"
+    },
+    "05-02-06-01-4": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-06-非 分 紅 保 單 利 益 說 明 文 件 的 具 體 .md",
+      "target_path": "converted/fables/05/05-02-06-非 分 紅 保 單 利 益 說 明 文 件 的 具 體 規 定（.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:48:11.992357+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:48:12.027327+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:48:12.027202+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:48:11.929281+08:00",
+      "finished_at": "2026-06-26T13:48:12.027330+08:00"
+    },
+    "05-02-07-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-07-派 發 保 單 紅 利.md",
+      "target_path": "converted/fables/05/05-02-07-派 發 保 單 紅 利.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 05-02-07-01-1"
+    },
+    "05-02-07-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-07-派 發 紅 利 的 基 本 原 理.md",
+      "target_path": "converted/fables/05/05-02-07-派 發 紅 利 的 基 本 原 理.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:51:51.310590+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:51:51.341939+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:51:51.341829+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:51:51.183499+08:00",
+      "finished_at": "2026-06-26T13:51:51.341942+08:00"
+    },
+    "05-02-07-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-07-派 發 紅 利 的 方 式.md",
+      "target_path": "converted/fables/05/05-02-07-派 發 紅 利 的 方 式.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:52:54.303130+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:52:54.336288+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:52:54.336169+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:52:54.233916+08:00",
+      "finished_at": "2026-06-26T13:52:54.336291+08:00"
+    },
+    "05-02-07-01-3": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-07-分 紅保 單 的 好 處.md",
+      "target_path": "converted/fables/05/05-02-07-分 紅保 單 的 好 處.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:54:58.062758+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:54:58.097709+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:54:58.097571+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:54:57.997847+08:00",
+      "finished_at": "2026-06-26T13:54:58.097713+08:00"
+    },
+    "05-02-07-01-4": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-07-人 壽 保 險 人 在 紅 利 方 面 的 透 明 度.md",
+      "target_path": "converted/fables/05/05-02-07-人 壽 保 險 人 在 紅 利 方 面 的 透 明 度.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:57:45.622427+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T13:57:45.653383+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T13:57:45.653284+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T13:57:45.552578+08:00",
+      "finished_at": "2026-06-26T13:57:45.653385+08:00"
+    },
+    "05-02-08-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-08-《 承 保 長 期 保 險 業 務 （ 類 別 C 業 .md",
+      "target_path": "converted/fables/05/05-02-08-《 承 保 長 期 保 險 業 務 （ 類 別 C 業 務 除.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:00:48.635198+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:00:48.665137+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:00:48.665017+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:00:48.569800+08:00",
+      "finished_at": "2026-06-26T14:00:48.665143+08:00"
+    },
+    "05-02-09-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-09-《 財 務 需 要 分 析指 引》（指 引30）.md",
+      "target_path": "converted/fables/05/05-02-09-《 財 務 需 要 分 析指 引》（指 引30）.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:07:36.152051+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:07:36.185194+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:07:36.185050+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:07:36.084070+08:00",
+      "finished_at": "2026-06-26T14:07:36.185198+08:00"
+    },
+    "05-02-09-01-1": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-09a-作 出 建 議 與 處 理 錯 配.md",
+      "target_path": "converted/fables/05/05-02-09-作 出 建 議 與 處 理 錯 配.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:15:07.449301+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:15:07.479386+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:15:07.479273+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:15:07.386419+08:00",
+      "finished_at": "2026-06-26T14:15:07.479391+08:00"
+    },
+    "05-02-10-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-10-重 要 資 料 聲 明 書—內 地 人 士 在 港 投 .md",
+      "target_path": "converted/fables/05/05-02-10-重 要 資 料 聲 明 書—內 地 人 士 在 港 投 購 人身.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:18:10.088225+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:18:10.118573+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:18:10.118453+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:18:10.027430+08:00",
+      "finished_at": "2026-06-26T14:18:10.118577+08:00"
+    },
+    "05-02-11-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-02-11-送 贈 禮 品 指 引 （ 指 引 25）.md",
+      "target_path": "converted/fables/05/05-02-11-送 贈 禮 品 指 引 （ 指 引 25）.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:19:37.235471+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:19:37.265141+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:19:37.265030+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:19:37.175719+08:00",
+      "finished_at": "2026-06-26T14:19:37.265145+08:00"
+    },
+    "05-03-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-核 保.md",
+      "target_path": "converted/fables/05/05-03-核 保.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 05-03-01-01"
+    },
+    "05-03-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-01-核 保因 素.md",
+      "target_path": "converted/fables/05/05-03-01-核 保因 素.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:21:26.111669+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:21:26.142162+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:21:26.142037+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:21:26.049020+08:00",
+      "finished_at": "2026-06-26T14:21:26.142166+08:00"
+    },
+    "05-03-02-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-02-醫 療 報 告.md",
+      "target_path": "converted/fables/05/05-03-02-醫 療 報 告.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 05-03-02-01-2"
+    },
+    "05-03-02-01-1": {
+      "status": "skipped",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-02-免 體 檢 業 務.md",
+      "target_path": "converted/fables/05/05-03-02-免 體 檢 業 務.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 05-03-02-01-2"
+    },
+    "05-03-02-01-2": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-02-要 體 檢 業 務.md",
+      "target_path": "converted/fables/05/05-03-02-要 體 檢 業 務.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:25:53.946180+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:25:53.976556+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:25:53.976464+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:25:53.884352+08:00",
+      "finished_at": "2026-06-26T14:25:53.976559+08:00"
+    },
+    "05-03-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-03-03-次 標 準 人 壽 及 核 保 措 施.md",
+      "target_path": "converted/fables/05/05-03-03-次 標 準 人 壽 及 核 保 措 施.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:28:00.129035+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:28:00.158891+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:28:00.158797+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:28:00.064704+08:00",
+      "finished_at": "2026-06-26T14:28:00.158895+08:00"
+    },
+    "05-04-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/05-人壽保 險程序/05-04-簽 發 保 單.md",
+      "target_path": "converted/fables/05/05-04-簽 發 保 單.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 05-04-01-01"
+    },
+    "05-04-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-04-01-交 付 保 單.md",
+      "target_path": "converted/fables/05/05-04-01-交 付 保 單.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:29:23.753699+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:29:23.783998+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:29:23.783898+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:29:23.692771+08:00",
+      "finished_at": "2026-06-26T14:29:23.784001+08:00"
+    },
+    "05-05-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-05-售 後 服 務.md",
+      "target_path": "converted/fables/05/05-05-售 後 服 務.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:30:52.496520+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:30:52.526931+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:30:52.526832+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:30:52.435625+08:00",
+      "finished_at": "2026-06-26T14:30:52.526935+08:00"
+    },
+    "05-05-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-05-01-更 改 保 單.md",
+      "target_path": "converted/fables/05/05-05-01-更 改 保 單.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:32:41.565452+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:32:41.601041+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:32:41.600926+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:32:41.489766+08:00",
+      "finished_at": "2026-06-26T14:32:41.601044+08:00"
+    },
+    "05-06-01": {
+      "status": "skipped",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-理 賠.md",
+      "target_path": "converted/fables/05/05-06-理 賠.md",
+      "generation_policy": "merge_into",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": null,
+        "quality_review": null
+      },
+      "skipped_reason": "merged into 05-06-01-01"
+    },
+    "05-06-01-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-01-期 滿 索 償.md",
+      "target_path": "converted/fables/05/05-06-01-期 滿 索 償.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:39:50.270266+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:39:50.301084+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:39:50.300985+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:39:50.205731+08:00",
+      "finished_at": "2026-06-26T14:39:50.301088+08:00"
+    },
+    "05-06-02-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-02-死 亡 索 償.md",
+      "target_path": "converted/fables/05/05-06-02-死 亡 索 償.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:41:26.161070+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:41:26.192292+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:41:26.192196+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:41:26.100622+08:00",
+      "finished_at": "2026-06-26T14:41:26.192295+08:00"
+    },
+    "05-06-03-01": {
+      "status": "quality_passed",
+      "source_path": "converted/sections/05-人壽保 險程序/05-06-03-退 保.md",
+      "target_path": "converted/fables/05/05-06-03-退 保.md",
+      "generation_policy": "direct",
+      "retry_count": 0,
+      "review_log": {
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:44:36.964697+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-26T14:44:36.994234+08:00"
+        }
+      },
+      "updated_at": "2026-06-26T14:44:36.994130+08:00",
+      "mode": "subagent",
+      "started_at": "2026-06-26T14:44:36.903879+08:00",
+      "finished_at": "2026-06-26T14:44:36.994237+08:00"
+    }
+  }
+}

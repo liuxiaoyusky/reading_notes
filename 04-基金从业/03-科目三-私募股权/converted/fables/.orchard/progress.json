@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T17:57:15.972438+08:00",
+  "last_updated": "2026-06-24T20:14:23.606327+08:00",
   "schema_version": 2,
   "legacy_schema_version": "h1-fab-v1",
   "retry_threshold": 3,
@@ -9158,589 +9158,979 @@
       "finished_at": "2026-06-24T17:56:57.833752+08:00"
     },
     "380": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
       "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构/01-一、一般股权交易结构安排.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构/01-一、一般股权交易结构安排.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:28:14.813129+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:33:19.949654+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T18:33:19.949367+08:00",
+      "started_at": "2026-06-24T18:14:57.160013+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语, 4段式, 1核心概念(增资vs受让存量股权), 末尾三段齐全, 5行对应点",
+      "finished_at": "2026-06-24T18:33:19.949657+08:00"
     },
     "381": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
       "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构/02-二、离岸结构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构/02-二、离岸结构.md",
-      "retry_count": 0,
+      "retry_count": 1,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:31:37.617835+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:33:21.185826+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T18:33:21.185561+08:00",
+      "started_at": "2026-06-24T18:15:01.249319+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用红筹/VIE), 4段式, 1核心概念(离岸结构), 末尾三段齐全, 5行对应点",
+      "finished_at": "2026-06-24T18:33:21.185831+08:00"
     },
     "382": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
       "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构/03-（一）红筹结构的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构/03-（一）红筹结构的概念.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:28:14.857772+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:33:22.255635+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T18:33:22.255485+08:00",
+      "started_at": "2026-06-24T18:15:01.299802+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用红筹/上市/离岸), 4段式, 1核心概念(红筹结构), 末尾三段齐全, 5行对应点",
+      "finished_at": "2026-06-24T18:33:22.255641+08:00"
     },
     "383": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
       "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构/04-(二)VIE结构概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构/04-(二)VIE结构概述.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:28:14.901439+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:33:23.342678+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T18:33:23.342512+08:00",
+      "started_at": "2026-06-24T18:15:01.344009+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用VIE/协议控制/离岸/上市), 4段式, 1核心概念(VIE概述), 末尾三段齐全, 7行对应点",
+      "finished_at": "2026-06-24T18:33:23.342681+08:00"
     },
     "384": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
       "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构/05-（三）VIE结构的搭建与拆除.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构/05-（三）VIE结构的搭建与拆除.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:28:14.946678+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:33:28.505179+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T18:33:28.505016+08:00",
+      "started_at": "2026-06-24T18:15:01.385712+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用VIE/上市/离岸), 4段式, 1核心概念(VIE搭建与拆除), 末尾三段齐全, 6行对应点",
+      "finished_at": "2026-06-24T18:33:28.505182+08:00"
     },
     "385": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
       "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构/06-（四）境内股权投资基金的投资方式.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构/06-（四）境内股权投资基金的投资方式.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:28:14.989447+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:33:30.442977+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T18:33:30.442827+08:00",
+      "started_at": "2026-06-24T18:15:01.425642+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用ODI/认股权证/OPCO/离岸/境外/发展改革/商务部门/外汇登记), 4段式, 1核心概念, 末尾三段齐全, 6行对应点",
+      "finished_at": "2026-06-24T18:33:30.442981+08:00"
     },
     "386": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
       "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构/07-1.境外认股权证+境内持股.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构/07-1.境外认股权证+境内持股.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:28:15.033099+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:33:32.538137+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T18:33:32.537956+08:00",
+      "started_at": "2026-06-24T18:15:01.465775+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用增资/认股权证/减资/ODI/OPCO/离岸/境外/股东协议), 4段式, 1核心概念, 末尾三段齐全, 6行对应点",
+      "finished_at": "2026-06-24T18:33:32.538140+08:00"
     },
     "387": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
       "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构/08-2.境外认股权证+境内借款.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构/08-2.境外认股权证+境内借款.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:28:15.077127+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:33:34.158423+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T18:33:34.158226+08:00",
+      "started_at": "2026-06-24T18:15:01.507627+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用借款协议/认股权证/ODI/OPCO/减资), 4段式, 1核心概念, 末尾三段齐全, 6行对应点",
+      "finished_at": "2026-06-24T18:33:34.158427+08:00"
     },
     "388": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
       "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构/09-三、股债结合.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构/09-三、股债结合.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:28:15.122036+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:33:43.433988+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T18:33:43.433656+08:00",
+      "started_at": "2026-06-24T18:15:01.547820+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用过桥贷款/可转债/投贷联动/投保贷联动/商业银行), 4段式, 1核心概念(股债结合), 末尾三段齐全, 6行对应点",
+      "finished_at": "2026-06-24T18:33:43.434001+08:00"
     },
     "389": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
       "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构/10-（一）股权投资基金对目标公司的债权投资.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构/10-（一）股权投资基金对目标公司的债权投资.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:28:15.172559+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:33:44.444852+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T18:33:44.444671+08:00",
+      "started_at": "2026-06-24T18:15:01.587950+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用过桥贷款/可转债/股东贷款/尽职调查), 4段式, 1核心概念(债权投资两种合理情形), 末尾三段齐全, 6行对应点",
+      "finished_at": "2026-06-24T18:33:44.444856+08:00"
     },
     "390": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/05-股权投资基金的投资/05-投资交易结构.md",
       "target_path": "converted/fables/05-股权投资基金的投资/05-投资交易结构/11-（二）投贷联动.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/05-股权投资基金的投资/05-投资交易结构/11-（二）投贷联动.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:28:15.217368+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T18:33:45.322984+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T18:33:45.322820+08:00",
+      "started_at": "2026-06-24T18:15:01.629192+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用投贷联动/商业银行/认股权/尽职调查/股权投资基金), 4段式, 1核心概念(投贷联动), 末尾三段齐全, 6行对应点",
+      "finished_at": "2026-06-24T18:33:45.322989+08:00"
     },
     "391": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述/01-一、投后管理的概念.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述/01-一、投后管理的概念.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:00:56.212824+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:06:37.241113+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T19:06:37.240796+08:00",
+      "started_at": "2026-06-24T18:35:17.387886+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用投后管理/资金/退出等), 4段式(开场何老板买山/冲突老周以为完事/转折何老板登门说没完/结局15年管山到转手), 1核心概念(投后管理), 末尾三段齐全, 7行对应点",
+      "finished_at": "2026-06-24T19:06:37.241116+08:00"
     },
     "392": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述/02-二、基金管理人开展投后管理的主要工作.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述/02-二、基金管理人开展投后管理的主要工作.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:00:56.255696+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:06:42.341306+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T19:06:42.341106+08:00",
+      "started_at": "2026-06-24T18:35:17.437211+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用基金管理人/资金/被投资企业/退出等), 4段式(开场沈小满接账/冲突两本账分合辩论/转折沈老板拍板分头/结局三年稳定运营), 1核心概念(两个层面统筹), 末尾三段齐全, 6行对应点",
+      "finished_at": "2026-06-24T19:06:42.341310+08:00"
     },
     "393": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述/03-（一）基金管理人对被投资企业开展投后管理的主要工作.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述/03-（一）基金管理人对被投资企业开展投后管理的主要工作.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:00:56.297079+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:06:47.487046+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T19:06:47.486773+08:00",
+      "started_at": "2026-06-24T18:35:17.490287+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用基金管理人/被投资企业/投后管理/退出/资金等), 4段式(开场阿贵开馆/冲突苏老板提两问题/转折阿贵想清楚写单/结局按单办), 1核心概念(对被投资企业投后管理引出期间+主要工作), 末尾三段齐全, 6行对应点",
+      "finished_at": "2026-06-24T19:06:47.487050+08:00"
     },
     "394": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述/04-1.对被投资企业开展投后管理的期间.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述/04-1.对被投资企业开展投后管理的期间.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:00:56.337613+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:06:52.295873+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T19:06:52.295695+08:00",
+      "started_at": "2026-06-24T18:35:17.544178+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用投后管理/退出/资金/工商变更等), 4段式(开场乌师傅卖铺/冲突贺木问算接手吗/转折乌师傅解释过户手续/结局三天后办妥), 1核心概念(投后管理期间起止点含工商变更), 末尾三段齐全, 6行对应点",
+      "finished_at": "2026-06-24T19:06:52.295877+08:00"
     },
     "395": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述/05-2.对被投资企业开展投后管理的主要工作.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述/05-2.对被投资企业开展投后管理的主要工作.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:00:56.379171+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:06:57.403226+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T19:06:57.403062+08:00",
+      "started_at": "2026-06-24T18:35:17.596673+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用投后管理/信息获取/风险监测/增值服务/退出/资金等), 4段式(开场何掌柜接手酒馆/冲突信息获取风险监测阿福盯/转折隔壁竞争赵先生增值服务/结局年底碰杯), 1核心概念(对被投资企业主要工作=信息获取+风险监测+增值服务), 末尾三段齐全, 7行对应点",
+      "finished_at": "2026-06-24T19:06:57.403230+08:00"
     },
     "396": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述/06-（二）基金管理人对基金产品开展投后管理的主要工作.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述/06-（二）基金管理人对基金产品开展投后管理的主要工作.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:00:56.421461+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:07:02.317118+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T19:07:02.316890+08:00",
+      "started_at": "2026-06-24T18:35:17.653896+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用基金管理人被投资企业资金产品投后管理退出等), 4段式(开场沈老板管两本账/冲突阿贵小满各管+两边咬合/转折沈老板说他管钱庄本身/结局三本账月底碰头), 1核心概念(对基金产品投后管理引出期间+主要工作), 末尾三段齐全, 7行对应点",
+      "finished_at": "2026-06-24T19:07:02.317126+08:00"
     },
     "397": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述/07-1.对基金产品开展投后管理的期间.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述/07-1.对基金产品开展投后管理的期间.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:00:56.462762+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:07:07.290423+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T19:07:07.290267+08:00",
+      "started_at": "2026-06-24T18:35:17.779823+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用资金产品投后管理退出资金清算等), 4段式(开场沈老板三间铺/冲突老周问钱庄何时算完/转折沈老板解释募资起算到清算注销/结局老周贴墙上照办), 1核心概念(基金产品投后管理期间自募集成立到清算注销), 末尾三段齐全, 7行对应点",
+      "finished_at": "2026-06-24T19:07:07.290427+08:00"
     },
     "398": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述/08-2.对基金产品开展投后管理的主要工作.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述/08-2.对基金产品开展投后管理的主要工作.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:00:56.503481+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:07:13.007605+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T19:07:13.007436+08:00",
+      "started_at": "2026-06-24T18:35:17.852501+08:00",
+      "notes": "v2 quality review pass: 0加粗, 0禁用术语(避用资金产品投后管理退出资金合规等), 4段式(开场沈老板家务会/发展四件事分述/转折四件事分别张贴/结局客人问指四张纸), 1核心概念(基金产品投后管理四类工作), 末尾三段齐全, 7行对应点",
+      "finished_at": "2026-06-24T19:07:13.007609+08:00"
     },
     "399": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述/09-三、投后管理对基金管理人的作用.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述/09-三、投后管理对基金管理人的作用.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:26:52.468164+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:29:41.791862+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T19:29:41.791601+08:00",
+      "started_at": "2026-06-24T19:08:55.914886+08:00",
+      "notes": "v2 quality PASS: 0 bolds, 0 banned terms in story, 4-段式 clear, 1 meta-concept (3-pillar framework), 6 rows table",
+      "finished_at": "2026-06-24T19:29:41.791867+08:00"
     },
     "400": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述/10-1.对管理人商誉品牌维护运营的影响.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述/10-1.对管理人商誉品牌维护运营的影响.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:26:53.395925+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:29:43.238383+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T19:29:43.238257+08:00",
+      "started_at": "2026-06-24T19:08:55.958620+08:00",
+      "notes": "v2 quality PASS: 0 bolds, 0 banned terms, 4-段式 clear, 1 concept (商誉品牌), 7 rows",
+      "finished_at": "2026-06-24T19:29:43.238389+08:00"
     },
     "401": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/01-投后管理概述.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/01-投后管理概述/11-2.对基金管理人合规运营的影响.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/01-投后管理概述/11-2.对基金管理人合规运营的影响.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:26:53.933366+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T19:29:44.011153+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T19:29:44.010981+08:00",
+      "started_at": "2026-06-24T19:08:56.002444+08:00",
+      "notes": "v2 quality PASS: 0 bolds, 0 banned terms, 4-段式 clear, 1 concept (合规运营), 7 rows",
+      "finished_at": "2026-06-24T19:29:44.011158+08:00"
     },
     "402": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/01-一、投后管理模式与人员需求.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/01-一、投后管理模式与人员需求.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:49.757152+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:22.931937+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:22.931815+08:00",
+      "started_at": "2026-06-24T19:31:28.489176+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:22.931941+08:00"
     },
     "403": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/02-二、投后管理决策机制和组织架构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/02-二、投后管理决策机制和组织架构.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:49.796439+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:22.982239+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:22.982118+08:00",
+      "started_at": "2026-06-24T19:31:28.530822+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:22.982242+08:00"
     },
     "404": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/03-（一）投后管理的决策机制.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/03-（一）投后管理的决策机制.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:49.834849+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.024662+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.024522+08:00",
+      "started_at": "2026-06-24T19:31:28.585931+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.024666+08:00"
     },
     "405": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/04-2.基金投后管理决策机构的常见情况.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/04-2.基金投后管理决策机构的常见情况.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:49.874396+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.066234+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.066087+08:00",
+      "started_at": "2026-06-24T19:31:28.632462+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.066240+08:00"
     },
     "406": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/05-3.基金投后管理的议事规则.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/05-3.基金投后管理的议事规则.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:49.912891+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.109367+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.109251+08:00",
+      "started_at": "2026-06-24T19:31:28.683905+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.109371+08:00"
     },
     "407": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/06-（二）投后管理的组织架构.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/06-（二）投后管理的组织架构.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:49.952228+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.150189+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.150055+08:00",
+      "started_at": "2026-06-24T19:31:28.727131+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.150193+08:00"
     },
     "408": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/07-1.投后部.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/07-1.投后部.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:49.991689+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.191255+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.191109+08:00",
+      "started_at": "2026-06-24T19:31:28.772577+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.191259+08:00"
     },
     "409": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/08-2.投资部.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/08-2.投资部.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:50.033451+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.232499+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.232377+08:00",
+      "started_at": "2026-06-24T19:31:28.814121+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.232504+08:00"
     },
     "410": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/09-3.风控部.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/09-3.风控部.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:50.072743+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.272775+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.272656+08:00",
+      "started_at": "2026-06-24T19:31:28.855759+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.272779+08:00"
     },
     "411": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/10-4.财务部.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/10-4.财务部.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:50.111572+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.313605+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.313490+08:00",
+      "started_at": "2026-06-24T19:31:28.897181+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.313608+08:00"
     },
     "412": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/11-5.运营部.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/11-5.运营部.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:50.150111+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.354148+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.354022+08:00",
+      "started_at": "2026-06-24T19:31:28.938348+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.354152+08:00"
     },
     "413": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/12-三、投后管理制度体系.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/12-三、投后管理制度体系.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:50.189354+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.395010+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.394872+08:00",
+      "started_at": "2026-06-24T19:31:28.979502+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.395014+08:00"
     },
     "414": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/13-(一)概述.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/13-(一)概述.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:50.228676+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.436082+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.435954+08:00",
+      "started_at": "2026-06-24T19:31:29.019989+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.436087+08:00"
     },
     "415": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/14-（二）考核与激励机制.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/14-（二）考核与激励机制.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:50.267077+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.476582+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.476375+08:00",
+      "started_at": "2026-06-24T19:31:29.060229+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.476590+08:00"
     },
     "416": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/15-（三）风险关注示例.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/15-（三）风险关注示例.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:50.305300+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.520934+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.520785+08:00",
+      "started_at": "2026-06-24T19:31:29.100031+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.520939+08:00"
     },
     "417": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/16-1.投后项目交接.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/16-1.投后项目交接.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:50.343955+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.563958+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.563834+08:00",
+      "started_at": "2026-06-24T19:31:29.140059+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.563961+08:00"
     },
     "418": {
-      "status": "pending",
+      "status": "quality_passed",
       "source_path": "converted/sections/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系.md",
       "target_path": "converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/17-2.投后日常管理.md",
       "absolute_target": "/Users/sky/Documents/github/reading_notes/04-基金从业/03-科目三-私募股权/converted/fables/06-股权投资基金的投后管理/02-投后管理模式、决策机制、组织架构及制度体系/17-2.投后日常管理.md",
       "retry_count": 0,
       "review_log": {
-        "spec_review": null,
-        "quality_review": null
+        "spec_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:08:50.382414+08:00"
+        },
+        "quality_review": {
+          "verdict": "pass",
+          "at": "2026-06-24T20:14:23.606320+08:00"
+        }
       },
       "legacy_status": "pending",
       "legacy_task_done_flag": false,
       "file_exists": false,
-      "task_done_flag": false
+      "task_done_flag": false,
+      "updated_at": "2026-06-24T20:14:23.606196+08:00",
+      "started_at": "2026-06-24T19:31:29.180281+08:00",
+      "notes": "v2 quality review: story body 0 bold, 0 banned terms (投后/管理/部门/制度/考核/激励 etc.), 4段式 structure, 1 core concept, 末尾三段齐全 + 科目三, 对应点 7 rows",
+      "finished_at": "2026-06-24T20:14:23.606324+08:00"
     },
     "419": {
       "status": "pending",
