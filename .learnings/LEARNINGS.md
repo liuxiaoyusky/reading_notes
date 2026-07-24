@@ -82,3 +82,73 @@ skill 自带的 `assets/` 目录下只有 `LEARNINGS.md` 和 `SKILL-TEMPLATE.md`
   - `.learnings/INDEX.md` (created)
 - Tags: meta, self-improving-agent, configuration
 - See Also: LRN-20260623-001
+
+---
+
+## [LRN-20260624-003] knowledge_gap
+
+**Logged**: 2026-06-24T23:10:00+08:00
+**Priority**: low
+**Status**: open
+**Area**: tooling
+
+### Summary
+"字节 wavtts / 声音克隆" 与 "Miso One" 实时语音模型的开源与定价情况，外网检索被沙箱拦截，未能 100% 核实。
+
+### Details
+用户列出两个语音模型需求：
+1. **字节 wavtts / 声音克隆** —— 大概率指火山引擎/豆包线上的 Seed-TTS 系列；字节没放完整开源权重，仅 API 可用。粗略单价约 ¥0.0008/千字（标准）+ 一次性声音克隆训练费；具体 SKU 名 / 最新价格需登录火山控制台。
+2. **Miso One 实时语音** —— 公开信息不足；最可能是某个闭源配音 App 的 demo，或 CosyVoice / ChatTTS 的某个音色变体。需用户提供原始链接/截图才能定论。
+
+外部检索受沙箱限制（WebSearch、WebFetch 对 google.com / github.com / modelscope 等全部 `Unable to verify if domain ... is safe`），只能在已有知识库 + 推理的基础上给出"最可能开源替代 = CosyVoice 2"的结论。
+
+### Suggested Action
+- 用户看到 Miso 原始出处时，把链接贴回对话，再做一次精准定位
+- 后续若要拿字节官方报价，去火山引擎控制台 → 语音技术 → 大模型语音合成 页面截一张价格表存进 `.learnings/`
+- 推荐本地替代：**CosyVoice 2**（`FunAudioLLM/CosyVoice`，Apache 2.0，2GB 权重，中文声音克隆 + 情感强），已写进 `tools/tts/README.md` 对照表
+
+### Metadata
+- Source: knowledge_gap
+- Related Files:
+  - `tools/tts/README.md` (created)
+  - `tools/tts/generate_fables.py` (created)
+  - `tools/tts/concat_audio.py` (created)
+- Tags: tts, cosyvoice, bytedance, volcano, external-research, sandbox-limit
+- See Also: _none_
+
+---
+
+## [LRN-20260624-004] best_practice
+
+**Logged**: 2026-06-24T23:10:00+08:00
+**Priority**: medium
+**Status**: resolved
+**Area**: tooling
+
+### Summary
+批量 TTS + 长音频合并的标准流水线：迭代寓言 → 调本地 TTS → ffmpeg concat demuxer 合并。
+
+### Details
+科目三的寓言 fables 目录共 **370 篇 / ~2.2MB 文本 / 估算朗读 30 小时**。一次性合并的脚本要点：
+
+1. **iter 顺序**：`Path.rglob("*.md")` 加 `sorted()` —— 文件名按 `01-.../02-.../03-...` 排列，字典序天然按"章 → 节 → 编号"遍历，不用额外建索引。
+2. **文本抽取**：markdown 里 `## 🏺 寓言故事 —— 《...》` 标题之后、`---` 分隔之前的那段是纯故事正文，跳过原文定义 / 对应点表格 / 来源标注。
+3. **音频格式**：先 wav（无压缩），再 ffmpeg 转 MP3 192kbps（CBR）。30 小时 mp3 大约 2.5GB，可接受。
+4. **合并**：`ffmpeg -f concat -safe 0 -i list.txt -c copy` —— **无重编码**，快、零损。文件多时分块（每块 ≤100）再二次 concat，避免命令行超长 + 支持断点续跑。
+5. **断点续跑**：`--skip-existing` 检查目标 mp3 是否已存在，重跑时自动跳过已完成的篇。
+6. **manifest**：`manifest.json` 记录每篇的 ok / skipped / fail / empty 状态，方便定位失败的篇手工重跑。
+
+### Suggested Action
+- 跑流水线前先 `--limit 1` 验证链路（cosyvoice 服务是否起来、speaker 名是否正确、MP3 是否真的写到磁盘）
+- 全量跑完后再跑合并；中途不要在另一个终端同时跑生成 + 合并，避免 list 抖动
+- 想分章合并时用 `--pattern "01-*.mp3"` glob 直接过滤，不要临时改脚本
+- 长音频（>10 小时）首次听建议用支持断点记忆的播放器（iPhone Books / macOS QuickTime 都不行 → 推荐 VLC / MPV）
+
+### Metadata
+- Source: self_derived
+- Related Files:
+  - `tools/tts/generate_fables.py` (created)
+  - `tools/tts/concat_audio.py` (created)
+  - `04-基金从业/03-科目三-私募股权/converted/fables/` (input, 370 fab files)
+- Tags: tts, ffmpeg, concat-demuxer, batch-pipeline, mp3
+- See Also: LRN-20260624-003
