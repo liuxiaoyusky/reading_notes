@@ -1,0 +1,6 @@
+[submodule "04-基金从业/02-科目二-证券投资基金/converted/fables-lol/anti-vibe-writing"]
+	path = 04-基金从业/02-科目二-证券投资基金/converted/fables-lol/anti-vibe-writing
+	url = https://github.com/weijt606/anti-vibe-writing.git
+[submodule "04-基金从业/02-科目二-证券投资基金/converted/fables-lol/humanizer-zh"]
+	path = 04-基金从业/02-科目二-证券投资基金/converted/fables-lol/humanizer-zh
+	url = https://github.com/op7418/humanizer-zh.git
