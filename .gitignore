@@ -28,3 +28,6 @@ Thumbs.db
 *.swo
 *~
 **/.orchard/queue*.md
+
+# CFA 备考资料（本地学习用，未 push 到远端）
+01-cfa/
