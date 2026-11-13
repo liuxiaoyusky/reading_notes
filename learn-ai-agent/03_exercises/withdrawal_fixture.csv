@@ -1,0 +1,11 @@
+id,timestamp_utc,account_id,destination_status,amount_usd,risk_label
+W01,2026-01-01T09:00:00Z,user_a,normal,100,normal
+W02,2026-01-01T09:02:00Z,user_a,normal,150,normal
+W03,2026-01-01T09:03:00Z,user_b,new,1600,suspicious
+W04,2026-01-01T09:05:00Z,user_c,normal,1200,normal
+W05,2026-01-01T09:10:00Z,user_d,new,600,suspicious
+W06,2026-01-01T09:13:00Z,user_d,new,600,suspicious
+W07,2026-01-01T09:16:00Z,user_d,new,600,suspicious
+W08,2026-01-01T09:20:00Z,user_e,normal,999,suspicious
+W09,2026-01-01T09:25:00Z,user_f,normal,50,normal
+W10,2026-01-01T09:30:00Z,user_g,new,800,normal
