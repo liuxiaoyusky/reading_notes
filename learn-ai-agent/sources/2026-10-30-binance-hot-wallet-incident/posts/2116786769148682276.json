@@ -1,0 +1,41 @@
+{
+  "id": "2116786769148682276",
+  "text": "New withdraw addresses already added into PoR.\nYou  can check it now.👉 https://t.co/gjPSU0IhZ6",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 507,
+    "retweets": 42,
+    "replies": 100,
+    "quotes": 2,
+    "views": 67537,
+    "bookmarks": 5
+  },
+  "createdAt": "Sun Nov 01 06:57:48 +0000 2026",
+  "createdAtLocal": "2026-11-01 14:57",
+  "createdAtISO": "2026-11-01T06:57:48+00:00",
+  "media": [],
+  "urls": [
+    "https://www.binance.com/en/proof-of-reserves"
+  ],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116785774540787920",
+    "text": "As part of our ongoing security response, we have updated our list of Proof of Reserves addresses to include newly generated wallet addresses. Going forward, all withdrawals will be processed from these new wallet addresses.\n\nhttps://t.co/nspWeaiQDz",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

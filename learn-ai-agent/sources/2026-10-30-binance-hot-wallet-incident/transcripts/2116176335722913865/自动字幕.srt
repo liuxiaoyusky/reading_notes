@@ -1,0 +1,295 @@
+1
+00:00:00,000 --> 00:00:03,120
+Hi, everyone. Firstly, I want to thank you for the support.
+
+2
+00:00:03,120 --> 00:00:08,840
+Difficult times like this are a great reminder how strong our industry is and we work together.
+
+3
+00:00:08,840 --> 00:00:13,200
+We are grateful to our partners that acted quickly to freeze the hacked assets,
+
+4
+00:00:13,200 --> 00:00:17,800
+to global law enforcement who are working with hand-in-hand to suggest this.
+
+5
+00:00:17,800 --> 00:00:22,600
+But most of all, we are grateful to our users for their patience and understanding.
+
+6
+00:00:22,600 --> 00:00:25,800
+We are also sure that we are working non-stop to resolve this,
+
+7
+00:00:25,800 --> 00:00:29,200
+to make the users hold and live up to your trust.
+
+8
+00:00:29,400 --> 00:00:35,600
+I want to be clear, we are committed to covering all hacked losses through our company funds.
+
+9
+00:00:35,600 --> 00:00:38,000
+Your assets are safe.
+
+10
+00:00:38,000 --> 00:00:41,800
+The good news is that we are recovering stolen assets for users.
+
+11
+00:00:41,800 --> 00:00:47,400
+Binance has reserved over 6.34 billion of company funds to cover the stolen assets.
+
+12
+00:00:47,400 --> 00:00:52,400
+Five billion of these funds already help in exact token assets that are impacted
+
+13
+00:00:52,400 --> 00:00:58,000
+such as USDC, USDT, PTC, if PMB, etc.
+
+14
+00:00:58,000 --> 00:01:00,800
+I know many of you are still asking the same question.
+
+15
+00:01:00,800 --> 00:01:05,400
+How can Binance actually prove your assets are not affected?
+
+16
+00:01:05,400 --> 00:01:08,000
+Let me be direct about the first point.
+
+17
+00:01:08,000 --> 00:01:12,200
+We never use any customer funds, so they are not impacted.
+
+18
+00:01:12,200 --> 00:01:16,600
+What was affected in this incident was Binance owned hot wallet.
+
+19
+00:01:16,600 --> 00:01:20,600
+User assets are held under Binance established security architecture,
+
+20
+00:01:20,600 --> 00:01:23,200
+the vast majority sits in co-wallets,
+
+21
+00:01:23,200 --> 00:01:27,400
+and are only moved into a hot wallet when a user makes a withdrawal.
+
+22
+00:01:27,400 --> 00:01:32,200
+One more thing I want to share, Binance has always been built for the long-term.
+
+23
+00:01:32,200 --> 00:01:36,800
+Most of what we earn from day-to-day operations is held in crypto assets.
+
+24
+00:01:36,800 --> 00:01:43,400
+We have kept a lot of them in the company and reinvested them into the business and into security.
+
+25
+00:01:43,400 --> 00:01:48,000
+Because we believe in crypto and the long-term value of this industry.
+
+26
+00:01:48,000 --> 00:01:51,400
+This is precisely why we are able to absorb a lot of this size,
+
+27
+00:01:51,400 --> 00:01:54,200
+immediately with our own money.
+
+28
+00:01:54,200 --> 00:01:57,400
+We are working on the outstanding amount by buying the token assets
+
+29
+00:01:57,400 --> 00:02:00,400
+through market and OTC channels.
+
+30
+00:02:00,400 --> 00:02:03,800
+We will share more progress as soon as we can.
+
+31
+00:02:03,800 --> 00:02:06,800
+If you, as a user, are concerned,
+
+32
+00:02:06,800 --> 00:02:10,000
+we encourage you to check funds on your Binance account
+
+33
+00:02:10,000 --> 00:02:14,400
+with our initial proof of reserve for public verification,
+
+34
+00:02:14,400 --> 00:02:17,000
+which is targeting on Monday.
+
+35
+00:02:17,000 --> 00:02:21,400
+We can reach out to our customer service with any question.
+
+36
+00:02:21,600 --> 00:02:26,000
+Next, I want to give you an update on our understanding of the hack itself.
+
+37
+00:02:26,000 --> 00:02:31,600
+Our tech and security team are still deep in investigation of the hack.
+
+38
+00:02:31,600 --> 00:02:33,800
+This was not carried out by one person.
+
+39
+00:02:33,800 --> 00:02:37,200
+Our initial investigation suggested that the security incident
+
+40
+00:02:37,200 --> 00:02:40,600
+may have involved a compromised laptop.
+
+41
+00:02:40,600 --> 00:02:46,200
+However, our subsequent investigation has uncovered additional points of breach.
+
+42
+00:02:46,400 --> 00:02:48,400
+This was a complex attack.
+
+43
+00:02:48,400 --> 00:02:51,600
+The attacker also used self-destruct mechanism
+
+44
+00:02:51,600 --> 00:02:54,200
+that destroyed tooling and traces as they ran,
+
+45
+00:02:54,200 --> 00:02:58,400
+making it more difficult for us to trace and investigate.
+
+46
+00:02:58,400 --> 00:03:02,800
+The attacker used a known multi-senature protocol,
+
+47
+00:03:02,800 --> 00:03:05,400
+EIP 7702,
+
+48
+00:03:05,400 --> 00:03:08,200
+to obtain on-chain execution,
+
+49
+00:03:08,200 --> 00:03:10,800
+or prove over a hot wallet.
+
+50
+00:03:10,800 --> 00:03:13,800
+The delegation did not pass through our normal approval controls
+
+51
+00:03:13,800 --> 00:03:16,000
+and that's why we need to pause.
+
+52
+00:03:16,000 --> 00:03:20,800
+The withdrawal service to investigate, rebuild, and retest
+
+53
+00:03:20,800 --> 00:03:23,800
+the entire infrastructure system.
+
+54
+00:03:23,800 --> 00:03:25,200
+So what we're doing now?
+
+55
+00:03:25,200 --> 00:03:28,600
+First, we're rebuilding the withdrawal service.
+
+56
+00:03:28,600 --> 00:03:34,200
+And we're not switching it back until it passes rigorous testing.
+
+57
+00:03:34,200 --> 00:03:40,400
+We're very hopeful that users will be able to withdraw prior to the Sunday deadline,
+
+58
+00:03:40,400 --> 00:03:43,200
+which is on track to be written for the hours.
+
+59
+00:03:43,200 --> 00:03:49,000
+Secondly, we're conducting a full security review across the entire company
+
+60
+00:03:49,000 --> 00:03:53,600
+and points, cloud key management, signing everything.
+
+61
+00:03:53,600 --> 00:03:57,600
+Third, we're completing the purchase of the remaining assets
+
+62
+00:03:57,600 --> 00:04:01,600
+and we'll verify in our proof of reserves.
+
+63
+00:04:01,600 --> 00:04:05,000
+We're sharing a full proof of reserves report by Monday
+
+64
+00:04:05,000 --> 00:04:11,400
+and we're hoping to get an initial view of the proof of reserves before that.
+
+65
+00:04:11,400 --> 00:04:13,800
+Fourth, we're working with law enforcement,
+
+66
+00:04:13,800 --> 00:04:17,800
+blockchain intelligence firm, token issuers, and other exchanges
+
+67
+00:04:17,800 --> 00:04:20,400
+to trace and recover stolen funds.
+
+68
+00:04:20,400 --> 00:04:24,200
+We'll do everything within our power to ensure that this bad actors
+
+69
+00:04:24,200 --> 00:04:26,200
+will be held accountable.
+
+70
+00:04:26,200 --> 00:04:28,800
+Lastly, this industry-wide effort,
+
+71
+00:04:28,800 --> 00:04:33,000
+and we are very grateful to our partners across the entire ecosystem,
+
+72
+00:04:33,000 --> 00:04:36,200
+will move very quickly to help and support.
+
+73
+00:04:36,200 --> 00:04:38,000
+We'll weather this storm.
+
+74
+00:04:38,000 --> 00:04:41,000
+Thank you for the support and stay safe.

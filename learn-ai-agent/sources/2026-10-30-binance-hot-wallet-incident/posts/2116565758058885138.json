@@ -1,0 +1,39 @@
+{
+  "id": "2116565758058885138",
+  "text": "Detailed FAQ 👇",
+  "author": {
+    "id": "902926941413453824",
+    "name": "CZ 🔶 BNB",
+    "screenName": "cz_binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041696316451909632/7K4xEnRE_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 3722,
+    "retweets": 413,
+    "replies": 648,
+    "quotes": 76,
+    "views": 784053,
+    "bookmarks": 203
+  },
+  "createdAt": "Sat Oct 31 16:19:35 +0000 2026",
+  "createdAtLocal": "2026-11-01 00:19",
+  "createdAtISO": "2026-10-31T16:19:35+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116538196259684457",
+    "text": "https://t.co/FJazWAxnQX",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

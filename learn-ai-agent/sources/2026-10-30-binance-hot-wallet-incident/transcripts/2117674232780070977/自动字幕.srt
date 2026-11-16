@@ -1,0 +1,183 @@
+1
+00:00:00,000 --> 00:00:04,320
+We are spending huge amount of money on security every year, right?
+
+2
+00:00:04,320 --> 00:00:07,680
+So if something like this can happen to us, it can happen to everyone.
+
+3
+00:00:08,400 --> 00:00:11,520
+I think what is fortunate in this episode is that, you know,
+
+4
+00:00:12,080 --> 00:00:15,600
+we've had the full financial impact and users are not compromised.
+
+5
+00:00:15,600 --> 00:00:20,160
+We have set aside more than 100% of the funds and replenish the tokens that are affected.
+
+6
+00:00:21,440 --> 00:00:24,320
+And we continue to continue to build from strength to strength.
+
+7
+00:00:24,320 --> 00:00:29,280
+We want to, I mean, all these types of techs can happen to any platform.
+
+8
+00:00:29,280 --> 00:00:35,040
+What set us apart is how we continue to protect users on that front and learn from this episode
+
+9
+00:00:35,040 --> 00:00:36,160
+and become a stronger.
+
+10
+00:00:37,280 --> 00:00:40,080
+Well, I mean, after FTX, that was the promise as well.
+
+11
+00:00:40,080 --> 00:00:44,000
+The industry promised to be more transparent, it was it to be more secure,
+
+12
+00:00:44,560 --> 00:00:46,560
+to be more ready for prime time.
+
+13
+00:00:47,120 --> 00:00:49,440
+And I think now that question is raised again.
+
+14
+00:00:51,550 --> 00:00:53,550
+Well, so FTX and us are very different.
+
+15
+00:00:53,550 --> 00:00:55,550
+So the comparison doesn't quite hold there.
+
+16
+00:00:55,550 --> 00:00:57,470
+I mean, FTX was the case of fraud.
+
+17
+00:00:57,470 --> 00:00:58,990
+The customer money wasn't there.
+
+18
+00:00:59,550 --> 00:01:03,150
+We did pause for a while to make sure that
+
+19
+00:01:04,110 --> 00:01:06,910
+to protect the money, the customer money is there, right?
+
+20
+00:01:06,910 --> 00:01:08,750
+And we reopened very quickly after that.
+
+21
+00:01:08,750 --> 00:01:11,630
+Once we rebuild the system, we are confident in our system.
+
+22
+00:01:11,630 --> 00:01:14,910
+And we have started to allow customers to withdraw their funds from Sunday.
+
+23
+00:01:15,870 --> 00:01:18,030
+Initially, we saw a spike, but by now,
+
+24
+00:01:18,670 --> 00:01:19,710
+yes, normalize.
+
+25
+00:01:19,710 --> 00:01:22,590
+And if you look at hourly net info and outflow,
+
+26
+00:01:22,590 --> 00:01:24,350
+it's what we see on a normal day.
+
+27
+00:01:24,350 --> 00:01:28,110
+And customers can verify the assets through the proof of reserve,
+
+28
+00:01:28,510 --> 00:01:30,510
+which during FTX time they care about.
+
+29
+00:01:30,510 --> 00:01:31,390
+And that's the difference.
+
+30
+00:01:32,110 --> 00:01:33,870
+Verification, not just promises.
+
+31
+00:01:34,510 --> 00:01:37,070
+So all the withdrawal restrictions are lifted now.
+
+32
+00:01:37,070 --> 00:01:39,390
+Customers can take out whatever they want from finance.
+
+33
+00:01:40,030 --> 00:01:43,230
+No, I think we have a lot of withdrawal of the different tokens
+
+34
+00:01:43,230 --> 00:01:46,590
+and they're facing pretty much by now, I expect to normal.
+
+35
+00:01:47,790 --> 00:01:50,590
+God, and you say you've replenished 95%?
+
+36
+00:01:51,950 --> 00:01:55,790
+We replenished 98% of the impacted tokens, right?
+
+37
+00:01:55,790 --> 00:02:00,110
+And the remaining 2% and because they are belong to less liquid tokens,
+
+38
+00:02:00,110 --> 00:02:04,510
+we need some time to procure them without affecting normal market operations, right?
+
+39
+00:02:04,510 --> 00:02:09,150
+We don't want to go to the marketplace and purchase them, which can affect market prices.
+
+40
+00:02:09,150 --> 00:02:12,190
+So we have to procure them through OTC on that front.
+
+41
+00:02:12,190 --> 00:02:14,510
+But those are fully guaranteed.
+
+42
+00:02:14,510 --> 00:02:18,190
+The customers assets are secured and we are in the process of procuring them.
+
+43
+00:02:20,030 --> 00:02:20,510
+Got it.
+
+44
+00:02:20,510 --> 00:02:23,950
+Well, thank you certainly for coming on and taking the questions and telling us a little bit
+
+45
+00:02:23,950 --> 00:02:26,830
+about what you've learned and how you're reminiscing the situation.
+
+46
+00:02:26,830 --> 00:02:28,430
+We appreciate it.

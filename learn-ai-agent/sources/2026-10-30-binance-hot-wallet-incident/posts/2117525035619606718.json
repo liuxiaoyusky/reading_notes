@@ -1,0 +1,39 @@
+{
+  "id": "2117525035619606718",
+  "text": "The trend is starting to show more positive inflows with hourly deposits exceeding withdrawals.",
+  "author": {
+    "id": "1395261244769112065",
+    "name": "Richard Teng",
+    "screenName": "_RichardTeng",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2006270124102397952/pJkssfOh_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 229,
+    "retweets": 19,
+    "replies": 49,
+    "quotes": 1,
+    "views": 21564,
+    "bookmarks": 3
+  },
+  "createdAt": "Tue Nov 03 07:51:24 +0000 2026",
+  "createdAtLocal": "2026-11-03 15:51",
+  "createdAtISO": "2026-11-03T07:51:24+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2117494793446298084",
+    "text": "Withdrawal data update\n\nBy 03:00 UTC, we are seeing hourly deposits exceed withdrawals, reflecting improving user activity and stabilizing flows. https://t.co/UiXmYC2lm3",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

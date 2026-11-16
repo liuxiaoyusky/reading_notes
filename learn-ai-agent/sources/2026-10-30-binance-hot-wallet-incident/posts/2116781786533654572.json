@@ -1,0 +1,39 @@
+{
+  "id": "2116781786533654572",
+  "text": "最新进展：第一阶段提现服务已开始恢复，首批开放的是 BTC 网络提现。",
+  "author": {
+    "id": "1451036242431262720",
+    "name": "币安Binance华语",
+    "screenName": "binancezh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1815972658640740354/RySOJZ_Q_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 58,
+    "retweets": 6,
+    "replies": 31,
+    "quotes": 12,
+    "views": 48124,
+    "bookmarks": 4
+  },
+  "createdAt": "Sun Nov 01 06:38:00 +0000 2026",
+  "createdAtLocal": "2026-11-01 14:38",
+  "createdAtISO": "2026-11-01T06:38:00+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "zh",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116745976446956000",
+    "text": "https://t.co/B0f31o6xQG",
+    "author": {
+      "screenName": "binancezh",
+      "name": "币安Binance华语"
+    }
+  },
+  "archiveGroup": "official"
+}

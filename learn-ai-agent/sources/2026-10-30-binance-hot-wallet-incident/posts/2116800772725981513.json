@@ -1,0 +1,39 @@
+{
+  "id": "2116800772725981513",
+  "text": "目前，以下资产及网络的提现服务已恢复：\n\n以太坊网络（Ethereum）： USDC、USDT、ETH\nBNB 智能链（BSC）： USDC、USDT、BNB\n\n我们将继续进行安全检查，并在完成相关检查后，分阶段恢复更多资产及网络的提现服务。\n\n后续进展将通过币安官方渠道持续更新。",
+  "author": {
+    "id": "1451036242431262720",
+    "name": "币安Binance华语",
+    "screenName": "binancezh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1815972658640740354/RySOJZ_Q_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 104,
+    "retweets": 21,
+    "replies": 47,
+    "quotes": 21,
+    "views": 46591,
+    "bookmarks": 3
+  },
+  "createdAt": "Sun Nov 01 07:53:27 +0000 2026",
+  "createdAtLocal": "2026-11-01 15:53",
+  "createdAtISO": "2026-11-01T07:53:27+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "zh",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116745976446956000",
+    "text": "https://t.co/B0f31o6xQG",
+    "author": {
+      "screenName": "binancezh",
+      "name": "币安Binance华语"
+    }
+  },
+  "archiveGroup": "official"
+}

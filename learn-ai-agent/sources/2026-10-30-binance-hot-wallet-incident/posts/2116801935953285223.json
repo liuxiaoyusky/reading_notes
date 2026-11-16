@@ -1,0 +1,39 @@
+{
+  "id": "2116801935953285223",
+  "text": "Withdrawals restored for:  \n- Ethereum: USDC, USDT, ETH \n- BNB Smart Chain (BSC): USDC, USDT, BNB",
+  "author": {
+    "id": "902926941413453824",
+    "name": "CZ 🔶 BNB",
+    "screenName": "cz_binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041696316451909632/7K4xEnRE_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 7201,
+    "retweets": 639,
+    "replies": 753,
+    "quotes": 152,
+    "views": 730281,
+    "bookmarks": 115
+  },
+  "createdAt": "Sun Nov 01 07:58:04 +0000 2026",
+  "createdAtLocal": "2026-11-01 15:58",
+  "createdAtISO": "2026-11-01T07:58:04+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116799757507305516",
+    "text": "Withdrawal Update\n\nWithdrawals have now been restored for the following assets and networks:\n\n- Ethereum Network: USDC, USDT, ETH\n- BNB Smart Chain (BSC): USDC, USDT, BNB\n\nWe will continue to restore additional assets and networks in phases following the completion of our security checks. Further updates will be shared through official Binance channels.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

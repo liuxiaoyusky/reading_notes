@@ -1,0 +1,39 @@
+{
+  "id": "2117468922647818652",
+  "text": "Withdrawal Update  \n\nWithdrawals have now been restored for the following assets and networks:  \n\nETH: RLUSD, USD1, TUSD, FDUSD, XUSD\n\nWe will continue to restore additional assets and networks in phases following the completion of our security checks. Further updates will be shared through official Binance channels.",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 1024,
+    "retweets": 136,
+    "replies": 166,
+    "quotes": 28,
+    "views": 773420,
+    "bookmarks": 32
+  },
+  "createdAt": "Tue Nov 03 04:08:26 +0000 2026",
+  "createdAtLocal": "2026-11-03 12:08",
+  "createdAtISO": "2026-11-03T04:08:26+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2117444179630707088",
+    "text": "https://t.co/B0LuBFvwN4",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

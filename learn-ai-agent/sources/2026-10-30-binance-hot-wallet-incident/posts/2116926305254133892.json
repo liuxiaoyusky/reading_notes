@@ -1,0 +1,38 @@
+{
+  "id": "2116926305254133892",
+  "text": "Binance began restoring withdrawals in phases at 06:00 UTC on November 1, 2026. By 12:36 UTC, withdrawals had resumed for all 15 networks and assets in the initial phase. After an initial spike, withdrawal volumes have declined and are stabilising as expected, while deposit volumes have remained substantial.\n\nBetween 06:00 and 15:30 UTC on November 1, we processed $4.649 billion in withdrawals and $1.01 billion in deposits, resulting in a net outflow of approximately $3.64 billion. This represents 2.1% of our $171 billion in total assets under management (AUM), based on the latest available Proof of Reserves (PoR) data as of October 28, 2026. A new PoR snapshot was taken at 00:00 UTC on October 31, and zero-knowledge proof (ZKP) computation began. The updated report is expected to be available on our PoR website tomorrow.\n\nOur team continues testing rigorously the remaining networks and assets. We know how important safe and reliable access to your funds is and will share details of the next phase as soon as we can. Rest assured that market conditions are stable.\n\nThank you for your patience and continued support.",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 2693,
+    "retweets": 400,
+    "replies": 475,
+    "quotes": 188,
+    "views": 1139111,
+    "bookmarks": 120
+  },
+  "createdAt": "Sun Nov 01 16:12:16 +0000 2026",
+  "createdAtLocal": "2026-11-02 00:12",
+  "createdAtISO": "2026-11-01T16:12:16+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWDVPwMaIAADXLQ.jpg",
+      "width": 1600,
+      "height": 1680
+    }
+  ],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "archiveGroup": "official"
+}

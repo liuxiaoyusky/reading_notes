@@ -1,0 +1,6 @@
+{
+  "model": "Faster Whisper base",
+  "language": "zh",
+  "duration_seconds": 239.42,
+  "segments": 62
+}

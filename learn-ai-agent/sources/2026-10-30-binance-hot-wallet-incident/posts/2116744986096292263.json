@@ -1,0 +1,34 @@
+{
+  "id": "2116744986096292263",
+  "text": "https://t.co/pBJaht1UGV",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 1986,
+    "retweets": 312,
+    "replies": 295,
+    "quotes": 207,
+    "views": 0,
+    "bookmarks": 160
+  },
+  "createdAt": "Sun Nov 01 04:11:46 +0000 2026",
+  "createdAtLocal": "2026-11-01 12:11",
+  "createdAtISO": "2026-11-01T04:11:46+00:00",
+  "media": [],
+  "urls": [
+    "https://x.com/i/article/2116735906459873280"
+  ],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "zxx",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "articleTitle": "Security Incident | Recovery Update #4: Withdrawals Resume in Phases (2026-11-01)",
+  "articleText": "Fellow Binancians,\n\nBinance is preparing to resume phase one of withdrawals on 2026-11-01 between 06:00 and 09:00 (UTC).\n\nSince the incident, our teams have taken precautionary measures to safeguard the platform, conducted security assessments, and worked to verify the readiness of affected services. We aim to restore withdrawals progressively as we complete security and readiness checks. Deposit services remain open and are not affected by the incident.\n\nWe understand the concern and disruption the suspension has caused. Restoring access to your funds is a priority, and we are taking a controlled approach to do so safely. We will continue to monitor closely as services return in phases.\n\nAs we have said throughout this incident: user funds remain safe. Binance will absorb the financial impact of the stolen funds, not our users.\n\n## Withdrawal Services Resuming in Phases\n\nThe rollout will be in phases. Phase one will include the following networks and assets which are available for withdrawals progressively. We will share updates via our official X channel.\n\n![](https://pbs.twimg.com/media/HWAwQNyboAAwkNr.png)\n\nWe are taking a phased approach by prioritizing tokens based on the past week data of user demand, so that each network and asset pair can be restored carefully, with stability and security checks completed before access is reopened.\n\nThese listed networks and assets above will become available when this first phase of withdrawals resumes, and additional networks and assets will be added once they are ready. Please check the withdrawal page for your selected asset and network, or visit our [network status page](https://www.binance.com/en/network), to confirm availability.\n\nDuring the initial rollout, users may experience temporary delays or longer processing times due to traffic volume. If a withdrawal for a network or tokens listed above doesn’t go through, you can try again after a short while. This is expected during a phased rollout. We will continue to monitor network and platform performance closely.\n\n## Why Withdrawals Were Temporarily Paused at the Earlier Stages of the Security Incident\n\nWithdrawals were temporarily suspended as a precaution while our teams worked to contain the incident loss, assess its impact, restore affected services, and complete security checks.\n\nWe did not take this decision lightly. We understand how important reliable access to withdrawals is for our users. However, our priority was to protect users, safeguard the platform, and complete the necessary security checks before restoring services.\n\nDuring this period, our teams have:\n\n- Conducting enhanced security reviews of affected services;\n\n- Assessing withdrawal infrastructure and verifying its operational readiness;\n\n- Working with law enforcement and industry partners to trace and recover stolen funds;\n\n- Replenishing affected assets using company resources;\n\n- Monitoring for residual risks.\n\nOur recovery commitment remains unchanged.\n\nAs shared in our previous update, Binance has already covered approximately 90% of the impacted amount, up from approximately 80% in the prior update.\n\nAll BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC balances are fully backed 100%. You can verify our proof of reserves snapshot on the [PoR website](https://www.binance.com/en/proof-of-reserves).\n\nWe continue purchasing the remaining affected assets through market and OTC channels. Binance has now covered approximately 95% of the impacted amount, up from 90% in our prior update. The outstanding 5% are tokens outside the top ten listed above, and are less liquid in the market and take longer time to source at the required scale.\n\n## To Our Users, Partners, and the Broader Industry\n\nWe recognize how difficult this period has been for our users and the broader Binance community. Thank you for your patience, understanding, and continued trust as our teams worked through this incident with the seriousness it required.\n\nWe also thank our industry partners for acting quickly to help freeze assets and trace stolen funds. We will continue working closely with them and with law enforcement to support recovery efforts and hold those responsible accountable.\n\nOnce the investigation is complete, we will publish a post-incident report with further details on the incident.\n\nResuming withdrawals is a major milestone, but our work continues. We will continue strengthening our safeguards, completing the recovery process, and providing updates as progress continues.\n\nOur commitment remains unchanged: Binance will bear the financial impact of the stolen funds. These losses will not be passed on to users.\n\nThank you for being part of the Binance community.\n\nThank you for your support!\n\nBinance Team\n\n2026-11-01"
+}

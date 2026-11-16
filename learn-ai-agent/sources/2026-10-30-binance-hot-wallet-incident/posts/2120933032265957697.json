@@ -1,0 +1,39 @@
+{
+  "id": "2120933032265957697",
+  "text": "💁‍♀️ 100%\nBinance has completed coverage of assets impacted in the security incident and we have published a new Proof of Reserves snapshot. Once the zero-knowledge proof is generated, users can independently verify that their assets are backed at a minimum of 1:1.",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 800,
+    "retweets": 81,
+    "replies": 295,
+    "quotes": 22,
+    "views": 84782,
+    "bookmarks": 15
+  },
+  "createdAt": "Thu Nov 12 17:33:34 +0000 2026",
+  "createdAtLocal": "2026-11-13 01:33",
+  "createdAtISO": "2026-11-12T17:33:34+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2120921979226329504",
+    "text": "Binance has completed coverage of assets impacted in the security incident and we have published a new Proof of Reserves snapshot. Once the zero-knowledge proof is generated, users can independently verify that their assets are backed at a minimum of 1:1 - https://t.co/2cKzTtWddW.\n\nTo our users and community: thank you for your patience and understanding.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

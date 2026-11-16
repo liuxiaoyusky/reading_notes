@@ -1,0 +1,39 @@
+{
+  "id": "2117271494208225735",
+  "text": "As withdrawals resume, impersonators are offering \"priority processing,\" \"compensation claims,\" and \"secure vaults.\"\n\n@Binance will never contact you first, charge to speed things up, or ask you to sign or move funds to unlock a withdrawal.\n\nVerify before you trust → https://t.co/EfwRgbThwa",
+  "author": {
+    "id": "1395261244769112065",
+    "name": "Richard Teng",
+    "screenName": "_RichardTeng",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2006270124102397952/pJkssfOh_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 239,
+    "retweets": 32,
+    "replies": 48,
+    "quotes": 4,
+    "views": 24522,
+    "bookmarks": 6
+  },
+  "createdAt": "Mon Nov 02 15:03:55 +0000 2026",
+  "createdAtLocal": "2026-11-02 23:03",
+  "createdAtISO": "2026-11-02T15:03:55+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2117264311953563781",
+    "text": "Security Reminder: Stay Alert to Scams as Withdrawals Resume\n\nWithdrawals are resuming in phases and opportunistic scammers may try to take advantage of this period. They may impersonate Binance through DMs, emails, group chats and even small transfers with a message attached, offering to \"speed up withdrawals,\" give \"priority processing,\" help you \"claim compensation,\" or move your assets into a \"Binance vault\".\n\nPlease remember that Binance will never:\n\n• Contact you first about your account or funds\n• Offer or sell you a place in the withdrawal queue\n• Charge a fee to unlock a network or asset\n• Ask you to connect a wallet, sign, authorize anything, or transfer funds to \"unlock\" a withdrawal\n• Ask you to move your assets into a \"vault\", \"safe account\", \"secured wallet\" or any address provided by someone else\n• Send you an \"eligibility\", \"status\" or \"compensation claim\" link\n• Ask for your password, 2FA codes or seed phrase\n• Point you to a unofficial PoR site\n• Offer paid \"asset recovery\" services\n\nOnce you connect, sign, or authorize a request, third parties can move your assets — and on-chain transactions are usually irreversible.\n\nIf your withdrawal is still pending, check its status in the Binance app. Anyone promising to expedite it for a fee is scamming you.\n\nOnly use the official Binance app and official channels for updates. To check whether a channel, account or website is real, use the official verification page:\n\nhttps://t.co/aywEixOmJB\n\nIf you see anything suspicious, or think your account may be at risk, change your password right away, review your security settings and contact in-app Customer Support.\n\nKeeping your assets safe is always our top priority. Thank you for your trust and support.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

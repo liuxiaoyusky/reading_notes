@@ -1,0 +1,31 @@
+{
+  "id": "2116072080525656150",
+  "text": "I want to speak to you directly about what happened.\n\nBottom line - your money is safe, and we're covering every loss.\n\nOur initial investigation suggests this security incident may have started with a compromised DevOps engineer's laptop. That gave an attacker access to a service container, where they submitted unauthorized withdrawal transactions.\n\nTo be clear: the attacker did not simply use one engineer's permissions, and this was not a single \"one-click\" action. It involved a more complex attack process. Our investigation has not attributed responsibility to any individual.\n\nSo far, we have found no evidence of any wallet private key leak.\n\nWe'll share a detailed technical post-mortem once the investigation is complete and every fact is verified - and publish an updated Proof of Reserves once remediation is complete.\n\nWhat you need to know:\n• Your funds are safe\n• Binance will cover all losses from the SAFU fund and company funds\n• Estimated total impact: ~$6.3B, with ~$3B frozen on-chain so far, in coordination with our blockchain partners\n• No evidence of any wallet private key leak\n• Deposits are unaffected and operating as normal\n\nWhat we've done:\n• Temporarily suspended withdrawals while we complete a security revamp of the withdrawal service and its related addresses\n• Revoked the affected address authorizations\n• Engaged law enforcement and blockchain intelligence partners to trace and recover funds\n\nOur team hasn't stopped. We're working closely with law enforcement to ensure the matter is handled appropriately - and I'll share what I can, as soon as I can.",
+  "author": {
+    "id": "1395261244769112065",
+    "name": "Richard Teng",
+    "screenName": "_RichardTeng",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2006270124102397952/pJkssfOh_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 6152,
+    "retweets": 858,
+    "replies": 759,
+    "quotes": 201,
+    "views": 660463,
+    "bookmarks": 766
+  },
+  "createdAt": "Fri Oct 30 07:37:53 +0000 2026",
+  "createdAtLocal": "2026-10-30 15:37",
+  "createdAtISO": "2026-10-30T07:37:53+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "archiveGroup": "official"
+}

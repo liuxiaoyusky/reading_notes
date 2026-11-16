@@ -1,0 +1,46 @@
+{
+  "id": "2116198836729520420",
+  "text": "Saw a few discussions about size of hack, why impact to bitcoin price is small, etc. 👇 \n\n$6.3 billion is the biggest in USD terms, but not in BTC terms. MtGox was 650,000 BTC!\n\nOther important numbers to consider:\n\n% of bitcoin (in relation to BTC total supply), ie, market impact. MtGox is big there again at 5%+.\n\nNumber of users impacted, and % of user assets impacted. MtGox (the largest CEX at the time) and FTX (not small) were all near 100% of users and their asseets.\n\nMost important: Who is impacted? Does the platform cover it all? (only one victim), as in recent two CEX cases and Binance.\n\nObviously, still a major disaster for the industry, Binance (and me). It hurts, but we survive. \n\nMost importantly, we protect our users.\n\n(image from @MatthewRoszak)",
+  "author": {
+    "id": "902926941413453824",
+    "name": "CZ 🔶 BNB",
+    "screenName": "cz_binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041696316451909632/7K4xEnRE_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 11543,
+    "retweets": 1220,
+    "replies": 1731,
+    "quotes": 285,
+    "views": 1939218,
+    "bookmarks": 1078
+  },
+  "createdAt": "Fri Oct 30 16:01:34 +0000 2026",
+  "createdAtLocal": "2026-10-31 00:01",
+  "createdAtISO": "2026-10-30T16:01:34+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HV45-G6bQAEPqOj.jpg",
+      "width": 1125,
+      "height": 1693
+    }
+  ],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116148361707589805",
+    "text": "One of the largest crypto exchanges gets hacked for $6 billion and bitcoin sold off less than 5%?\n\nBullish.",
+    "author": {
+      "screenName": "APompliano",
+      "name": "Anthony Pompliano 🌪"
+    }
+  },
+  "archiveGroup": "official"
+}

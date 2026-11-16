@@ -1,0 +1,39 @@
+{
+  "id": "2116855614634852611",
+  "text": "Latest Withdrawal Update\n\nWithdrawals have now been re-enabled for the following networks and assets:\n\nNew:\n✅ MATIC (Polygon): POL, USDT, USDC\n✅ AVAXC: AVAX, USDT, USDC\n\nAlready Enabled:\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\n✅ DOGE: DOGE\n✅ OP (Optimism): ETH, USDT, USDC\n✅ ARBITRUM: ARB, ETH, USDT, USDC\n✅ TRX: TRX, USDT\n✅ SOL: SOL, USDT, USDC\n\nWe will continue to restore additional assets and networks in phases as security checks are completed. Further updates will be shared through official Binance channels.",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 931,
+    "retweets": 118,
+    "replies": 162,
+    "quotes": 39,
+    "views": 580921,
+    "bookmarks": 26
+  },
+  "createdAt": "Sun Nov 01 11:31:22 +0000 2026",
+  "createdAtLocal": "2026-11-01 19:31",
+  "createdAtISO": "2026-11-01T11:31:22+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116851716448718901",
+    "text": "Latest Withdrawal Update\n\nWithdrawals have now been re-enabled for the following networks and assets:\n\nNew:\n✅ SOL: SOL, USDT, USDC\n\nAlready Enabled:\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\n✅ DOGE: DOGE\n✅ OP (Optimism): ETH, USDT, USDC\n✅ ARBITRUM: ARB, ETH, USDT, USDC\n✅ TRX: TRX, USDT\n\nWe will continue to restore additional assets and networks in phases as security checks are completed. Further updates will be shared through official Binance channels.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

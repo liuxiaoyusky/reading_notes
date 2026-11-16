@@ -1,0 +1,39 @@
+{
+  "id": "2116758629634478111",
+  "text": "We sincerely thank @FBICyberBranch for their strong support during this challenging time.",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 1894,
+    "retweets": 234,
+    "replies": 135,
+    "quotes": 8,
+    "views": 379831,
+    "bookmarks": 64
+  },
+  "createdAt": "Sun Nov 01 05:05:59 +0000 2026",
+  "createdAtLocal": "2026-11-01 13:05",
+  "createdAtISO": "2026-11-01T05:05:59+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116660730745299426",
+    "text": "The FBI is releasing information advising the Democratic People's Republic of Korea (North Korea) was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange, Binance, on or about October 29, 2026. The FBI refers to this specific North Korean malicious cyber activity as \"TraderTraitor.\"\n\nThe FBI, together with partners at the USSS and IRS-CI, has observed TraderTraitor actors converting stolen assets primarily into Ethereum (ETH). It is expected these assets will then be further laundered by converting them using DeFi and instant swap services as they prepare them for further laundering stages.\n\nHow You Can Help:\nFBI, USSS, and IRS-CI are urging private sector entities including THORNode operators, RPC node operators, instant exchanges, DeFi services, blockchain analytics firms, and other virtual asset service providers to block transactions with or derived from addresses TraderTraitor actors are using to launder these stolen assets.\n\nA list of addresses associated with this activity is available here: https://t.co/g0oIWx0WeD",
+    "author": {
+      "screenName": "FBICyberBranch",
+      "name": "FBI Cyber Branch"
+    }
+  },
+  "archiveGroup": "official"
+}

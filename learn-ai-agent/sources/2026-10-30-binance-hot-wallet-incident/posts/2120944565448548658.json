@@ -1,0 +1,39 @@
+{
+  "id": "2120944565448548658",
+  "text": "100% 1:1 backing. Funds are SAFU!",
+  "author": {
+    "id": "902926941413453824",
+    "name": "CZ 🔶 BNB",
+    "screenName": "cz_binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041696316451909632/7K4xEnRE_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 7108,
+    "retweets": 543,
+    "replies": 1203,
+    "quotes": 143,
+    "views": 613636,
+    "bookmarks": 171
+  },
+  "createdAt": "Thu Nov 12 18:19:24 +0000 2026",
+  "createdAtLocal": "2026-11-13 02:19",
+  "createdAtISO": "2026-11-12T18:19:24+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2120921979226329504",
+    "text": "Binance has completed coverage of assets impacted in the security incident and we have published a new Proof of Reserves snapshot. Once the zero-knowledge proof is generated, users can independently verify that their assets are backed at a minimum of 1:1 - https://t.co/2cKzTtWddW.\n\nTo our users and community: thank you for your patience and understanding.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

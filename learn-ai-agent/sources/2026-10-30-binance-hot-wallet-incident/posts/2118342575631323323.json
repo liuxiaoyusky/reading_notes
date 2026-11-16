@@ -1,0 +1,40 @@
+{
+  "id": "2118342575631323323",
+  "text": "Collective defense is now an operational requirement. In a new post,\n\n@ddisparte outlines Circle’s response to the recent Binance incident and the need for swift ecosystem coordination moving forward.\n\nhttps://t.co/N3fCg1iElt https://t.co/Y4KmXXMfJ4",
+  "author": {
+    "id": "2151686839",
+    "name": "Circle",
+    "screenName": "circle",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1719446730091962368/Bl01sQsB_normal.png",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 115,
+    "retweets": 28,
+    "replies": 15,
+    "quotes": 3,
+    "views": 11216,
+    "bookmarks": 3
+  },
+  "createdAt": "Thu Nov 05 14:00:01 +0000 2026",
+  "createdAtLocal": "2026-11-05 22:00",
+  "createdAtISO": "2026-11-05T14:00:01+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWUexdjaoAAJVPx.jpg",
+      "width": 1200,
+      "height": 630
+    }
+  ],
+  "urls": [
+    "https://www.circle.com/blog/the-binance-incident-collective-defense-must-move-at-machine-speed"
+  ],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "archiveGroup": "official"
+}

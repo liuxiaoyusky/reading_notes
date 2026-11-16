@@ -1,0 +1,39 @@
+{
+  "id": "2116728061765034338",
+  "text": "Update: We have already covered $6B of the impacted amount of the hacked loss.",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 3896,
+    "retweets": 602,
+    "replies": 575,
+    "quotes": 148,
+    "views": 1020605,
+    "bookmarks": 118
+  },
+  "createdAt": "Sun Nov 01 03:04:31 +0000 2026",
+  "createdAtLocal": "2026-11-01 11:04",
+  "createdAtISO": "2026-11-01T03:04:31+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116538196259684457",
+    "text": "https://t.co/FJazWAxnQX",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

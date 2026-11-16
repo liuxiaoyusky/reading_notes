@@ -1,0 +1,39 @@
+{
+  "id": "2116857687027707929",
+  "text": "提现服务最新进展\n\n目前，以下网络及资产的提现服务已恢复：\n\n本次新增恢复：\n✅ Polygon（MATIC）网络： POL、USDT、USDC\n✅ AVAX C-Chain（AVAXC）网络： AVAX、USDT、USDC\n\n此前已恢复：\n✅ BTC 网络： BTC\n✅ ETH 网络： ETH、USDT、USDC\n✅ BSC 网络： BNB、USDT、USDC\n✅ XRP 网络： XRP\n✅ Base 网络： ETH、USDC\n✅ DOGE 网络： DOGE\n✅ OP（Optimism）网络： ETH、USDT、USDC\n✅ Arbitrum 网络： ARB、ETH、USDT、USDC\n✅ TRX 网络： TRX、USDT\n✅ SOL 网络： SOL、USDT、USDC\n\n随着安全检查逐步完成，我们将继续分阶段恢复更多资产及网络的提现服务。后续进展将通过币安官方渠道持续更新。",
+  "author": {
+    "id": "1451036242431262720",
+    "name": "币安Binance华语",
+    "screenName": "binancezh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1815972658640740354/RySOJZ_Q_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 37,
+    "retweets": 3,
+    "replies": 19,
+    "quotes": 5,
+    "views": 28710,
+    "bookmarks": 0
+  },
+  "createdAt": "Sun Nov 01 11:39:36 +0000 2026",
+  "createdAtLocal": "2026-11-01 19:39",
+  "createdAtISO": "2026-11-01T11:39:36+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "zh",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116745976446956000",
+    "text": "https://t.co/B0f31o6xQG",
+    "author": {
+      "screenName": "binancezh",
+      "name": "币安Binance华语"
+    }
+  },
+  "archiveGroup": "official"
+}

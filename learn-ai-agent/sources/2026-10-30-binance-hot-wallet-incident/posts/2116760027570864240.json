@@ -1,0 +1,46 @@
+{
+  "id": "2116760027570864240",
+  "text": "Today, we're beginning the phased resumption of withdrawals, taking a careful approach to ensure services return safely and securely.\n\nWe've now replenished approximately 95% of the impacted assets, and our commitment remains clear: Binance will absorb the financial impact of the stolen funds, not our users.\n\nThank you for your patience, understanding, and continued trust. We know this hasn't been easy, and we're committed to seeing the recovery through.",
+  "author": {
+    "id": "1395261244769112065",
+    "name": "Richard Teng",
+    "screenName": "_RichardTeng",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2006270124102397952/pJkssfOh_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 590,
+    "retweets": 88,
+    "replies": 90,
+    "quotes": 19,
+    "views": 73256,
+    "bookmarks": 26
+  },
+  "createdAt": "Sun Nov 01 05:11:32 +0000 2026",
+  "createdAtLocal": "2026-11-01 13:11",
+  "createdAtISO": "2026-11-01T05:11:32+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWA98LdaAAA5T82.png",
+      "width": 1134,
+      "height": 630
+    }
+  ],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116744986096292263",
+    "text": "https://t.co/pBJaht1UGV",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

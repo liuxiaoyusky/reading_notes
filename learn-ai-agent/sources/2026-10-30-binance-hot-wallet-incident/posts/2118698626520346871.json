@@ -1,0 +1,39 @@
+{
+  "id": "2118698626520346871",
+  "text": "💁🏻‍♀️ZKProof for the latest PoR is ready, users can verify their balances on Binance are backed at a minimum of 1:1.\nPlease note that there is a time gap between the completion of the Proof of Reserves (POR) and the point at which users can perform their own verification. This duration generally depends on the scale of the assets and is beyond Binance’s control.",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 509,
+    "retweets": 58,
+    "replies": 179,
+    "quotes": 12,
+    "views": 84026,
+    "bookmarks": 12
+  },
+  "createdAt": "Fri Nov 06 13:34:50 +0000 2026",
+  "createdAtLocal": "2026-11-06 21:34",
+  "createdAtISO": "2026-11-06T13:34:50+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2118631544038580248",
+    "text": "ZKProof for the latest PoR is ready, users can verify their balances on Binance are backed at a minimum of 1:1.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "2116785774540787920",
+  "text": "As part of our ongoing security response, we have updated our list of Proof of Reserves addresses to include newly generated wallet addresses. Going forward, all withdrawals will be processed from these new wallet addresses.\n\nhttps://t.co/nspWeaiQDz",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 893,
+    "retweets": 117,
+    "replies": 166,
+    "quotes": 37,
+    "views": 417381,
+    "bookmarks": 30
+  },
+  "createdAt": "Sun Nov 01 06:53:51 +0000 2026",
+  "createdAtLocal": "2026-11-01 14:53",
+  "createdAtISO": "2026-11-01T06:53:51+00:00",
+  "media": [],
+  "urls": [
+    "https://www.binance.com/en/proof-of-reserves"
+  ],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116744986096292263",
+    "text": "https://t.co/pBJaht1UGV",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "2115993361517891592",
+  "text": "Binance's initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions. We have found no evidence of any wallet private key leak. We will share a detailed technical post-mortem once the investigation is complete and the facts are fully verified.\n\nThe estimated total impact sits at around $6.3B. We have worked with blockchain partners to freeze affected assets, with ~$3 billion frozen on-chain so far.\nBinance will cover all losses from the SAFU fund and the company’s funds. User funds are safe. We will also publish an updated Proof of Reserves once the remediation is complete.\n\nAs an immediate precaution, Binance has:\n\n- temporarily suspended deposits and withdrawals while security checks are completed;\n- revoked the affected address authorisation;\n- engaged law enforcement and blockchain intelligence partners to trace and recover funds.\n\nOur teams are working around the clock to resolve this issue safely and thoroughly. We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice.\n\nPlease rely only on official Binance channels for updates. Please feel free to contact Binance Customer Support if you have any further questions.\n\nhttps://t.co/ywB2mKFy0p",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 29565,
+    "retweets": 6162,
+    "replies": 3399,
+    "quotes": 3771,
+    "views": 7306526,
+    "bookmarks": 4830
+  },
+  "createdAt": "Fri Oct 30 02:25:05 +0000 2026",
+  "createdAtLocal": "2026-10-30 10:25",
+  "createdAtISO": "2026-10-30T02:25:05+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HV2EXppbwAEyxeq.jpg",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "archiveGroup": "official"
+}

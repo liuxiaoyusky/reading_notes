@@ -1,0 +1,39 @@
+{
+  "id": "2118024848803057670",
+  "text": "We have also taken a new Proof of Reserves (PoR) snapshot at 2026-11-04 00:00 (UTC). It now covers 44 tokens, up from 10 in the previous snapshot, and is available on our PoR website.\nThe snapshot provides an updated view of assets that are fully accounted for, reflecting our ongoing commitment to transparency. Generating the full zero-knowledge proof is expected to take approximately 50 to 60 hours due to the computational workload. Once the proof is generated, users holding any of the covered tokens will be able to independently verify that their balances are at least 1:1 backed.💁🏻‍♀️\nVerify, don’t follow.💛",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 765,
+    "retweets": 118,
+    "replies": 309,
+    "quotes": 31,
+    "views": 68052,
+    "bookmarks": 23
+  },
+  "createdAt": "Wed Nov 04 16:57:29 +0000 2026",
+  "createdAtLocal": "2026-11-05 00:57",
+  "createdAtISO": "2026-11-04T16:57:29+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2118001921252347938",
+    "text": "https://t.co/CIChB7nJUQ",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

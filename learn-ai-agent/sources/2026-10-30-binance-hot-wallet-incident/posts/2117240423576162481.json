@@ -1,0 +1,39 @@
+{
+  "id": "2117240423576162481",
+  "text": "New update, seems mostly PoR (proof-of-reserve) related.",
+  "author": {
+    "id": "902926941413453824",
+    "name": "CZ 🔶 BNB",
+    "screenName": "cz_binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041696316451909632/7K4xEnRE_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 1981,
+    "retweets": 165,
+    "replies": 264,
+    "quotes": 16,
+    "views": 376375,
+    "bookmarks": 46
+  },
+  "createdAt": "Mon Nov 02 13:00:28 +0000 2026",
+  "createdAtLocal": "2026-11-02 21:00",
+  "createdAtISO": "2026-11-02T13:00:28+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2117237539098521938",
+    "text": "https://t.co/Dg2lQ9txpX",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2116791881057354102",
+  "text": "Things are currently running fairly smoothly. If there are many withdrawal requests, congestion cannot be ruled out, after which it will smooth out again. Before withdrawing, please carefully check the address and confirm the security of any new device and environment. Safety first.💁🏻‍♀️",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 1458,
+    "retweets": 113,
+    "replies": 270,
+    "quotes": 28,
+    "views": 349463,
+    "bookmarks": 21
+  },
+  "createdAt": "Sun Nov 01 07:18:07 +0000 2026",
+  "createdAtLocal": "2026-11-01 15:18",
+  "createdAtISO": "2026-11-01T07:18:07+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116777408074600621",
+    "text": "Update: First batch network now opened in phase one of withdrawals is $BTC bitcoin network",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

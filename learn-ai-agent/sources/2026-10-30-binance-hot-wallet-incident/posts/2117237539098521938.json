@@ -1,0 +1,34 @@
+{
+  "id": "2117237539098521938",
+  "text": "https://t.co/Dg2lQ9txpX",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 969,
+    "retweets": 136,
+    "replies": 171,
+    "quotes": 78,
+    "views": 0,
+    "bookmarks": 76
+  },
+  "createdAt": "Mon Nov 02 12:49:00 +0000 2026",
+  "createdAtLocal": "2026-11-02 20:49",
+  "createdAtISO": "2026-11-02T12:49:00+00:00",
+  "media": [],
+  "urls": [
+    "https://x.com/i/article/2117214044188766208"
+  ],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "zxx",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "articleTitle": "Security Incident | Recovery Update #5: October 31st PoR Snapshot Now Fully Verifiable by Users",
+  "articleText": "Fellow Binancians,\n\nIn [Recovery Update #3](https://x.com/binance/status/2116538196259684457), we confirmed that the affected assets were replenished using Binance's own funds and all BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC are fully backed at 100%. We also took a new Proof of Reserve (PoR) snapshot at 2026-10-31 00:00 (UTC) to provide an updated view of assets for transparency.\n\nThe full zero-knowledge proof for this latest PoR snapshot has been completed within our estimated timeframe. Binance users holding any of these ten tokens can independently verify that their balances on Binance are backed at a minimum of 1:1. Users can do so by using the verifying tool on our [PoR website](https://www.binance.com/proof-of-reserves). Please see the instructions in our guide [here](https://www.binance.com/en/support/faq/detail/815b25f0cb054bdd9d35eccc408fe981).\n\nWe plan to take another snapshot with coverage for more tokens on 2026-11-04. We will then generate an updated full zero-knowledge proof, which we estimate will take approximately 40 to 50 hours to complete due to the computational workload.\n\nAs noted in [Recovery Update #4](https://x.com/binance/status/2116744986096292263), Binance has covered approximately 95% of the impacted amount. The outstanding 5% consists of tokens not included in the top ten listed above. These assets are less liquid, and take longer to source at the required scale. We continue working with industry partners to complete the remaining acquisitions.\n\nWe are also working to resume withdrawals for additional networks and assets. The next phase is planned for tomorrow — this will be a progressive rollout and we will share the details once ready.\n\nOur commitment is unchanged: Binance will absorb the financial impact of the stolen funds, not our users. With the generated proof, the backed portion of that commitment is now publicly verifiable.\n\nThank you for your support!\n\nBinance Team\n\n2026-11-02\n\nProof of Reserve Verification FAQs\n\nBinance publishes Proof of Reserve (PoR) so users don't have to take our word for it. The public can learn more about PoR, and how it cryptographically proves that user assets on Binance are backed at a minimum of 1:1 [here](https://www.binance.com/en/proof-of-reserves).\n\nUsers can learn about how to verify in our guide [here](https://www.binance.com/en/support/faq/detail/815b25f0cb054bdd9d35eccc408fe981).\n\nBefore you start: you'll need to log in to your Binance account, and to download the verifier tool from the PoR website onto your computer to run your own verification.\n\nSecurity reminder: For your own security, please only access the official Binance website. Do not share your login information, and do not use devices that you do not trust.\n\nWhy is verifying my assets with PoR so complicated?\n\nWe understand PoR verification can look technical. It relies on cryptography rather than a number we ask you to trust, and the steps exist precisely so you don't have to rely on Binance's word alone. To make it easier, we've published [a step-by-step guide here](https://www.binance.com/en/support/faq/detail/815b25f0cb054bdd9d35eccc408fe981).\n\nWhy do I need to download the verifying files to my computer?\n\nYou verify on your own devices so you can be assured you are running your own checks on your own machine.\n\nThe verifier is open-source and can be downloaded and run by anyone. We publish updates to a public GitHub repository, and the code has been independently audited (see [link](https://hacken.io/audits/binance/por-binance-por-code-audit-feb2023/) for example). This lets the developer community and the wider public review the implementation for transparency.\n\nAre PoR and Zero-Knowledge Proofs reliable?\n\nYes. Binance's Proof of Reserve uses a Merkle Tree system with a zk-SNARK (zero-knowledge succinct non-interactive argument of knowledge).\n\n- The Merkle Tree lets each user independently verify that their own account assets are included in the reserves snapshot.\n\n- The zk-SNARK proves, for the snapshot taken at 2026-10-31 00:00 (UTC), that the reserves are at minimum 1:1 backed — without revealing any individual user's balance.\n\nTogether, the result is cryptographically proven: you confirm your own assets are covered and included in the PoR snapshot we publish, and without exposing your balance or anyone else's."
+}

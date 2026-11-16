@@ -1,0 +1,38 @@
+{
+  "id": "2116176335722913865",
+  "text": "An update on the security incident. https://t.co/qn2804fO5z",
+  "author": {
+    "id": "1395261244769112065",
+    "name": "Richard Teng",
+    "screenName": "_RichardTeng",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2006270124102397952/pJkssfOh_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 4278,
+    "retweets": 586,
+    "replies": 691,
+    "quotes": 208,
+    "views": 1355739,
+    "bookmarks": 537
+  },
+  "createdAt": "Fri Oct 30 14:32:09 +0000 2026",
+  "createdAtLocal": "2026-10-30 22:32",
+  "createdAtISO": "2026-10-30T14:32:09+00:00",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2116174516653371392/vid/avc1/720x1280/JvgIkVQAv8nXVno-.mp4?tag=29",
+      "width": 720,
+      "height": 1280
+    }
+  ],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "archiveGroup": "official"
+}

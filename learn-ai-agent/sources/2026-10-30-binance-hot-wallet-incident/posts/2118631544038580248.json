@@ -1,0 +1,39 @@
+{
+  "id": "2118631544038580248",
+  "text": "ZKProof for the latest PoR is ready, users can verify their balances on Binance are backed at a minimum of 1:1.",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 562,
+    "retweets": 94,
+    "replies": 131,
+    "quotes": 12,
+    "views": 273243,
+    "bookmarks": 19
+  },
+  "createdAt": "Fri Nov 06 09:08:17 +0000 2026",
+  "createdAtLocal": "2026-11-06 17:08",
+  "createdAtISO": "2026-11-06T09:08:17+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2118001921252347938",
+    "text": "https://t.co/CIChB7nJUQ",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

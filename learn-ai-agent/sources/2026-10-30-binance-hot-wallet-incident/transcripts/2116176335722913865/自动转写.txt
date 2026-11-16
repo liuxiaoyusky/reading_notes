@@ -1,0 +1,76 @@
+本地 Faster Whisper base 自动转写，未逐字校对。
+
+Hi, everyone. Firstly, I want to thank you for the support.
+Difficult times like this are a great reminder how strong our industry is and we work together.
+We are grateful to our partners that acted quickly to freeze the hacked assets,
+to global law enforcement who are working with hand-in-hand to suggest this.
+But most of all, we are grateful to our users for their patience and understanding.
+We are also sure that we are working non-stop to resolve this,
+to make the users hold and live up to your trust.
+I want to be clear, we are committed to covering all hacked losses through our company funds.
+Your assets are safe.
+The good news is that we are recovering stolen assets for users.
+Binance has reserved over 6.34 billion of company funds to cover the stolen assets.
+Five billion of these funds already help in exact token assets that are impacted
+such as USDC, USDT, PTC, if PMB, etc.
+I know many of you are still asking the same question.
+How can Binance actually prove your assets are not affected?
+Let me be direct about the first point.
+We never use any customer funds, so they are not impacted.
+What was affected in this incident was Binance owned hot wallet.
+User assets are held under Binance established security architecture,
+the vast majority sits in co-wallets,
+and are only moved into a hot wallet when a user makes a withdrawal.
+One more thing I want to share, Binance has always been built for the long-term.
+Most of what we earn from day-to-day operations is held in crypto assets.
+We have kept a lot of them in the company and reinvested them into the business and into security.
+Because we believe in crypto and the long-term value of this industry.
+This is precisely why we are able to absorb a lot of this size,
+immediately with our own money.
+We are working on the outstanding amount by buying the token assets
+through market and OTC channels.
+We will share more progress as soon as we can.
+If you, as a user, are concerned,
+we encourage you to check funds on your Binance account
+with our initial proof of reserve for public verification,
+which is targeting on Monday.
+We can reach out to our customer service with any question.
+Next, I want to give you an update on our understanding of the hack itself.
+Our tech and security team are still deep in investigation of the hack.
+This was not carried out by one person.
+Our initial investigation suggested that the security incident
+may have involved a compromised laptop.
+However, our subsequent investigation has uncovered additional points of breach.
+This was a complex attack.
+The attacker also used self-destruct mechanism
+that destroyed tooling and traces as they ran,
+making it more difficult for us to trace and investigate.
+The attacker used a known multi-senature protocol,
+EIP 7702,
+to obtain on-chain execution,
+or prove over a hot wallet.
+The delegation did not pass through our normal approval controls
+and that's why we need to pause.
+The withdrawal service to investigate, rebuild, and retest
+the entire infrastructure system.
+So what we're doing now?
+First, we're rebuilding the withdrawal service.
+And we're not switching it back until it passes rigorous testing.
+We're very hopeful that users will be able to withdraw prior to the Sunday deadline,
+which is on track to be written for the hours.
+Secondly, we're conducting a full security review across the entire company
+and points, cloud key management, signing everything.
+Third, we're completing the purchase of the remaining assets
+and we'll verify in our proof of reserves.
+We're sharing a full proof of reserves report by Monday
+and we're hoping to get an initial view of the proof of reserves before that.
+Fourth, we're working with law enforcement,
+blockchain intelligence firm, token issuers, and other exchanges
+to trace and recover stolen funds.
+We'll do everything within our power to ensure that this bad actors
+will be held accountable.
+Lastly, this industry-wide effort,
+and we are very grateful to our partners across the entire ecosystem,
+will move very quickly to help and support.
+We'll weather this storm.
+Thank you for the support and stay safe.

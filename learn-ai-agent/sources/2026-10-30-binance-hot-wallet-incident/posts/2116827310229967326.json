@@ -1,0 +1,39 @@
+{
+  "id": "2116827310229967326",
+  "text": "Latest Withdrawal Update\n\nWithdrawals have now been re-enabled for the following networks and assets:\n\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\n\nWe will continue to restore additional assets and networks in phases as security checks are completed. Further updates will be shared through official Binance channels.",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 1647,
+    "retweets": 250,
+    "replies": 242,
+    "quotes": 98,
+    "views": 985968,
+    "bookmarks": 34
+  },
+  "createdAt": "Sun Nov 01 09:38:54 +0000 2026",
+  "createdAtLocal": "2026-11-01 17:38",
+  "createdAtISO": "2026-11-01T09:38:54+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116744986096292263",
+    "text": "https://t.co/pBJaht1UGV",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

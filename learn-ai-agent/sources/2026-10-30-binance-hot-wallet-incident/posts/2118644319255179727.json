@@ -1,0 +1,39 @@
+{
+  "id": "2118644319255179727",
+  "text": "Our latest PoR ZKProof is ready, allowing you to independently verify that your Binance balances are backed at least 1:1.\n\nBecause what matters most is being able to verify it yourself.",
+  "author": {
+    "id": "1395261244769112065",
+    "name": "Richard Teng",
+    "screenName": "_RichardTeng",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2006270124102397952/pJkssfOh_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 141,
+    "retweets": 24,
+    "replies": 45,
+    "quotes": 2,
+    "views": 18701,
+    "bookmarks": 2
+  },
+  "createdAt": "Fri Nov 06 09:59:02 +0000 2026",
+  "createdAtLocal": "2026-11-06 17:59",
+  "createdAtISO": "2026-11-06T09:59:02+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2118001921252347938",
+    "text": "https://t.co/CIChB7nJUQ",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2116846750304731336",
+  "text": "Withdrawals have now been re-enabled for the following networks and assets:\n\nNew:\n✅ ARBITRUM: ARB, ETH, USDT, USDC\n✅ TRX: TRX, USDT\n\nAlready Enabled:\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\n✅ DOGE: DOGE\n✅ OP (Optimism): ETH, USDT, USDC\n\nPlease carefully check all details during the withdrawal process, and make sure your device is secure and the address is correct. Safety first.💁🏻‍♀️",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 676,
+    "retweets": 68,
+    "replies": 143,
+    "quotes": 13,
+    "views": 93194,
+    "bookmarks": 11
+  },
+  "createdAt": "Sun Nov 01 10:56:09 +0000 2026",
+  "createdAtLocal": "2026-11-01 18:56",
+  "createdAtISO": "2026-11-01T10:56:09+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116844881448743094",
+    "text": "Latest Withdrawal Update\n\nWithdrawals have now been re-enabled for the following networks and assets:\n\nNew:\n✅ ARBITRUM: ARB, ETH, USDT, USDC\n✅ TRX: TRX, USDT\n\nAlready Enabled:\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\n✅ DOGE: DOGE\n✅ OP (Optimism): ETH, USDT, USDC\n\nWe will continue to restore additional assets and networks in phases as security checks are completed. Further updates will be shared through official Binance channels.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

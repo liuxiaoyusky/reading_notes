@@ -1,0 +1,39 @@
+{
+  "id": "2116259036903669855",
+  "text": "Over the past 24 hours, our teams have been working around the clock to respond to a serious security incident involving unauthorized withdrawals of funds. This is a live update on where things stand - what we've done, what we've learned, and what comes next.\n\nBottom line: Binance will absorb the financial impact of these stolen funds, not our users.\n\nOver $6.34B reserved, $5B already held in the exact impacted assets. ~$3B frozen so far with our partners, \n\nWithdrawals resume once security checks are done. Then our Proof of Reserves, and a full post-mortem.\n\nWe are grateful to our users for their patience and understanding. \n\nRead the full update:",
+  "author": {
+    "id": "1395261244769112065",
+    "name": "Richard Teng",
+    "screenName": "_RichardTeng",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2006270124102397952/pJkssfOh_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 893,
+    "retweets": 111,
+    "replies": 143,
+    "quotes": 11,
+    "views": 78809,
+    "bookmarks": 28
+  },
+  "createdAt": "Fri Oct 30 20:00:47 +0000 2026",
+  "createdAtLocal": "2026-10-31 04:00",
+  "createdAtISO": "2026-10-30T20:00:47+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116258356109496479",
+    "text": "https://t.co/eeLPCUjIxR",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

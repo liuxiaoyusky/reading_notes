@@ -1,0 +1,39 @@
+{
+  "id": "2116827778545033429",
+  "text": "Withdrawals re-enabled for:\n\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC",
+  "author": {
+    "id": "902926941413453824",
+    "name": "CZ 🔶 BNB",
+    "screenName": "cz_binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041696316451909632/7K4xEnRE_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 9864,
+    "retweets": 841,
+    "replies": 917,
+    "quotes": 157,
+    "views": 751330,
+    "bookmarks": 136
+  },
+  "createdAt": "Sun Nov 01 09:40:45 +0000 2026",
+  "createdAtLocal": "2026-11-01 17:40",
+  "createdAtISO": "2026-11-01T09:40:45+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116827310229967326",
+    "text": "Latest Withdrawal Update\n\nWithdrawals have now been re-enabled for the following networks and assets:\n\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\n\nWe will continue to restore additional assets and networks in phases as security checks are completed. Further updates will be shared through official Binance channels.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

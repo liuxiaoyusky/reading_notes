@@ -1,0 +1,38 @@
+{
+  "id": "2116189354418897261",
+  "text": "User funds are SAFU. https://t.co/IdPNTMGudM",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 11267,
+    "retweets": 1304,
+    "replies": 2287,
+    "quotes": 699,
+    "views": 1907138,
+    "bookmarks": 914
+  },
+  "createdAt": "Fri Oct 30 15:23:53 +0000 2026",
+  "createdAtLocal": "2026-10-30 23:23",
+  "createdAtISO": "2026-10-30T15:23:53+00:00",
+  "media": [
+    {
+      "type": "video",
+      "url": "https://video.twimg.com/amplify_video/2116189141134442496/vid/avc1/1080x1920/Q1c2gF4eOdduWjjb.mp4?tag=29",
+      "width": 1080,
+      "height": 1920
+    }
+  ],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "archiveGroup": "official"
+}

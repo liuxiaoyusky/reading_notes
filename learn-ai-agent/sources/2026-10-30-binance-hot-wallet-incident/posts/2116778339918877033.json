@@ -1,0 +1,39 @@
+{
+  "id": "2116778339918877033",
+  "text": "BTC withdrawal is live.",
+  "author": {
+    "id": "902926941413453824",
+    "name": "CZ 🔶 BNB",
+    "screenName": "cz_binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041696316451909632/7K4xEnRE_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 10230,
+    "retweets": 772,
+    "replies": 950,
+    "quotes": 218,
+    "views": 1172300,
+    "bookmarks": 150
+  },
+  "createdAt": "Sun Nov 01 06:24:18 +0000 2026",
+  "createdAtLocal": "2026-11-01 14:24",
+  "createdAtISO": "2026-11-01T06:24:18+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116777408074600621",
+    "text": "Update: First batch network now opened in phase one of withdrawals is $BTC bitcoin network",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

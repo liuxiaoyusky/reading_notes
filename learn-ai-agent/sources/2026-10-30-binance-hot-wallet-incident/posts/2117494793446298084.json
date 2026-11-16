@@ -1,0 +1,38 @@
+{
+  "id": "2117494793446298084",
+  "text": "Withdrawal data update\n\nBy 03:00 UTC, we are seeing hourly deposits exceed withdrawals, reflecting improving user activity and stabilizing flows. https://t.co/UiXmYC2lm3",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 1351,
+    "retweets": 136,
+    "replies": 234,
+    "quotes": 73,
+    "views": 351060,
+    "bookmarks": 37
+  },
+  "createdAt": "Tue Nov 03 05:51:14 +0000 2026",
+  "createdAtLocal": "2026-11-03 13:51",
+  "createdAtISO": "2026-11-03T05:51:14+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWLaR1Ba0AE72rM.jpg",
+      "width": 1600,
+      "height": 1680
+    }
+  ],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "archiveGroup": "official"
+}

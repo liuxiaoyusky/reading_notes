@@ -1,0 +1,39 @@
+{
+  "id": "2117514123089231963",
+  "text": "Latest Withdrawal Update  \n\nWithdrawals have now been re-enabled for the following networks and assets:  \n\nNew: \n✅ ETH: ENA, USDE, PENDLE, WLD, QNT, SHIB, ZRO, FET, NIL, ONDO, ALT, SKY, LINK, ETHFI, REZ, JASMY, PUNDIX, BTC, BAT, STRK, POL, ANIME, LSK, RE, BREV, RLC, AMP, PLUME, BLUR, WBETH, ZBT, ENSO, AVA, TUSD  \n✅ SOL: USD1, PUMP, FDUSD, BMT, RENDER, RAY, TRUMP, MET, PENGU, JUP, PYTH, BONK, KMNO, BNSOL, ORCA, WIF, W, HUMA, JTO, IO, 2Z, BOME \n  \nAlready Enabled: \n✅ ETH: RLUSD, USD1, TUSD, FDUSD, XUSD\n\nWe will continue to restore additional assets and networks in phases as security checks are completed. Further updates will be shared through official Binance channels.",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 1158,
+    "retweets": 131,
+    "replies": 249,
+    "quotes": 35,
+    "views": 664251,
+    "bookmarks": 24
+  },
+  "createdAt": "Tue Nov 03 07:08:03 +0000 2026",
+  "createdAtLocal": "2026-11-03 15:08",
+  "createdAtISO": "2026-11-03T07:08:03+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2117468922647818652",
+    "text": "Withdrawal Update  \n\nWithdrawals have now been restored for the following assets and networks:  \n\nETH: RLUSD, USD1, TUSD, FDUSD, XUSD\n\nWe will continue to restore additional assets and networks in phases following the completion of our security checks. Further updates will be shared through official Binance channels.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

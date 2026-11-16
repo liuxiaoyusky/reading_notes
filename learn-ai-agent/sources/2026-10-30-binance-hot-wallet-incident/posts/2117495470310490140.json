@@ -1,0 +1,39 @@
+{
+  "id": "2117495470310490140",
+  "text": "By 03:00 UTC, we are seeing hourly deposits exceed withdrawals, reflecting improving user activity and stabilizing flows.💁🏻‍♀️",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 568,
+    "retweets": 50,
+    "replies": 159,
+    "quotes": 14,
+    "views": 62323,
+    "bookmarks": 3
+  },
+  "createdAt": "Tue Nov 03 05:53:55 +0000 2026",
+  "createdAtLocal": "2026-11-03 13:53",
+  "createdAtISO": "2026-11-03T05:53:55+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2117494793446298084",
+    "text": "Withdrawal data update\n\nBy 03:00 UTC, we are seeing hourly deposits exceed withdrawals, reflecting improving user activity and stabilizing flows. https://t.co/UiXmYC2lm3",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

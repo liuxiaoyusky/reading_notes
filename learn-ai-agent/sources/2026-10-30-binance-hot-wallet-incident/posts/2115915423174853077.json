@@ -1,0 +1,39 @@
+{
+  "id": "2115915423174853077",
+  "text": "User funds are safe!\n\nIt does look like a hack on Binance. Appreciate the quick freeze from Tether (~$971m) and Circle (~$823m).\n\nI don't manage Binance (.com) anymore, but as a shareholder, I expect all user funds will be fully covered.",
+  "author": {
+    "id": "902926941413453824",
+    "name": "CZ 🔶 BNB",
+    "screenName": "cz_binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041696316451909632/7K4xEnRE_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 36222,
+    "retweets": 5184,
+    "replies": 4634,
+    "quotes": 3262,
+    "views": 7004036,
+    "bookmarks": 2187
+  },
+  "createdAt": "Thu Oct 29 21:15:23 +0000 2026",
+  "createdAtLocal": "2026-10-30 05:15",
+  "createdAtISO": "2026-10-29T21:15:23+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2115912923432227128",
+    "text": "[🌲] TETHER FREEZES $971M USDT IN LIKELY BINANCE HACK, WITH NO UPDATE FROM BINANCE STILL",
+    "author": {
+      "screenName": "TreeNewsFeed",
+      "name": "Tree News"
+    }
+  },
+  "archiveGroup": "official"
+}

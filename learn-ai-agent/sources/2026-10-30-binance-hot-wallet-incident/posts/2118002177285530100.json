@@ -1,0 +1,39 @@
+{
+  "id": "2118002177285530100",
+  "text": "Our latest Proof of Reserves snapshot now covers 44 tokens, up from 10, expanding the range of assets users can independently verify are backed at least 1:1.\n\nGenerating the full zero-knowledge proof takes 50–60 hours of computation. That’s a long wait, but it serves an important purpose: letting users verify the backing of their own balances, rather than simply taking our word for it.\n\nOn recovery, we’re now at ~98% of impacted assets replenished. We’ll continue buying the remaining, less liquid tokens carefully through market and OTC channels to avoid moving prices as we close the gap.\n\nThere’s still work ahead: fully reopening withdrawals and strengthening safeguards. I’ll keep sharing progress as we go.",
+  "author": {
+    "id": "1395261244769112065",
+    "name": "Richard Teng",
+    "screenName": "_RichardTeng",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2006270124102397952/pJkssfOh_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 193,
+    "retweets": 27,
+    "replies": 55,
+    "quotes": 0,
+    "views": 20880,
+    "bookmarks": 5
+  },
+  "createdAt": "Wed Nov 04 15:27:24 +0000 2026",
+  "createdAtLocal": "2026-11-04 23:27",
+  "createdAtISO": "2026-11-04T15:27:24+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2118001921252347938",
+    "text": "https://t.co/CIChB7nJUQ",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

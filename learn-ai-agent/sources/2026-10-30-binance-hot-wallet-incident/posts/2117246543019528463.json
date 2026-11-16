@@ -1,0 +1,39 @@
+{
+  "id": "2117246543019528463",
+  "text": "The full zero-knowledge proof for the proof-of-reserves snapshot completed by Binance at 08:00 on October 31, 2026 (UTC+8)covering BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC has been generated. Binance users holding any one of these ten tokens can now independently verify whether their Binance account balance is backed by reserves of at least 1:1. \nWe will generate more reserve snapshots on November 04, 2026. Computation is required from the snapshot to the updated full zero-knowledge proof, and the generation time depends on the number of tokens. It is currently estimated that generating the zero-knowledge proof will take about 40 to 50 hours after the snapshot is completed.💁🏻‍♀️",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 576,
+    "retweets": 69,
+    "replies": 128,
+    "quotes": 14,
+    "views": 166950,
+    "bookmarks": 17
+  },
+  "createdAt": "Mon Nov 02 13:24:47 +0000 2026",
+  "createdAtLocal": "2026-11-02 21:24",
+  "createdAtISO": "2026-11-02T13:24:47+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2117237539098521938",
+    "text": "https://t.co/Dg2lQ9txpX",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

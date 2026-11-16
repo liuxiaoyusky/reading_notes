@@ -1,0 +1,46 @@
+{
+  "id": "2117469491156435236",
+  "text": "Binance will reopen withdrawals for the assets listed below, beginning at 04:00 (UTC) on 2026-11-03.💁🏻‍♀️ https://t.co/SiOMZSW8Nt",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 384,
+    "retweets": 50,
+    "replies": 86,
+    "quotes": 7,
+    "views": 58970,
+    "bookmarks": 11
+  },
+  "createdAt": "Tue Nov 03 04:10:42 +0000 2026",
+  "createdAtLocal": "2026-11-03 12:10",
+  "createdAtISO": "2026-11-03T04:10:42+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HWLDRrraYAE5IWa.jpg",
+      "width": 1130,
+      "height": 910
+    }
+  ],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2117444179630707088",
+    "text": "https://t.co/B0LuBFvwN4",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

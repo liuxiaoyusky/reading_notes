@@ -1,0 +1,39 @@
+{
+  "id": "2116777408074600621",
+  "text": "Update: First batch network now opened in phase one of withdrawals is $BTC bitcoin network",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 1617,
+    "retweets": 237,
+    "replies": 267,
+    "quotes": 141,
+    "views": 1736620,
+    "bookmarks": 55
+  },
+  "createdAt": "Sun Nov 01 06:20:36 +0000 2026",
+  "createdAtLocal": "2026-11-01 14:20",
+  "createdAtISO": "2026-11-01T06:20:36+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116744986096292263",
+    "text": "https://t.co/pBJaht1UGV",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

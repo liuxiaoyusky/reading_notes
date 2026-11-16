@@ -1,0 +1,41 @@
+{
+  "id": "2116564794094559407",
+  "text": "Update: SAFU fund transfer is complete - this was the large 7,499 $BTC transfer visible here: https://t.co/WIUQHtGE7O",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 3156,
+    "retweets": 454,
+    "replies": 469,
+    "quotes": 119,
+    "views": 1196026,
+    "bookmarks": 130
+  },
+  "createdAt": "Sat Oct 31 16:15:45 +0000 2026",
+  "createdAtLocal": "2026-11-01 00:15",
+  "createdAtISO": "2026-10-31T16:15:45+00:00",
+  "media": [],
+  "urls": [
+    "https://blockchair.com/bitcoin/transaction/774fcb97827d7ed2389447cc3ef3e1abcd024574cd745d2182cc0ec58e7914bd"
+  ],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116538196259684457",
+    "text": "https://t.co/FJazWAxnQX",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "2116835604046729648",
+  "text": "Withdrawals have now been re-enabled for the following networks and assets:\nNew：\n✅ DOGE: DOGE\n✅ OP (Optimism): ETH, USDT, USDC \nBefore：\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\nPlease carefully check all details during the withdrawal process, and make sure your device is secure and the address is correct. Safety first.💁🏻‍♀️",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 695,
+    "retweets": 73,
+    "replies": 155,
+    "quotes": 8,
+    "views": 65638,
+    "bookmarks": 7
+  },
+  "createdAt": "Sun Nov 01 10:11:51 +0000 2026",
+  "createdAtLocal": "2026-11-01 18:11",
+  "createdAtISO": "2026-11-01T10:11:51+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116833451949306221",
+    "text": "Latest Withdrawal Update\n\nWithdrawals have now been re-enabled for the following networks and assets:\n\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\n✅ DOGE: DOGE\n✅ OP (Optimism): ETH, USDT, USDC\n\nWe will continue to restore additional assets and networks in phases as security checks are completed. Further updates will be shared through official Binance channels.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

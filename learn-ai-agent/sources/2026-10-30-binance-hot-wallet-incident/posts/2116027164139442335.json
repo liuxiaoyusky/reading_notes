@@ -1,0 +1,38 @@
+{
+  "id": "2116027164139442335",
+  "text": "服务更新\n\n充值功能目前已不受影响，用户现可正常进行充值操作。\n\n提现功能目前仍暂时关闭，我们的团队正在对提现服务及相关地址进行全面安全升级。预计将在未来 48 小时内恢复提现，如有最新进展我们将及时同步。\n\n此次事件由多重因素共同导致。目前我们正通过遭到入侵的电脑追查完整攻击路径，该电脑可能是此次事件的切入点。后续我们将发布包含根本原因分析的完整报告。\n\n我们将持续通过币安官方渠道同步最新进展。",
+  "author": {
+    "id": "1451036242431262720",
+    "name": "币安Binance华语",
+    "screenName": "binancezh",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1815972658640740354/RySOJZ_Q_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 148,
+    "retweets": 17,
+    "replies": 111,
+    "quotes": 18,
+    "views": 64000,
+    "bookmarks": 5
+  },
+  "createdAt": "Fri Oct 30 04:39:24 +0000 2026",
+  "createdAtLocal": "2026-10-30 12:39",
+  "createdAtISO": "2026-10-30T04:39:24+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HV2jY4obUAAc0P0.jpg",
+      "width": 1200,
+      "height": 675
+    }
+  ],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "zh",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "archiveGroup": "official"
+}

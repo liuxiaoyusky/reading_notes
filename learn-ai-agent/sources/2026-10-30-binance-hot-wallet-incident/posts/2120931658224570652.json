@@ -1,0 +1,39 @@
+{
+  "id": "2120931658224570652",
+  "text": "Transparency should go beyond statements. It should be something users can independently verify.\n\nBinance has completed coverage of assets impacted in the recent security incident and published a new Proof of Reserves snapshot.\n\nWith zero-knowledge proof generation, users can verify that their assets are backed at a minimum of 1:1.\n\n👉 https://t.co/wQzBvVdFWd",
+  "author": {
+    "id": "1395261244769112065",
+    "name": "Richard Teng",
+    "screenName": "_RichardTeng",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2006270124102397952/pJkssfOh_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 136,
+    "retweets": 8,
+    "replies": 54,
+    "quotes": 1,
+    "views": 17632,
+    "bookmarks": 1
+  },
+  "createdAt": "Thu Nov 12 17:28:06 +0000 2026",
+  "createdAtLocal": "2026-11-13 01:28",
+  "createdAtISO": "2026-11-12T17:28:06+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2120921979226329504",
+    "text": "Binance has completed coverage of assets impacted in the security incident and we have published a new Proof of Reserves snapshot. Once the zero-knowledge proof is generated, users can independently verify that their assets are backed at a minimum of 1:1 - https://t.co/2cKzTtWddW.\n\nTo our users and community: thank you for your patience and understanding.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

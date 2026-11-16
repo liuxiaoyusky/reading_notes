@@ -1,0 +1,39 @@
+{
+  "id": "2119353313145799153",
+  "text": "💁🏻‍♀️\nWithdrawals have now been re-enabled for the following networks and assets:  \n\nNew: \n✅ HYPE  \n✅ APT",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 648,
+    "retweets": 35,
+    "replies": 194,
+    "quotes": 4,
+    "views": 72656,
+    "bookmarks": 11
+  },
+  "createdAt": "Sun Nov 08 08:56:20 +0000 2026",
+  "createdAtLocal": "2026-11-08 16:56",
+  "createdAtISO": "2026-11-08T08:56:20+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2119352231732580574",
+    "text": "Latest Withdrawal Update  \n\nWithdrawals have now been re-enabled for the following networks and assets:  \n\nNew: \n✅ HYPE  \n✅ APT\n\nAlready Enabled: \n✅ ETH: RLUSD, USD1, TUSD, FDUSD, XUSD\n✅ ETH: ENA, USDE, PENDLE, WLD, QNT, SHIB, ZRO, FET, NIL, ONDO, ALT, SKY, LINK, ETHFI, REZ, JASMY, PUNDIX, BTC, BAT, STRK, POL, ANIME, LSK, RE, BREV, RLC, AMP, PLUME, BLUR, WBETH, ZBT, ENSO, AVA, TUSD\n✅ SOL: USD1, PUMP, FDUSD, BMT, RENDER, RAY, TRUMP, MET, PENGU, JUP, PYTH, BONK, KMNO, BNSOL, ORCA, WIF, W, HUMA, JTO, IO, 2Z, BOME\n\nWe will continue to restore additional assets and networks in phases as security checks are completed. Further updates will be shared through official Binance channels.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2118189091279995327",
+  "text": "https://t.co/vDM2kw6QOe",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 563,
+    "retweets": 74,
+    "replies": 170,
+    "quotes": 52,
+    "views": 0,
+    "bookmarks": 28
+  },
+  "createdAt": "Thu Nov 05 03:50:08 +0000 2026",
+  "createdAtLocal": "2026-11-05 11:50",
+  "createdAtISO": "2026-11-05T03:50:08+00:00",
+  "media": [],
+  "urls": [
+    "https://x.com/i/article/2118188474356711424"
+  ],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "zxx",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "articleTitle": "Security Incident | Recovery Update #8: Withdrawals for More Assets to Reopen (2026-11-05)",
+  "articleText": "Fellow Binancians,\n\nWe continue to make progress restoring the withdrawal services and will reopen withdrawals for the assets listed below, beginning at 04:00 (UTC).\n\nNot all listed assets will become available at once. Reopening will roll out progressively across the assets as security and readiness checks are completed. Deposit services remain open.\n\n## Assets Planned to Resume Withdrawal\n\n![](https://pbs.twimg.com/media/HWVRcagbIAAxyyB.png)\n\nWe are prioritizing tokens based on user demand over the past week, restoring each network-asset pair carefully after completing rigorous security checks. Additional assets will be added as they become ready.\n\nPlease check the withdrawal page for your selected asset and network, or visit our [network status page](https://www.binance.com/en/network), to confirm availability. During rollout, users may see temporary delays or longer processing times due to traffic volume. If a withdrawal doesn't go through, please try again after a short while. We will share updates via our official X channel.\n\nWe continue to work towards reopening withdrawals in phases and strengthening our safeguards. We will share updates as progress continues.\n\nThank you for your support!\n\nBinance Team\n\n2026-11-05"
+}

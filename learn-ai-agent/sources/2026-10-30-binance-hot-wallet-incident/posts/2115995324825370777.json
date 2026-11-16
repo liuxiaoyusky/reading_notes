@@ -1,0 +1,39 @@
+{
+  "id": "2115995324825370777",
+  "text": "Thank you all in the community for your support. We will enable withdrawals as soon as the security scan is complete.💁‍♀️\n💛all of you.",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 1663,
+    "retweets": 143,
+    "replies": 455,
+    "quotes": 59,
+    "views": 239477,
+    "bookmarks": 32
+  },
+  "createdAt": "Fri Oct 30 02:32:53 +0000 2026",
+  "createdAtLocal": "2026-10-30 10:32",
+  "createdAtISO": "2026-10-30T02:32:53+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2115993361517891592",
+    "text": "Binance's initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to a service container and submit unauthorized withdrawal transactions. We have found no evidence of any wallet private key leak. We will share a detailed technical post-mortem once the investigation is complete and the facts are fully verified.\n\nThe estimated total impact sits at around $6.3B. We have worked with blockchain partners to freeze affected assets, with ~$3 billion frozen on-chain so far.\nBinance will cover all losses from the SAFU fund and the company’s funds. User funds are safe. We will also publish an updated Proof of Reserves once the remediation is complete.\n\nAs an immediate precaution, Binance has:\n\n- temporarily suspended deposits and withdrawals while security checks are completed;\n- revoked the affected address authorisation;\n- engaged law enforcement and blockchain intelligence partners to trace and recover funds.\n\nOur teams are working around the clock to resolve this issue safely and thoroughly. We are working closely with our law enforcement partners to confirm the identity of these criminals and bring them to justice.\n\nPlease rely only on official Binance channels for updates. Please feel free to contact Binance Customer Support if you have any further questions.\n\nhttps://t.co/ywB2mKFy0p",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

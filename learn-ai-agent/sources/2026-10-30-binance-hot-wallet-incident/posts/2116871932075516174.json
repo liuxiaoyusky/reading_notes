@@ -1,0 +1,39 @@
+{
+  "id": "2116871932075516174",
+  "text": "Latest Withdrawal Update\n\nWithdrawals have now been re-enabled for the following networks and assets:\n\nNew:\n✅ ZEC: ZEC \n✅ TON: USDT, GRAM\n✅ SUI: SUI\n\nAlready Enabled:\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\n✅ DOGE: DOGE\n✅ OP (Optimism): ETH, USDT, USDC\n✅ ARBITRUM: ARB, ETH, USDT, USDC\n✅ TRX: TRX, USDT\n✅ SOL: SOL, USDT, USDC\n✅ MATIC (Polygon): POL, USDT, USDC\n✅ AVAXC: AVAX, USDT, USDC\n\nWe will continue to restore additional assets and networks in phases as security checks are completed. Further updates will be shared through official Binance channels.",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 1709,
+    "retweets": 242,
+    "replies": 281,
+    "quotes": 91,
+    "views": 616459,
+    "bookmarks": 41
+  },
+  "createdAt": "Sun Nov 01 12:36:12 +0000 2026",
+  "createdAtLocal": "2026-11-01 20:36",
+  "createdAtISO": "2026-11-01T12:36:12+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116855614634852611",
+    "text": "Latest Withdrawal Update\n\nWithdrawals have now been re-enabled for the following networks and assets:\n\nNew:\n✅ MATIC (Polygon): POL, USDT, USDC\n✅ AVAXC: AVAX, USDT, USDC\n\nAlready Enabled:\n✅ BTC: BTC\n✅ ETH: ETH, USDT, USDC\n✅ BSC: BNB, USDT, USDC\n✅ XRP: XRP\n✅ Base: ETH, USDC\n✅ DOGE: DOGE\n✅ OP (Optimism): ETH, USDT, USDC\n✅ ARBITRUM: ARB, ETH, USDT, USDC\n✅ TRX: TRX, USDT\n✅ SOL: SOL, USDT, USDC\n\nWe will continue to restore additional assets and networks in phases as security checks are completed. Further updates will be shared through official Binance channels.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

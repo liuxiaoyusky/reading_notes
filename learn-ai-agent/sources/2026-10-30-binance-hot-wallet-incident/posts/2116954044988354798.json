@@ -1,0 +1,39 @@
+{
+  "id": "2116954044988354798",
+  "text": "12 hours after withdrawals resumed: 2.1% net outflow, with most occurring in the first couple of hours. Over $1 billion in flow, too.\n\n98% choose to stay!\n\nTrust isn’t earned by what you say in good times. It’s earned by what you do in hard times.\n\nThank you for your trust! 🙏🙏🙏🙏",
+  "author": {
+    "id": "902926941413453824",
+    "name": "CZ 🔶 BNB",
+    "screenName": "cz_binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2041696316451909632/7K4xEnRE_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 15268,
+    "retweets": 1404,
+    "replies": 1670,
+    "quotes": 270,
+    "views": 1008898,
+    "bookmarks": 386
+  },
+  "createdAt": "Sun Nov 01 18:02:30 +0000 2026",
+  "createdAtLocal": "2026-11-02 02:02",
+  "createdAtISO": "2026-11-01T18:02:30+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116926305254133892",
+    "text": "Binance began restoring withdrawals in phases at 06:00 UTC on November 1, 2026. By 12:36 UTC, withdrawals had resumed for all 15 networks and assets in the initial phase. After an initial spike, withdrawal volumes have declined and are stabilising as expected, while deposit volumes have remained substantial.\n\nBetween 06:00 and 15:30 UTC on November 1, we processed $4.649 billion in withdrawals and $1.01 billion in deposits, resulting in a net outflow of approximately $3.64 billion. This represents 2.1% of our $171 billion in total assets under management (AUM), based on the latest available Proof of Reserves (PoR) data as of October 28, 2026. A new PoR snapshot was taken at 00:00 UTC on October 31, and zero-knowledge proof (ZKP) computation began. The updated report is expected to be available on our PoR website tomorrow.\n\nOur team continues testing rigorously the remaining networks and assets. We know how important safe and reliable access to your funds is and will share details of the next phase as soon as we can. Rest assured that market conditions are stable.\n\nThank you for your patience and continued support.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

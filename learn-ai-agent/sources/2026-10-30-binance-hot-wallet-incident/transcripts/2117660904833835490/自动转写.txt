@@ -1,0 +1,17 @@
+本地 Faster Whisper base 自动转写，未逐字校对。
+
+Hi, good morning, Stuart. So we do have Kosea Richard Tang. This is the first time we're hearing from him since that historic hack and then the security report coming out this morning talking about a multi stage hacking campaign.
+So my first question for you, Richard. First of all, thank you for joining us since this was a multi stage hacking campaign. I have the report right here. Did you guys see any indication of a hacking early on or did this take you all by complete surprise?
+Well, thanks for having me there. And so first of all, this should not have happened and we are we are energized or users for the disruption. As you mentioned, this is a highly sophisticated multi-man campaign. And FBI says attributed the North Korea.
+We use a combination of fake recruitment interviews, malicious software, disguised as developer tools, AI techniques to work their way in and then execute at a speed our industry has never seen before.
+We have since then close all the different entry points, rebuild their factor system and we just publish a detailed report so the industry can learn from it.
+So in short, this isn't a one mistake or one click issue. The attackers spend month building their way in.
+So it's pretty sophisticated. You can read the report in full. You know, we continue to invest greatly into our security. We continue to tighten our controls on that front. The accident things that we learn from this episode.
+And we will continue to learn and we continue to enhance all the different features and make ourselves much stronger.
+So did any of your customers actually lose money here and how can they be sure?
+No, not at all. So I think the first thing we came out to say is that we, our company, we bear full responsibility.
+We take people who are bad, the full losses on this. I think we have set up that very, very clearly from day one.
+The full financial impact would be borne by us. Users are not compromised. We have set aside more than 100% of them out.
+98% of the impacted assets have been replenished. Customers can verify their balance through our provile preserve.
+The remaining assets, the two percent, they belong to less liquid tokens and we need some time to procure them without affecting market functioning.
+And those are being procured. So customers assets are fully secured on that front. And that's our sure. Our priority is always to protect customers assets and interests.

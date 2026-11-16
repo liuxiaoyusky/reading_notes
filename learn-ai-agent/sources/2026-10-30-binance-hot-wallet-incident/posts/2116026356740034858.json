@@ -1,0 +1,38 @@
+{
+  "id": "2116026356740034858",
+  "text": "Service Update\n\nDeposits remain unaffected and continue to operate as normal.\n\nWithdrawals remain paused while our team completes a security revamp of the withdrawal service and its related addresses. We expect to resume within 48 hours, and will update with further details. \n\nThe incident stems from multiple factors. Our security team is tracing the full attack path through the compromised computer which may be the entry point of the incident. A comprehensive report with the root cause will follow. \n\nWe will continue to share updates through official Binance channels.",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 3996,
+    "retweets": 546,
+    "replies": 651,
+    "quotes": 232,
+    "views": 649299,
+    "bookmarks": 161
+  },
+  "createdAt": "Fri Oct 30 04:36:11 +0000 2026",
+  "createdAtLocal": "2026-10-30 12:36",
+  "createdAtISO": "2026-10-30T04:36:11+00:00",
+  "media": [
+    {
+      "type": "photo",
+      "url": "https://pbs.twimg.com/media/HV2iuaybgAAaThY.jpg",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "archiveGroup": "official"
+}

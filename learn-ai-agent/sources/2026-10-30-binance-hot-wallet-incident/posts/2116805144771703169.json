@@ -1,0 +1,39 @@
+{
+  "id": "2116805144771703169",
+  "text": "Withdrawals have now been restored for the following assets and networks:\n- Ethereum Network: USDC, USDT, ETH\n- BNB Smart Chain (BSC): USDC, USDT, BNB\nPlease carefully check all details when making a withdrawal, and ensure that your device is secure and the address is accurate. Safety first.💁🏻‍♀️",
+  "author": {
+    "id": "1003840309166366721",
+    "name": "Yi He",
+    "screenName": "heyibinance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/2044437684144291841/vDSm1Vh9_normal.jpg",
+    "verified": true
+  },
+  "metrics": {
+    "likes": 1174,
+    "retweets": 113,
+    "replies": 259,
+    "quotes": 26,
+    "views": 98547,
+    "bookmarks": 17
+  },
+  "createdAt": "Sun Nov 01 08:10:49 +0000 2026",
+  "createdAtLocal": "2026-11-01 16:10",
+  "createdAtISO": "2026-11-01T08:10:49+00:00",
+  "media": [],
+  "urls": [],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "en",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "quotedTweet": {
+    "id": "2116799757507305516",
+    "text": "Withdrawal Update\n\nWithdrawals have now been restored for the following assets and networks:\n\n- Ethereum Network: USDC, USDT, ETH\n- BNB Smart Chain (BSC): USDC, USDT, BNB\n\nWe will continue to restore additional assets and networks in phases following the completion of our security checks. Further updates will be shared through official Binance channels.",
+    "author": {
+      "screenName": "binance",
+      "name": "Binance"
+    }
+  },
+  "archiveGroup": "official"
+}

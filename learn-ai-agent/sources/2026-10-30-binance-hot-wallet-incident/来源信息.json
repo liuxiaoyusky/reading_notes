@@ -1,0 +1,1902 @@
+{
+  "number": "LW-471",
+  "index_id": "2026-11-13-LW-471",
+  "title": "币安热钱包安全事件｜官方原帖与热门帖",
+  "source_url": "https://x.com/binance/status/2117626126214504729",
+  "author": "Binance 与各原帖作者",
+  "collection_date_hk": "2026-11-13",
+  "source_published_at": "2026-10-29 至 2026-11-13 (UTC)",
+  "media": [
+    {
+      "kind": "image",
+      "file": "media/HV090tGakAAWDrI.jpg",
+      "url": "https://pbs.twimg.com/media/HV090tGakAAWDrI.jpg",
+      "sha256": "04c2a99d8eb10d74c67cacf4c87ddf2640dd76fb354c23626cd0fc269b337d34"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV1Pf7ubcAApn85.jpg",
+      "url": "https://pbs.twimg.com/media/HV1Pf7ubcAApn85.jpg",
+      "sha256": "04c2a99d8eb10d74c67cacf4c87ddf2640dd76fb354c23626cd0fc269b337d34"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV1XWfBaoAAoss5.jpg",
+      "url": "https://pbs.twimg.com/media/HV1XWfBaoAAoss5.jpg",
+      "sha256": "04c2a99d8eb10d74c67cacf4c87ddf2640dd76fb354c23626cd0fc269b337d34"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV1jqq0bsAAf1m0.jpg",
+      "url": "https://pbs.twimg.com/media/HV1jqq0bsAAf1m0.jpg",
+      "sha256": "04c2a99d8eb10d74c67cacf4c87ddf2640dd76fb354c23626cd0fc269b337d34"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV1ogtiaQAAVkFZ.jpg",
+      "url": "https://pbs.twimg.com/media/HV1ogtiaQAAVkFZ.jpg",
+      "sha256": "01af9a60431a5f7623af3524bd8abd266e57b2b9ad460cccb58ab09913536c99"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV1wPVeaMAAbYx5.jpg",
+      "url": "https://pbs.twimg.com/media/HV1wPVeaMAAbYx5.jpg",
+      "sha256": "01af9a60431a5f7623af3524bd8abd266e57b2b9ad460cccb58ab09913536c99"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV15gq4boAAGTD-.jpg",
+      "url": "https://pbs.twimg.com/media/HV15gq4boAAGTD-.jpg",
+      "sha256": "04c2a99d8eb10d74c67cacf4c87ddf2640dd76fb354c23626cd0fc269b337d34"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV2EXppbwAEyxeq.jpg",
+      "url": "https://pbs.twimg.com/media/HV2EXppbwAEyxeq.jpg",
+      "sha256": "e9a9dd2c680655fd0193350a3ba92323648801fb510bb591fb5e625f4840414f"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV2Kd39aQAAa_go.jpg",
+      "url": "https://pbs.twimg.com/media/HV2Kd39aQAAa_go.jpg",
+      "sha256": "01af9a60431a5f7623af3524bd8abd266e57b2b9ad460cccb58ab09913536c99"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV2iuaybgAAaThY.jpg",
+      "url": "https://pbs.twimg.com/media/HV2iuaybgAAaThY.jpg",
+      "sha256": "e9a9dd2c680655fd0193350a3ba92323648801fb510bb591fb5e625f4840414f"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV2jY4obUAAc0P0.jpg",
+      "url": "https://pbs.twimg.com/media/HV2jY4obUAAc0P0.jpg",
+      "sha256": "01af9a60431a5f7623af3524bd8abd266e57b2b9ad460cccb58ab09913536c99"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV3cQDOaoAAtEPC.jpg",
+      "url": "https://pbs.twimg.com/media/HV3cQDOaoAAtEPC.jpg",
+      "sha256": "e9a9dd2c680655fd0193350a3ba92323648801fb510bb591fb5e625f4840414f"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV3gDHqaAAARdyY.jpg",
+      "url": "https://pbs.twimg.com/media/HV3gDHqaAAARdyY.jpg",
+      "sha256": "01af9a60431a5f7623af3524bd8abd266e57b2b9ad460cccb58ab09913536c99"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV35XWGa8AA5gZa.jpg",
+      "url": "https://pbs.twimg.com/media/HV35XWGa8AA5gZa.jpg",
+      "sha256": "e9a9dd2c680655fd0193350a3ba92323648801fb510bb591fb5e625f4840414f"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV3-qbibcAA2FMR.jpg",
+      "url": "https://pbs.twimg.com/media/HV3-qbibcAA2FMR.jpg",
+      "sha256": "01af9a60431a5f7623af3524bd8abd266e57b2b9ad460cccb58ab09913536c99"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV45-G6bQAEPqOj.jpg",
+      "url": "https://pbs.twimg.com/media/HV45-G6bQAEPqOj.jpg",
+      "sha256": "a5c7333f7c03bf8759dd13f61597b4771cf317ea5f7ca3b80649c8e0b275f730"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV_jt7RXMAAUOyg.jpg",
+      "url": "https://pbs.twimg.com/media/HV_jt7RXMAAUOyg.jpg",
+      "sha256": "67b5c7cd1bd9237edcab74b9f4ddd96b760e45606a25f2bc9b60aa64d587103c"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWAwQNyboAAwkNr.png",
+      "url": "https://pbs.twimg.com/media/HWAwQNyboAAwkNr.png",
+      "sha256": "d24b22d4568bf2776435d2372a45f8ffb8bd3887d194de092dbb574331c8157a"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWAxDPxaAAAObf8.png",
+      "url": "https://pbs.twimg.com/media/HWAxDPxaAAAObf8.png",
+      "sha256": "491022ac2cc07daae987031177e98494472a263ee3f0d1c7a30d145b760827ef"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWA98LdaAAA5T82.png",
+      "url": "https://pbs.twimg.com/media/HWA98LdaAAA5T82.png",
+      "sha256": "d24b22d4568bf2776435d2372a45f8ffb8bd3887d194de092dbb574331c8157a"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWDVPwMaIAADXLQ.jpg",
+      "url": "https://pbs.twimg.com/media/HWDVPwMaIAADXLQ.jpg",
+      "sha256": "308186e3cfd4e6babd1f276400ac6c17ac90a5e56e4664daab195295750e9f89"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWDXVtAasAEuJZO.jpg",
+      "url": "https://pbs.twimg.com/media/HWDXVtAasAEuJZO.jpg",
+      "sha256": "70582106be2fb2cbc47d56659ebf04fdddec536f9bdb1b65134d4b0a4b4f4c48"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWDwdIdWAAA5uNA.png",
+      "url": "https://pbs.twimg.com/media/HWDwdIdWAAA5uNA.png",
+      "sha256": "beaa8d838192670b182b9a3cc4bfbdcb8b8ef31edece257cf92b6033f2b3a253"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWGjq6haUAAdEWn.jpg",
+      "url": "https://pbs.twimg.com/media/HWGjq6haUAAdEWn.jpg",
+      "sha256": "e9a9dd2c680655fd0193350a3ba92323648801fb510bb591fb5e625f4840414f"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWGvbXobgAA_nR3.jpg",
+      "url": "https://pbs.twimg.com/media/HWGvbXobgAA_nR3.jpg",
+      "sha256": "01af9a60431a5f7623af3524bd8abd266e57b2b9ad460cccb58ab09913536c99"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWIGmGea0AA8zvJ.jpg",
+      "url": "https://pbs.twimg.com/media/HWIGmGea0AA8zvJ.jpg",
+      "sha256": "01af9a60431a5f7623af3524bd8abd266e57b2b9ad460cccb58ab09913536c99"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWKpIl5aoAAcsq-.png",
+      "url": "https://pbs.twimg.com/media/HWKpIl5aoAAcsq-.png",
+      "sha256": "39fd30a3fd7be4baffe2459396beb8f15d58e0bc8f8416c28ded55a3b090e828"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWKwJn9a4AAWdfT.jpg",
+      "url": "https://pbs.twimg.com/media/HWKwJn9a4AAWdfT.jpg",
+      "sha256": "a68f701a1d87537a39bf1ee3e2984261914c4eda1c5c2b92a5a696376c1bac0f"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWLDRrraYAE5IWa.jpg",
+      "url": "https://pbs.twimg.com/media/HWLDRrraYAE5IWa.jpg",
+      "sha256": "3c8cdd7e7cd3dd086e7146c752954922fad1026f6bdfca542b1a391c5c9630b8"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWLaR1Ba0AE72rM.jpg",
+      "url": "https://pbs.twimg.com/media/HWLaR1Ba0AE72rM.jpg",
+      "sha256": "4f2a5dabdb2cbeec5c5ea8e0101f6437e271aa01a672e3d58f63ce285ed3ca21"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWLhhqnbAAEZ-0i.jpg",
+      "url": "https://pbs.twimg.com/media/HWLhhqnbAAEZ-0i.jpg",
+      "sha256": "4f2a5dabdb2cbeec5c5ea8e0101f6437e271aa01a672e3d58f63ce285ed3ca21"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWVMXkfbIAA4jPj.jpg",
+      "url": "https://pbs.twimg.com/media/HWVMXkfbIAA4jPj.jpg",
+      "sha256": "3ed91c7387bf8c718a508b0ab9cc19b4026c21bd456a5849baa1a536f8b02ad8"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWVQ5fvbsAAGA49.jpg",
+      "url": "https://pbs.twimg.com/media/HWVQ5fvbsAAGA49.jpg",
+      "sha256": "8e4b5edb70e63914bffa05d22d6e10994dd6f7dad8f24816a2c7c68730dc57ef"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWVRcagbIAAxyyB.png",
+      "url": "https://pbs.twimg.com/media/HWVRcagbIAAxyyB.png",
+      "sha256": "bddb54d87af5237ef46e4fc03da8fc2659884f46271bbc99ce8a349555ba3f01"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWUexdjaoAAJVPx.jpg",
+      "url": "https://pbs.twimg.com/media/HWUexdjaoAAJVPx.jpg",
+      "sha256": "ce355505526de9f7831b59b03a3b8c4354df26283b707143d8946e831df16ed9"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWaSPlWa4AAzsLz.png",
+      "url": "https://pbs.twimg.com/media/HWaSPlWa4AAzsLz.png",
+      "sha256": "ce77f3983745441b96e26ff3a960c552ebdc488dd0dab7c24cd923153e8e0d6e"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWaUVWeb0AAQiPg.png",
+      "url": "https://pbs.twimg.com/media/HWaUVWeb0AAQiPg.png",
+      "sha256": "daa341659e9c16b793ed5cdc4fed6d39b22d4d3464b3804c8006c4dd8f4273cd"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWaXoz_akAAC4Ww.jpg",
+      "url": "https://pbs.twimg.com/media/HWaXoz_akAAC4Ww.jpg",
+      "sha256": "a833857b2019b5dbd536fb3b1358513f1efc161ac6f48d037c41d3db941a3989"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWbODYHa0AAwlrr.jpg",
+      "url": "https://pbs.twimg.com/media/HWbODYHa0AAwlrr.jpg",
+      "sha256": "7461f75d714d1d5ef5b1514083cb7d2f6fce6362f2578415e4966449b8236d32"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWb61YuaYAASgIp.jpg",
+      "url": "https://pbs.twimg.com/media/HWb61YuaYAASgIp.jpg",
+      "sha256": "e9a9dd2c680655fd0193350a3ba92323648801fb510bb591fb5e625f4840414f"
+    },
+    {
+      "kind": "image",
+      "file": "media/HWb-ge4aUAECZk0.jpg",
+      "url": "https://pbs.twimg.com/media/HWb-ge4aUAECZk0.jpg",
+      "sha256": "01af9a60431a5f7623af3524bd8abd266e57b2b9ad460cccb58ab09913536c99"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV1EE82aAAAXwuB.jpg",
+      "url": "https://pbs.twimg.com/media/HV1EE82aAAAXwuB.jpg",
+      "sha256": "6f2dc7cf1435b82678a4ff63e1f4604ee2196898ecad7404147353a3259451c7"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV4qTFWWIAAdgaI.jpg",
+      "url": "https://pbs.twimg.com/media/HV4qTFWWIAAdgaI.jpg",
+      "sha256": "f4a336410b0a44d03534841b243327087e2bd669f31e7abfb7b7a8d2d95b25e8"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV4qTFhXEAE_yZg.jpg",
+      "url": "https://pbs.twimg.com/media/HV4qTFhXEAE_yZg.jpg",
+      "sha256": "9b70c37b5d278784c810c01b647b1cbebc89edd76373e2ba3d9b3d7c1ecd67a1"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV2rA3_WcAAEAVA.jpg",
+      "url": "https://pbs.twimg.com/media/HV2rA3_WcAAEAVA.jpg",
+      "sha256": "d260cc1b96c9554c094aadc8fc1af171e415d8baf2c32b0ded44d57c55e3ebad"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV2rA3_XUAAaYte.jpg",
+      "url": "https://pbs.twimg.com/media/HV2rA3_XUAAaYte.jpg",
+      "sha256": "5f0eb4813c27f4d7a0deec37f5b8ec8737b0b6e179af889496ec066a8f2817e0"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV_UmqZWEAAE5tj.jpg",
+      "url": "https://pbs.twimg.com/media/HV_UmqZWEAAE5tj.jpg",
+      "sha256": "936fc7441dec6c472ec526525199fb4ea9d792d538f53593e95b8d14774247a9"
+    },
+    {
+      "kind": "image",
+      "file": "media/HV_UmqWWMAAskku.jpg",
+      "url": "https://pbs.twimg.com/media/HV_UmqWWMAAskku.jpg",
+      "sha256": "94bac7444129352f586ea992abb0c5da25dc7be81ae2bc7d183fe610d321f2b4"
+    },
+    {
+      "kind": "image",
+      "file": "media/JvgIkVQAv8nXVno-.jpg",
+      "url": "https://pbs.twimg.com/local-preview/2116176335722913865.jpg",
+      "sha256": "5fb6ad6dcce69261c4e048d8aba9eea36c2cf199b80973d3bc1672e770a08504"
+    },
+    {
+      "kind": "image",
+      "file": "media/Q1c2gF4eOdduWjjb.jpg",
+      "url": "https://pbs.twimg.com/local-preview/2116189354418897261.jpg",
+      "sha256": "ccf0d9d0ec1c727de0c437f282be81a2d399e87c0331d7b2ac77f270089af20a"
+    },
+    {
+      "kind": "image",
+      "file": "media/GNuBqRMDboUgby5i.jpg",
+      "url": "https://pbs.twimg.com/local-preview/2117660904833835490.jpg",
+      "sha256": "bb8d1e7c55a1fd9aaf4e5c2063da431700b10806f35490776f6cb8b6960506d8"
+    },
+    {
+      "kind": "image",
+      "file": "media/oYgDWqo7I59XbCoS.jpg",
+      "url": "https://pbs.twimg.com/local-preview/2117674232780070977.jpg",
+      "sha256": "c4dc1915497a8cff4b57bc3fed30e7155d032c63ce836544824df908c589296a"
+    },
+    {
+      "kind": "image",
+      "file": "media/clXse5feZufOGzfh.jpg",
+      "url": "https://pbs.twimg.com/local-preview/2119423521516560738.jpg",
+      "sha256": "e706929241094086ce7ca4d2c5642d35385116fae10c1f1b16da4e703c6e3cfd"
+    }
+  ],
+  "post_count": 157,
+  "posts": [
+    {
+      "id": "2115915423174853077",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2115915423174853077",
+      "author": "cz_binance",
+      "published_utc": "2026-10-29T21:15:23+00:00",
+      "likes": 36222,
+      "article": false,
+      "title": "User funds are safe!"
+    },
+    {
+      "id": "2115916207463481846",
+      "group": "official",
+      "source_url": "https://x.com/jerallaire/status/2115916207463481846",
+      "author": "jerallaire",
+      "published_utc": "2026-10-29T21:18:30+00:00",
+      "likes": 4472,
+      "article": false,
+      "title": "Circle is closely tracking reports of a potential exploit involving Binance. In coordination with la"
+    },
+    {
+      "id": "2115918000373346709",
+      "group": "official",
+      "source_url": "https://x.com/paoloardoino/status/2115918000373346709",
+      "author": "paoloardoino",
+      "published_utc": "2026-10-29T21:25:37+00:00",
+      "likes": 13120,
+      "article": false,
+      "title": "Tether froze more than 1.567B USDT related to a potential Binance exchange hack."
+    },
+    {
+      "id": "2115918888429133902",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2115918888429133902",
+      "author": "binance",
+      "published_utc": "2026-10-29T21:29:09+00:00",
+      "likes": 7135,
+      "article": false,
+      "title": "Our teams are aware of reports of a potential security issue and are actively investigating. User fu"
+    },
+    {
+      "id": "2115930656589119995",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2115930656589119995",
+      "author": "binance",
+      "published_utc": "2026-10-29T22:15:55+00:00",
+      "likes": 1703,
+      "article": false,
+      "title": "Our team is conducting security checks. Withdrawals will resume as soon as the security issue is ful"
+    },
+    {
+      "id": "2115935002139742437",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2115935002139742437",
+      "author": "binance",
+      "published_utc": "2026-10-29T22:33:11+00:00",
+      "likes": 4002,
+      "article": false,
+      "title": "Our team is conducting security checks. Withdrawals will resume as soon as the security issue is ful"
+    },
+    {
+      "id": "2115943482204574108",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2115943482204574108",
+      "author": "binance",
+      "published_utc": "2026-10-29T23:06:53+00:00",
+      "likes": 1683,
+      "article": false,
+      "title": "As part of our ongoing security measures, Binance Alpha trading has been temporarily suspended - CEX"
+    },
+    {
+      "id": "2115958049244631357",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2115958049244631357",
+      "author": "heyibinance",
+      "published_utc": "2026-10-30T00:04:46+00:00",
+      "likes": 8044,
+      "article": false,
+      "title": "User funds are safe."
+    },
+    {
+      "id": "2115958108090782075",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2115958108090782075",
+      "author": "binancezh",
+      "published_utc": "2026-10-30T00:05:00+00:00",
+      "likes": 53,
+      "article": false,
+      "title": "币安团队正在持续与执法部门、资产发行方、区块链情报机构及行业合作伙伴密切协作，追踪并冻结更多相关资产，累计冻结金额有望进一步提升。"
+    },
+    {
+      "id": "2115960292115124558",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2115960292115124558",
+      "author": "binance",
+      "published_utc": "2026-10-30T00:13:40+00:00",
+      "likes": 6974,
+      "article": false,
+      "title": "We are working non-stop to resolve this issue. Binance will cover all losses."
+    },
+    {
+      "id": "2115962419159986521",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2115962419159986521",
+      "author": "binancezh",
+      "published_utc": "2026-10-30T00:22:08+00:00",
+      "likes": 205,
+      "article": false,
+      "title": "我们正在全力推进问题解决，币安将承担因此产生的全部损失。"
+    },
+    {
+      "id": "2115962445584081395",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2115962445584081395",
+      "author": "_RichardTeng",
+      "published_utc": "2026-10-30T00:22:14+00:00",
+      "likes": 1072,
+      "article": false,
+      "title": "Our teams are aware of reports regarding a potential security issue and are actively investigating."
+    },
+    {
+      "id": "2115962957880602653",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2115962957880602653",
+      "author": "heyibinance",
+      "published_utc": "2026-10-30T00:24:16+00:00",
+      "likes": 1903,
+      "article": false,
+      "title": "Arbitrum Security Council has executed a transaction to freeze ~$30.5M from the Binance Exploit."
+    },
+    {
+      "id": "2115971910370746783",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2115971910370746783",
+      "author": "binancezh",
+      "published_utc": "2026-10-30T00:59:50+00:00",
+      "likes": 193,
+      "article": false,
+      "title": "截至目前，相关资金已冻结近 30 亿美元。"
+    },
+    {
+      "id": "2115977844224565522",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2115977844224565522",
+      "author": "heyibinance",
+      "published_utc": "2026-10-30T01:23:25+00:00",
+      "likes": 2037,
+      "article": false,
+      "title": "Thank you for the collective support from the community.💛"
+    },
+    {
+      "id": "2115981055043981791",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2115981055043981791",
+      "author": "binance",
+      "published_utc": "2026-10-30T01:36:11+00:00",
+      "likes": 10870,
+      "article": false,
+      "title": "Binance will cover all losses."
+    },
+    {
+      "id": "2115993068507897936",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2115993068507897936",
+      "author": "cz_binance",
+      "published_utc": "2026-10-30T02:23:55+00:00",
+      "likes": 13743,
+      "article": false,
+      "title": "User funds are SAFU!"
+    },
+    {
+      "id": "2115993361517891592",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2115993361517891592",
+      "author": "binance",
+      "published_utc": "2026-10-30T02:25:05+00:00",
+      "likes": 29565,
+      "article": false,
+      "title": "Binance's initial investigation suggests that the security incident may involve a compromised DevOps"
+    },
+    {
+      "id": "2115995324825370777",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2115995324825370777",
+      "author": "heyibinance",
+      "published_utc": "2026-10-30T02:32:53+00:00",
+      "likes": 1663,
+      "article": false,
+      "title": "Thank you all in the community for your support. We will enable withdrawals as soon as the security"
+    },
+    {
+      "id": "2115999785400598801",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2115999785400598801",
+      "author": "binancezh",
+      "published_utc": "2026-10-30T02:50:36+00:00",
+      "likes": 323,
+      "article": false,
+      "title": "安全事件进展通报"
+    },
+    {
+      "id": "2116021551262740985",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116021551262740985",
+      "author": "heyibinance",
+      "published_utc": "2026-10-30T04:17:06+00:00",
+      "likes": 3023,
+      "article": false,
+      "title": "**Service Update**"
+    },
+    {
+      "id": "2116026356740034858",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116026356740034858",
+      "author": "binance",
+      "published_utc": "2026-10-30T04:36:11+00:00",
+      "likes": 3996,
+      "article": false,
+      "title": "Service Update"
+    },
+    {
+      "id": "2116027164139442335",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116027164139442335",
+      "author": "binancezh",
+      "published_utc": "2026-10-30T04:39:24+00:00",
+      "likes": 148,
+      "article": false,
+      "title": "服务更新"
+    },
+    {
+      "id": "2116072080525656150",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2116072080525656150",
+      "author": "_RichardTeng",
+      "published_utc": "2026-10-30T07:37:53+00:00",
+      "likes": 6152,
+      "article": false,
+      "title": "I want to speak to you directly about what happened."
+    },
+    {
+      "id": "2116089661408108712",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116089661408108712",
+      "author": "binance",
+      "published_utc": "2026-10-30T08:47:44+00:00",
+      "likes": 5531,
+      "article": false,
+      "title": "Investigation update: Our initial investigation suggested that the security incident may have involv"
+    },
+    {
+      "id": "2116093801592959262",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116093801592959262",
+      "author": "binancezh",
+      "published_utc": "2026-10-30T09:04:12+00:00",
+      "likes": 151,
+      "article": false,
+      "title": "调查进展更新：根据此前的初步调查显示，此次安全事件可能涉及一台被入侵的笔记本电脑。但在后续调查中，我们发现了其他可能的入侵点。"
+    },
+    {
+      "id": "2116121748555153621",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116121748555153621",
+      "author": "binance",
+      "published_utc": "2026-10-30T10:55:15+00:00",
+      "likes": 11390,
+      "article": false,
+      "title": "Binance has begun recovering affected assets for users and continues to work with law enforcement, i"
+    },
+    {
+      "id": "2116124832584904742",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116124832584904742",
+      "author": "heyibinance",
+      "published_utc": "2026-10-30T11:07:30+00:00",
+      "likes": 2045,
+      "article": false,
+      "title": "Binance’s SAFU fund and Binance’s holdings include a large amount of assets such as BTC and ETH. We"
+    },
+    {
+      "id": "2116127613009687035",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116127613009687035",
+      "author": "binancezh",
+      "published_utc": "2026-10-30T11:18:33+00:00",
+      "likes": 339,
+      "article": false,
+      "title": "币安已开始回填此次事件中被盗的资产，并将继续与执法部门、资产发行方、区块链情报机构及行业合作伙伴密切协作，追踪、冻结并追回更多相关资金。"
+    },
+    {
+      "id": "2116137390180065546",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2116137390180065546",
+      "author": "cz_binance",
+      "published_utc": "2026-10-30T11:57:24+00:00",
+      "likes": 8114,
+      "article": false,
+      "title": "Seems token recovery already began."
+    },
+    {
+      "id": "2116176335722913865",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2116176335722913865",
+      "author": "_RichardTeng",
+      "published_utc": "2026-10-30T14:32:09+00:00",
+      "likes": 4278,
+      "article": false,
+      "title": "An update on the security incident."
+    },
+    {
+      "id": "2116189354418897261",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116189354418897261",
+      "author": "heyibinance",
+      "published_utc": "2026-10-30T15:23:53+00:00",
+      "likes": 11267,
+      "article": false,
+      "title": "User funds are SAFU."
+    },
+    {
+      "id": "2116198836729520420",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2116198836729520420",
+      "author": "cz_binance",
+      "published_utc": "2026-10-30T16:01:34+00:00",
+      "likes": 11543,
+      "article": false,
+      "title": "Saw a few discussions about size of hack, why impact to bitcoin price is small, etc. 👇"
+    },
+    {
+      "id": "2116258356109496479",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116258356109496479",
+      "author": "binance",
+      "published_utc": "2026-10-30T19:58:04+00:00",
+      "likes": 4929,
+      "article": true,
+      "title": "Security Incident | Recovery Update #2"
+    },
+    {
+      "id": "2116259036903669855",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2116259036903669855",
+      "author": "_RichardTeng",
+      "published_utc": "2026-10-30T20:00:47+00:00",
+      "likes": 893,
+      "article": false,
+      "title": "Over the past 24 hours, our teams have been working around the clock to respond to a serious securit"
+    },
+    {
+      "id": "2116259997449589155",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116259997449589155",
+      "author": "binancezh",
+      "published_utc": "2026-10-30T20:04:36+00:00",
+      "likes": 452,
+      "article": true,
+      "title": "安全事件进展公告#2（2026-10-30）"
+    },
+    {
+      "id": "2116538196259684457",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116538196259684457",
+      "author": "binance",
+      "published_utc": "2026-10-31T14:30:04+00:00",
+      "likes": 6413,
+      "article": true,
+      "title": "Security Incident | Update #3: 90% of Stolen Assets Replenished; Proof of Reserves Snapshot Provided"
+    },
+    {
+      "id": "2116538946188726474",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2116538946188726474",
+      "author": "_RichardTeng",
+      "published_utc": "2026-10-31T14:33:02+00:00",
+      "likes": 1764,
+      "article": false,
+      "title": "We know how important trust is, especially in moments like this."
+    },
+    {
+      "id": "2116541711149334707",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116541711149334707",
+      "author": "binancezh",
+      "published_utc": "2026-10-31T14:44:02+00:00",
+      "likes": 170,
+      "article": true,
+      "title": "安全事件资产回填进展：已完成约 90% 受影响资产回填并公布储备金证明快照（2026-10-31）"
+    },
+    {
+      "id": "2116545162818318487",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116545162818318487",
+      "author": "heyibinance",
+      "published_utc": "2026-10-31T14:57:44+00:00",
+      "likes": 3856,
+      "article": false,
+      "title": "Binance has allocated US$6.34 billion of its own corporate funds to the User Fund. In the current Us"
+    },
+    {
+      "id": "2116564794094559407",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116564794094559407",
+      "author": "binance",
+      "published_utc": "2026-10-31T16:15:45+00:00",
+      "likes": 3156,
+      "article": false,
+      "title": "Update: SAFU fund transfer is complete - this was the large 7,499 $BTC transfer visible here:"
+    },
+    {
+      "id": "2116565273520279817",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116565273520279817",
+      "author": "binance",
+      "published_utc": "2026-10-31T16:17:39+00:00",
+      "likes": 440,
+      "article": false,
+      "title": "@whale_alert Update: SAFU fund transfer is complete - this was the large 7,499 $BTC transfer visible"
+    },
+    {
+      "id": "2116565758058885138",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2116565758058885138",
+      "author": "cz_binance",
+      "published_utc": "2026-10-31T16:19:35+00:00",
+      "likes": 3722,
+      "article": false,
+      "title": "Detailed FAQ 👇"
+    },
+    {
+      "id": "2116660730745299426",
+      "group": "official",
+      "source_url": "https://x.com/FBICyberBranch/status/2116660730745299426",
+      "author": "FBICyberBranch",
+      "published_utc": "2026-10-31T22:36:58+00:00",
+      "likes": 13721,
+      "article": false,
+      "title": "The FBI is releasing information advising the Democratic People's Republic of Korea (North Korea) wa"
+    },
+    {
+      "id": "2116713972779126822",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116713972779126822",
+      "author": "binance",
+      "published_utc": "2026-11-01T02:08:32+00:00",
+      "likes": 2546,
+      "article": false,
+      "title": "Update: We had already covered $6B of the impacted amount of the hacked loss."
+    },
+    {
+      "id": "2116728061765034338",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116728061765034338",
+      "author": "binance",
+      "published_utc": "2026-11-01T03:04:31+00:00",
+      "likes": 3896,
+      "article": false,
+      "title": "Update: We have already covered $6B of the impacted amount of the hacked loss."
+    },
+    {
+      "id": "2116744986096292263",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116744986096292263",
+      "author": "binance",
+      "published_utc": "2026-11-01T04:11:46+00:00",
+      "likes": 1986,
+      "article": true,
+      "title": "Security Incident | Recovery Update #4: Withdrawals Resume in Phases (2026-11-01)"
+    },
+    {
+      "id": "2116745976446956000",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116745976446956000",
+      "author": "binancezh",
+      "published_utc": "2026-11-01T04:15:42+00:00",
+      "likes": 204,
+      "article": true,
+      "title": "安全事件恢复进展公告#4：分阶段恢复提现服务（2026-11-01）"
+    },
+    {
+      "id": "2116755967417442715",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116755967417442715",
+      "author": "binance",
+      "published_utc": "2026-11-01T04:55:24+00:00",
+      "likes": 2762,
+      "article": false,
+      "title": "@FBICyberBranch We sincerely thank you for your strong support during this challenging time."
+    },
+    {
+      "id": "2116758629634478111",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116758629634478111",
+      "author": "binance",
+      "published_utc": "2026-11-01T05:05:59+00:00",
+      "likes": 1894,
+      "article": false,
+      "title": "We sincerely thank @FBICyberBranch for their strong support during this challenging time."
+    },
+    {
+      "id": "2116760027570864240",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2116760027570864240",
+      "author": "_RichardTeng",
+      "published_utc": "2026-11-01T05:11:32+00:00",
+      "likes": 590,
+      "article": false,
+      "title": "Today, we're beginning the phased resumption of withdrawals, taking a careful approach to ensure ser"
+    },
+    {
+      "id": "2116768459451469945",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2116768459451469945",
+      "author": "cz_binance",
+      "published_utc": "2026-11-01T05:45:03+00:00",
+      "likes": 11600,
+      "article": false,
+      "title": "US Law Enforcement agencies (FBI, USSS, IRS and more) provided vital help in this incident, includin"
+    },
+    {
+      "id": "2116777408074600621",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116777408074600621",
+      "author": "binance",
+      "published_utc": "2026-11-01T06:20:36+00:00",
+      "likes": 1617,
+      "article": false,
+      "title": "Update: First batch network now opened in phase one of withdrawals is $BTC bitcoin network"
+    },
+    {
+      "id": "2116778339918877033",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2116778339918877033",
+      "author": "cz_binance",
+      "published_utc": "2026-11-01T06:24:18+00:00",
+      "likes": 10230,
+      "article": false,
+      "title": "BTC withdrawal is live."
+    },
+    {
+      "id": "2116781786533654572",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116781786533654572",
+      "author": "binancezh",
+      "published_utc": "2026-11-01T06:38:00+00:00",
+      "likes": 58,
+      "article": false,
+      "title": "最新进展：第一阶段提现服务已开始恢复，首批开放的是 BTC 网络提现。"
+    },
+    {
+      "id": "2116785774540787920",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116785774540787920",
+      "author": "binance",
+      "published_utc": "2026-11-01T06:53:51+00:00",
+      "likes": 893,
+      "article": false,
+      "title": "As part of our ongoing security response, we have updated our list of Proof of Reserves addresses to"
+    },
+    {
+      "id": "2116786769148682276",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116786769148682276",
+      "author": "heyibinance",
+      "published_utc": "2026-11-01T06:57:48+00:00",
+      "likes": 507,
+      "article": false,
+      "title": "New withdraw addresses already added into PoR."
+    },
+    {
+      "id": "2116789937626632660",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116789937626632660",
+      "author": "binancezh",
+      "published_utc": "2026-11-01T07:10:23+00:00",
+      "likes": 44,
+      "article": false,
+      "title": "作为持续安全应对措施的一部分，我们已更新储备金证明（PoR）地址列表，新增了一批新生成的钱包地址。"
+    },
+    {
+      "id": "2116791881057354102",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116791881057354102",
+      "author": "heyibinance",
+      "published_utc": "2026-11-01T07:18:07+00:00",
+      "likes": 1458,
+      "article": false,
+      "title": "Things are currently running fairly smoothly. If there are many withdrawal requests, congestion cann"
+    },
+    {
+      "id": "2116799757507305516",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116799757507305516",
+      "author": "binance",
+      "published_utc": "2026-11-01T07:49:25+00:00",
+      "likes": 4734,
+      "article": false,
+      "title": "Withdrawal Update"
+    },
+    {
+      "id": "2116800772725981513",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116800772725981513",
+      "author": "binancezh",
+      "published_utc": "2026-11-01T07:53:27+00:00",
+      "likes": 104,
+      "article": false,
+      "title": "目前，以下资产及网络的提现服务已恢复："
+    },
+    {
+      "id": "2116801935953285223",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2116801935953285223",
+      "author": "cz_binance",
+      "published_utc": "2026-11-01T07:58:04+00:00",
+      "likes": 7201,
+      "article": false,
+      "title": "Withdrawals restored for:"
+    },
+    {
+      "id": "2116805144771703169",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116805144771703169",
+      "author": "heyibinance",
+      "published_utc": "2026-11-01T08:10:49+00:00",
+      "likes": 1174,
+      "article": false,
+      "title": "Withdrawals have now been restored for the following assets and networks:"
+    },
+    {
+      "id": "2116827310229967326",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116827310229967326",
+      "author": "binance",
+      "published_utc": "2026-11-01T09:38:54+00:00",
+      "likes": 1647,
+      "article": false,
+      "title": "Latest Withdrawal Update"
+    },
+    {
+      "id": "2116827778545033429",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2116827778545033429",
+      "author": "cz_binance",
+      "published_utc": "2026-11-01T09:40:45+00:00",
+      "likes": 9864,
+      "article": false,
+      "title": "Withdrawals re-enabled for:"
+    },
+    {
+      "id": "2116828876282466737",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116828876282466737",
+      "author": "binancezh",
+      "published_utc": "2026-11-01T09:45:07+00:00",
+      "likes": 70,
+      "article": false,
+      "title": "提现服务最新进展"
+    },
+    {
+      "id": "2116829548708856199",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116829548708856199",
+      "author": "heyibinance",
+      "published_utc": "2026-11-01T09:47:47+00:00",
+      "likes": 721,
+      "article": false,
+      "title": "Withdrawals have now been re-enabled for the following networks and assets:"
+    },
+    {
+      "id": "2116833451949306221",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116833451949306221",
+      "author": "binance",
+      "published_utc": "2026-11-01T10:03:18+00:00",
+      "likes": 1003,
+      "article": false,
+      "title": "Latest Withdrawal Update"
+    },
+    {
+      "id": "2116835604046729648",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116835604046729648",
+      "author": "heyibinance",
+      "published_utc": "2026-11-01T10:11:51+00:00",
+      "likes": 695,
+      "article": false,
+      "title": "Withdrawals have now been re-enabled for the following networks and assets:"
+    },
+    {
+      "id": "2116844881448743094",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116844881448743094",
+      "author": "binance",
+      "published_utc": "2026-11-01T10:48:43+00:00",
+      "likes": 1075,
+      "article": false,
+      "title": "Latest Withdrawal Update"
+    },
+    {
+      "id": "2116846750304731336",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116846750304731336",
+      "author": "heyibinance",
+      "published_utc": "2026-11-01T10:56:09+00:00",
+      "likes": 676,
+      "article": false,
+      "title": "Withdrawals have now been re-enabled for the following networks and assets:"
+    },
+    {
+      "id": "2116846782982541318",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116846782982541318",
+      "author": "binancezh",
+      "published_utc": "2026-11-01T10:56:16+00:00",
+      "likes": 37,
+      "article": false,
+      "title": "提现服务最新进展"
+    },
+    {
+      "id": "2116851716448718901",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116851716448718901",
+      "author": "binance",
+      "published_utc": "2026-11-01T11:15:53+00:00",
+      "likes": 1123,
+      "article": false,
+      "title": "Latest Withdrawal Update"
+    },
+    {
+      "id": "2116852768677978149",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116852768677978149",
+      "author": "heyibinance",
+      "published_utc": "2026-11-01T11:20:03+00:00",
+      "likes": 541,
+      "article": false,
+      "title": "Withdrawals have now been re-enabled for the following networks and assets:"
+    },
+    {
+      "id": "2116855614634852611",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116855614634852611",
+      "author": "binance",
+      "published_utc": "2026-11-01T11:31:22+00:00",
+      "likes": 931,
+      "article": false,
+      "title": "Latest Withdrawal Update"
+    },
+    {
+      "id": "2116856295051386904",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116856295051386904",
+      "author": "heyibinance",
+      "published_utc": "2026-11-01T11:34:04+00:00",
+      "likes": 682,
+      "article": false,
+      "title": "Withdrawals have now been re-enabled for the following networks and assets:"
+    },
+    {
+      "id": "2116857687027707929",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116857687027707929",
+      "author": "binancezh",
+      "published_utc": "2026-11-01T11:39:36+00:00",
+      "likes": 37,
+      "article": false,
+      "title": "提现服务最新进展"
+    },
+    {
+      "id": "2116871932075516174",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116871932075516174",
+      "author": "binance",
+      "published_utc": "2026-11-01T12:36:12+00:00",
+      "likes": 1709,
+      "article": false,
+      "title": "Latest Withdrawal Update"
+    },
+    {
+      "id": "2116874155983524286",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116874155983524286",
+      "author": "binancezh",
+      "published_utc": "2026-11-01T12:45:03+00:00",
+      "likes": 41,
+      "article": false,
+      "title": "提现服务最新进展"
+    },
+    {
+      "id": "2116886884043636880",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2116886884043636880",
+      "author": "heyibinance",
+      "published_utc": "2026-11-01T13:35:37+00:00",
+      "likes": 871,
+      "article": false,
+      "title": "Withdrawals have now been re-enabled for the following networks and assets:"
+    },
+    {
+      "id": "2116926305254133892",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2116926305254133892",
+      "author": "binance",
+      "published_utc": "2026-11-01T16:12:16+00:00",
+      "likes": 2693,
+      "article": false,
+      "title": "Binance began restoring withdrawals in phases at 06:00 UTC on November 1, 2026. By 12:36 UTC, withdr"
+    },
+    {
+      "id": "2116929784194400705",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2116929784194400705",
+      "author": "binancezh",
+      "published_utc": "2026-11-01T16:26:05+00:00",
+      "likes": 93,
+      "article": false,
+      "title": "币安已于 2026 年 11 月 1 日 14:00（东八区时间）起分阶段恢复提现服务。截至 20:36（东八区时间），首批涵盖的全部 15 个网络与资产均已恢复提现。提现量在最初短暂激增后已回落，并"
+    },
+    {
+      "id": "2116954044988354798",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2116954044988354798",
+      "author": "cz_binance",
+      "published_utc": "2026-11-01T18:02:30+00:00",
+      "likes": 15268,
+      "article": false,
+      "title": "12 hours after withdrawals resumed: 2.1% net outflow, with most occurring in the first couple of hou"
+    },
+    {
+      "id": "2116956218887389218",
+      "group": "official",
+      "source_url": "https://x.com/SecretService/status/2116956218887389218",
+      "author": "SecretService",
+      "published_utc": "2026-11-01T18:11:08+00:00",
+      "likes": 1850,
+      "article": false,
+      "title": "The U.S. Secret Service continues to investigate the theft of more than $6 billion in cryptocurrency"
+    },
+    {
+      "id": "2116977683393618404",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2116977683393618404",
+      "author": "cz_binance",
+      "published_utc": "2026-11-01T19:36:25+00:00",
+      "likes": 5726,
+      "article": false,
+      "title": "Thank you, @SecretService, and all the agencies and industry partners involved. You acted within min"
+    },
+    {
+      "id": "2117155170568253732",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2117155170568253732",
+      "author": "heyibinance",
+      "published_utc": "2026-11-02T07:21:42+00:00",
+      "likes": 1158,
+      "article": false,
+      "title": "Our top priority right now is to ensure the environment is secure, after which users can withdraw th"
+    },
+    {
+      "id": "2117164969582330063",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2117164969582330063",
+      "author": "binance",
+      "published_utc": "2026-11-02T08:00:38+00:00",
+      "likes": 1462,
+      "article": false,
+      "title": "Fiat Withdrawal Update"
+    },
+    {
+      "id": "2117166103369814235",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2117166103369814235",
+      "author": "heyibinance",
+      "published_utc": "2026-11-02T08:05:08+00:00",
+      "likes": 548,
+      "article": false,
+      "title": "💁🏻‍♀️Fiat withdrawals are now available for the following currencies:"
+    },
+    {
+      "id": "2117166231564562475",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2117166231564562475",
+      "author": "binancezh",
+      "published_utc": "2026-11-02T08:05:39+00:00",
+      "likes": 63,
+      "article": false,
+      "title": "法币提现服务最新进展"
+    },
+    {
+      "id": "2117237539098521938",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2117237539098521938",
+      "author": "binance",
+      "published_utc": "2026-11-02T12:49:00+00:00",
+      "likes": 969,
+      "article": true,
+      "title": "Security Incident | Recovery Update #5: October 31st PoR Snapshot Now Fully Verifiable by Users"
+    },
+    {
+      "id": "2117238337039978847",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2117238337039978847",
+      "author": "binancezh",
+      "published_utc": "2026-11-02T12:52:10+00:00",
+      "likes": 47,
+      "article": true,
+      "title": "安全事件恢复进展公告 #5：10月31储备金证明快照的零知识证明已生成，用户现可完成独立验证（2026-11-02）"
+    },
+    {
+      "id": "2117240423576162481",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2117240423576162481",
+      "author": "cz_binance",
+      "published_utc": "2026-11-02T13:00:28+00:00",
+      "likes": 1981,
+      "article": false,
+      "title": "New update, seems mostly PoR (proof-of-reserve) related."
+    },
+    {
+      "id": "2117246543019528463",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2117246543019528463",
+      "author": "heyibinance",
+      "published_utc": "2026-11-02T13:24:47+00:00",
+      "likes": 576,
+      "article": false,
+      "title": "The full zero-knowledge proof for the proof-of-reserves snapshot completed by Binance at 08:00 on Oc"
+    },
+    {
+      "id": "2117263082762482143",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2117263082762482143",
+      "author": "binancezh",
+      "published_utc": "2026-11-02T14:30:30+00:00",
+      "likes": 31,
+      "article": false,
+      "title": "⚠️安全提醒：提现服务恢复期间，请警惕诈骗"
+    },
+    {
+      "id": "2117264311953563781",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2117264311953563781",
+      "author": "binance",
+      "published_utc": "2026-11-02T14:35:23+00:00",
+      "likes": 1009,
+      "article": false,
+      "title": "Security Reminder: Stay Alert to Scams as Withdrawals Resume"
+    },
+    {
+      "id": "2117271494208225735",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2117271494208225735",
+      "author": "_RichardTeng",
+      "published_utc": "2026-11-02T15:03:55+00:00",
+      "likes": 239,
+      "article": false,
+      "title": "As withdrawals resume, impersonators are offering \"priority processing,\" \"compensation claims,\" and"
+    },
+    {
+      "id": "2117444179630707088",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2117444179630707088",
+      "author": "binance",
+      "published_utc": "2026-11-03T02:30:07+00:00",
+      "likes": 667,
+      "article": true,
+      "title": "Security Incident | Recovery Update #6: Withdrawals Reopen for More Assets (2026-11-03)"
+    },
+    {
+      "id": "2117448637127233906",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2117448637127233906",
+      "author": "binancezh",
+      "published_utc": "2026-11-03T02:47:50+00:00",
+      "likes": 62,
+      "article": true,
+      "title": "安全事件恢复进展更新 #6：更多资产开放提现 (2026-11-03)"
+    },
+    {
+      "id": "2117468922647818652",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2117468922647818652",
+      "author": "binance",
+      "published_utc": "2026-11-03T04:08:26+00:00",
+      "likes": 1024,
+      "article": false,
+      "title": "Withdrawal Update"
+    },
+    {
+      "id": "2117469491156435236",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2117469491156435236",
+      "author": "heyibinance",
+      "published_utc": "2026-11-03T04:10:42+00:00",
+      "likes": 384,
+      "article": false,
+      "title": "Binance will reopen withdrawals for the assets listed below, beginning at 04:00 (UTC) on 2026-11-03."
+    },
+    {
+      "id": "2117469578603507937",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2117469578603507937",
+      "author": "binancezh",
+      "published_utc": "2026-11-03T04:11:02+00:00",
+      "likes": 19,
+      "article": false,
+      "title": "提现服务最新进展"
+    },
+    {
+      "id": "2117469655296266577",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2117469655296266577",
+      "author": "heyibinance",
+      "published_utc": "2026-11-03T04:11:21+00:00",
+      "likes": 498,
+      "article": false,
+      "title": "💁🏻‍♀️Withdrawals have now been restored for the following assets and networks:"
+    },
+    {
+      "id": "2117494793446298084",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2117494793446298084",
+      "author": "binance",
+      "published_utc": "2026-11-03T05:51:14+00:00",
+      "likes": 1351,
+      "article": false,
+      "title": "Withdrawal data update"
+    },
+    {
+      "id": "2117495470310490140",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2117495470310490140",
+      "author": "heyibinance",
+      "published_utc": "2026-11-03T05:53:55+00:00",
+      "likes": 568,
+      "article": false,
+      "title": "By 03:00 UTC, we are seeing hourly deposits exceed withdrawals, reflecting improving user activity a"
+    },
+    {
+      "id": "2117502782781698239",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2117502782781698239",
+      "author": "binancezh",
+      "published_utc": "2026-11-03T06:22:59+00:00",
+      "likes": 61,
+      "article": false,
+      "title": "提现数据更新"
+    },
+    {
+      "id": "2117514123089231963",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2117514123089231963",
+      "author": "binance",
+      "published_utc": "2026-11-03T07:08:03+00:00",
+      "likes": 1158,
+      "article": false,
+      "title": "Latest Withdrawal Update"
+    },
+    {
+      "id": "2117515821132218502",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2117515821132218502",
+      "author": "heyibinance",
+      "published_utc": "2026-11-03T07:14:47+00:00",
+      "likes": 722,
+      "article": false,
+      "title": "💁🏻‍♀️Withdrawals have now been re-enabled for the following networks and assets:"
+    },
+    {
+      "id": "2117520084948472170",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2117520084948472170",
+      "author": "binancezh",
+      "published_utc": "2026-11-03T07:31:44+00:00",
+      "likes": 33,
+      "article": false,
+      "title": "提现服务最新进展"
+    },
+    {
+      "id": "2117525035619606718",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2117525035619606718",
+      "author": "_RichardTeng",
+      "published_utc": "2026-11-03T07:51:24+00:00",
+      "likes": 229,
+      "article": false,
+      "title": "The trend is starting to show more positive inflows with hourly deposits exceeding withdrawals."
+    },
+    {
+      "id": "2117532388641136767",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2117532388641136767",
+      "author": "cz_binance",
+      "published_utc": "2026-11-03T08:20:37+00:00",
+      "likes": 5534,
+      "article": false,
+      "title": "Binance hourly deposits EXCEED withdrawals. 👀"
+    },
+    {
+      "id": "2117626084636405889",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2117626084636405889",
+      "author": "_RichardTeng",
+      "published_utc": "2026-11-03T14:32:56+00:00",
+      "likes": 152,
+      "article": false,
+      "title": "In 10 minutes I'm live on @SquawkStreet as we publish the full report on the 29 October incident. We"
+    },
+    {
+      "id": "2117626126214504729",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2117626126214504729",
+      "author": "binance",
+      "published_utc": "2026-11-03T14:33:06+00:00",
+      "likes": 9295,
+      "article": true,
+      "title": "29 October Binance Security Incident: Initial Findings and Response Update"
+    },
+    {
+      "id": "2117626871445921884",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2117626871445921884",
+      "author": "_RichardTeng",
+      "published_utc": "2026-11-03T14:36:04+00:00",
+      "likes": 344,
+      "article": false,
+      "title": "On 29 October, Binance was the target of one of the most sophisticated attacks the digital asset ind"
+    },
+    {
+      "id": "2117631277050585186",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2117631277050585186",
+      "author": "_RichardTeng",
+      "published_utc": "2026-11-03T14:53:34+00:00",
+      "likes": 153,
+      "article": false,
+      "title": "In a few minutes, I'll be live on @FoxBusiness to discuss our initial findings on the 29 October inc"
+    },
+    {
+      "id": "2117632624651125019",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2117632624651125019",
+      "author": "binancezh",
+      "published_utc": "2026-11-03T14:58:56+00:00",
+      "likes": 807,
+      "article": true,
+      "title": "2026年10月30日币安安全事件：调查初步发现与应对进展更新"
+    },
+    {
+      "id": "2117660904833835490",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2117660904833835490",
+      "author": "binance",
+      "published_utc": "2026-11-03T16:51:18+00:00",
+      "likes": 1353,
+      "article": false,
+      "title": "Binance Co-CEO Richard Teng: “We now are operating, we are protecting every user, and we are extreme"
+    },
+    {
+      "id": "2117674232780070977",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2117674232780070977",
+      "author": "_RichardTeng",
+      "published_utc": "2026-11-03T17:44:16+00:00",
+      "likes": 286,
+      "article": false,
+      "title": "“The difference is verification, not just promises.”"
+    },
+    {
+      "id": "2117846768666755491",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2117846768666755491",
+      "author": "cz_binance",
+      "published_utc": "2026-11-04T05:09:51+00:00",
+      "likes": 6293,
+      "article": false,
+      "title": "A hack of this scale means serious security failures occurred. No platform is unhackable, but that c"
+    },
+    {
+      "id": "2118001921252347938",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2118001921252347938",
+      "author": "binance",
+      "published_utc": "2026-11-04T15:26:23+00:00",
+      "likes": 1050,
+      "article": true,
+      "title": "Security Incident | Recovery Update #7: 98% of Stolen Assets Covered; New & Expanded PoR Snapshot"
+    },
+    {
+      "id": "2118002177285530100",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2118002177285530100",
+      "author": "_RichardTeng",
+      "published_utc": "2026-11-04T15:27:24+00:00",
+      "likes": 193,
+      "article": false,
+      "title": "Our latest Proof of Reserves snapshot now covers 44 tokens, up from 10, expanding the range of asset"
+    },
+    {
+      "id": "2118003199332553156",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2118003199332553156",
+      "author": "binancezh",
+      "published_utc": "2026-11-04T15:31:27+00:00",
+      "likes": 50,
+      "article": true,
+      "title": "安全事件恢复进展更新 #7：98%的被盗资产已完成回填；新一轮储备金证明快照覆盖范围扩大（2026-11-04）"
+    },
+    {
+      "id": "2118024848803057670",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2118024848803057670",
+      "author": "heyibinance",
+      "published_utc": "2026-11-04T16:57:29+00:00",
+      "likes": 765,
+      "article": false,
+      "title": "We have also taken a new Proof of Reserves (PoR) snapshot at 2026-11-04 00:00 (UTC). It now covers 4"
+    },
+    {
+      "id": "2118183176472514793",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2118183176472514793",
+      "author": "binancezh",
+      "published_utc": "2026-11-05T03:26:37+00:00",
+      "likes": 74,
+      "article": false,
+      "title": "安全事件恢复进展更新 #8：更多资产开放提现（2026-11-05）"
+    },
+    {
+      "id": "2118188155769893035",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2118188155769893035",
+      "author": "heyibinance",
+      "published_utc": "2026-11-05T03:46:25+00:00",
+      "likes": 398,
+      "article": false,
+      "title": "💁🏻‍♀️We continue to make progress restoring the withdrawal services and will reopen withdrawals for"
+    },
+    {
+      "id": "2118189091279995327",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2118189091279995327",
+      "author": "binance",
+      "published_utc": "2026-11-05T03:50:08+00:00",
+      "likes": 563,
+      "article": true,
+      "title": "Security Incident | Recovery Update #8: Withdrawals for More Assets to Reopen (2026-11-05)"
+    },
+    {
+      "id": "2118193327581639096",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2118193327581639096",
+      "author": "heyibinance",
+      "published_utc": "2026-11-05T04:06:58+00:00",
+      "likes": 427,
+      "article": false,
+      "title": "💁🏻‍♀️We continue to make progress restoring the withdrawal services and will reopen withdrawals for"
+    },
+    {
+      "id": "2118342575631323323",
+      "group": "official",
+      "source_url": "https://x.com/circle/status/2118342575631323323",
+      "author": "circle",
+      "published_utc": "2026-11-05T14:00:01+00:00",
+      "likes": 115,
+      "article": false,
+      "title": "Collective defense is now an operational requirement. In a new post,"
+    },
+    {
+      "id": "2118541594358104469",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2118541594358104469",
+      "author": "binance",
+      "published_utc": "2026-11-06T03:10:51+00:00",
+      "likes": 498,
+      "article": true,
+      "title": "Recovery Update #9: Withdrawals for More Assets to Reopen (2026-11-06)"
+    },
+    {
+      "id": "2118544228930469888",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2118544228930469888",
+      "author": "binancezh",
+      "published_utc": "2026-11-06T03:21:19+00:00",
+      "likes": 30,
+      "article": true,
+      "title": "恢复进展更新 #9：更多资产开放提现（2026-11-06）"
+    },
+    {
+      "id": "2118547409441829016",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2118547409441829016",
+      "author": "heyibinance",
+      "published_utc": "2026-11-06T03:33:57+00:00",
+      "likes": 498,
+      "article": false,
+      "title": "💁🏻‍♀️We continue to make progress restoring the withdrawal services and will reopen withdrawals for"
+    },
+    {
+      "id": "2118607986298167510",
+      "group": "official",
+      "source_url": "https://x.com/BinanceWallet/status/2118607986298167510",
+      "author": "BinanceWallet",
+      "published_utc": "2026-11-06T07:34:40+00:00",
+      "likes": 873,
+      "article": false,
+      "title": "A Special Thank You to Our Binance Alpha Community"
+    },
+    {
+      "id": "2118631544038580248",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2118631544038580248",
+      "author": "binance",
+      "published_utc": "2026-11-06T09:08:17+00:00",
+      "likes": 562,
+      "article": false,
+      "title": "ZKProof for the latest PoR is ready, users can verify their balances on Binance are backed at a mini"
+    },
+    {
+      "id": "2118633902042706293",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2118633902042706293",
+      "author": "binancezh",
+      "published_utc": "2026-11-06T09:17:39+00:00",
+      "likes": 21,
+      "article": false,
+      "title": "最新一期储备金证明（PoR）的零知识证明（ZKProof）现已生成，用户可自行验证其在币安平台上的资产均有至少 1:1 的储备金支持。"
+    },
+    {
+      "id": "2118644319255179727",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2118644319255179727",
+      "author": "_RichardTeng",
+      "published_utc": "2026-11-06T09:59:02+00:00",
+      "likes": 141,
+      "article": false,
+      "title": "Our latest PoR ZKProof is ready, allowing you to independently verify that your Binance balances are"
+    },
+    {
+      "id": "2118657118014496819",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2118657118014496819",
+      "author": "binance",
+      "published_utc": "2026-11-06T10:49:54+00:00",
+      "likes": 1386,
+      "article": false,
+      "title": "Update: We’re working to reopen withdrawals for HYPE, INJ, APT, PLASMA, NEAR, LTC by end of next wee"
+    },
+    {
+      "id": "2118660855609061572",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2118660855609061572",
+      "author": "binancezh",
+      "published_utc": "2026-11-06T11:04:45+00:00",
+      "likes": 72,
+      "article": false,
+      "title": "最新进展："
+    },
+    {
+      "id": "2118667958939693265",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2118667958939693265",
+      "author": "_RichardTeng",
+      "published_utc": "2026-11-06T11:32:59+00:00",
+      "likes": 169,
+      "article": false,
+      "title": "Our next priority is to reopen withdrawals for HYPE, INJ, APT, PLASMA, NEAR, and LTC by the end of n"
+    },
+    {
+      "id": "2118698626520346871",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2118698626520346871",
+      "author": "heyibinance",
+      "published_utc": "2026-11-06T13:34:50+00:00",
+      "likes": 509,
+      "article": false,
+      "title": "💁🏻‍♀️ZKProof for the latest PoR is ready, users can verify their balances on Binance are backed at a"
+    },
+    {
+      "id": "2119352231732580574",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2119352231732580574",
+      "author": "binance",
+      "published_utc": "2026-11-08T08:52:02+00:00",
+      "likes": 1238,
+      "article": false,
+      "title": "Latest Withdrawal Update"
+    },
+    {
+      "id": "2119353313145799153",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2119353313145799153",
+      "author": "heyibinance",
+      "published_utc": "2026-11-08T08:56:20+00:00",
+      "likes": 648,
+      "article": false,
+      "title": "💁🏻‍♀️"
+    },
+    {
+      "id": "2119356820183486661",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2119356820183486661",
+      "author": "binancezh",
+      "published_utc": "2026-11-08T09:10:16+00:00",
+      "likes": 67,
+      "article": false,
+      "title": "提现服务最新进展"
+    },
+    {
+      "id": "2119423524834316442",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2119423524834316442",
+      "author": "binance",
+      "published_utc": "2026-11-08T13:35:19+00:00",
+      "likes": 77,
+      "article": false,
+      "title": "Have questions for them?"
+    },
+    {
+      "id": "2119423521516560738",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2119423521516560738",
+      "author": "binance",
+      "published_utc": "2026-11-08T13:35:19+00:00",
+      "likes": 777,
+      "article": false,
+      "title": "Join Binance Co-CEOs @_RichardTeng and @heyibinance, alongside Chief Security Officer Jimmy Su, for"
+    },
+    {
+      "id": "2119655363385659500",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2119655363385659500",
+      "author": "binance",
+      "published_utc": "2026-11-09T04:56:34+00:00",
+      "likes": 793,
+      "article": false,
+      "title": "Latest Withdrawal Update"
+    },
+    {
+      "id": "2119662445446979813",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2119662445446979813",
+      "author": "binancezh",
+      "published_utc": "2026-11-09T05:24:43+00:00",
+      "likes": 68,
+      "article": false,
+      "title": "提现服务最新进展"
+    },
+    {
+      "id": "2120797853866234333",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2120797853866234333",
+      "author": "heyibinance",
+      "published_utc": "2026-11-12T08:36:25+00:00",
+      "likes": 120,
+      "article": false,
+      "title": "@bc1qDave 也不一定是你们协会成员。"
+    },
+    {
+      "id": "2120801480106181050",
+      "group": "official",
+      "source_url": "https://x.com/BinanceWallet/status/2120801480106181050",
+      "author": "BinanceWallet",
+      "published_utc": "2026-11-12T08:50:50+00:00",
+      "likes": 260,
+      "article": false,
+      "title": "Binance Alpha Appreciation Airdrop & Service Updates"
+    },
+    {
+      "id": "2120921979226329504",
+      "group": "official",
+      "source_url": "https://x.com/binance/status/2120921979226329504",
+      "author": "binance",
+      "published_utc": "2026-11-12T16:49:39+00:00",
+      "likes": 2664,
+      "article": false,
+      "title": "Binance has completed coverage of assets impacted in the security incident and we have published a n"
+    },
+    {
+      "id": "2120925031790502362",
+      "group": "official",
+      "source_url": "https://x.com/binancezh/status/2120925031790502362",
+      "author": "binancezh",
+      "published_utc": "2026-11-12T17:01:47+00:00",
+      "likes": 49,
+      "article": false,
+      "title": "币安已完成对本次安全事件中受影响资产的资金回填，并发布了新一轮储备金证明快照。"
+    },
+    {
+      "id": "2120931658224570652",
+      "group": "official",
+      "source_url": "https://x.com/_RichardTeng/status/2120931658224570652",
+      "author": "_RichardTeng",
+      "published_utc": "2026-11-12T17:28:06+00:00",
+      "likes": 136,
+      "article": false,
+      "title": "Transparency should go beyond statements. It should be something users can independently verify."
+    },
+    {
+      "id": "2120933032265957697",
+      "group": "official",
+      "source_url": "https://x.com/heyibinance/status/2120933032265957697",
+      "author": "heyibinance",
+      "published_utc": "2026-11-12T17:33:34+00:00",
+      "likes": 800,
+      "article": false,
+      "title": "💁‍♀️ 100%"
+    },
+    {
+      "id": "2120944565448548658",
+      "group": "official",
+      "source_url": "https://x.com/cz_binance/status/2120944565448548658",
+      "author": "cz_binance",
+      "published_utc": "2026-11-12T18:19:24+00:00",
+      "likes": 7108,
+      "article": false,
+      "title": "100% 1:1 backing. Funds are SAFU!"
+    },
+    {
+      "id": "2115922259739349132",
+      "group": "popular",
+      "source_url": "https://x.com/WatcherGuru/status/2115922259739349132",
+      "author": "WatcherGuru",
+      "published_utc": "2026-10-29T21:42:33+00:00",
+      "likes": 43326,
+      "article": false,
+      "title": "BREAKING: World's largest crypto exchange Binance hacked with over $5.6 billion stolen:"
+    },
+    {
+      "id": "2116175386916897161",
+      "group": "popular",
+      "source_url": "https://x.com/WatcherGuru/status/2116175386916897161",
+      "author": "WatcherGuru",
+      "published_utc": "2026-10-30T14:28:23+00:00",
+      "likes": 40205,
+      "article": false,
+      "title": "JUST IN: 🇰🇵 North Korea's $6,300,000,000 Binance crypto hack is the largest heist in human history."
+    },
+    {
+      "id": "2116035434681634857",
+      "group": "popular",
+      "source_url": "https://x.com/WatcherGuru/status/2116035434681634857",
+      "author": "WatcherGuru",
+      "published_utc": "2026-10-30T05:12:16+00:00",
+      "likes": 37137,
+      "article": false,
+      "title": "JUST IN: 🇰🇵 North Korea responsible for $6 billion Binance hack, CNN reports."
+    },
+    {
+      "id": "2115926246916038921",
+      "group": "popular",
+      "source_url": "https://x.com/KobeissiLetter/status/2115926246916038921",
+      "author": "KobeissiLetter",
+      "published_utc": "2026-10-29T21:58:23+00:00",
+      "likes": 36938,
+      "article": false,
+      "title": "BREAKING: Binance has been hacked with wallets across the Ethereum, Bitcoin, and TRON networks seein"
+    },
+    {
+      "id": "2116644116872519909",
+      "group": "popular",
+      "source_url": "https://x.com/WatcherGuru/status/2116644116872519909",
+      "author": "WatcherGuru",
+      "published_utc": "2026-10-31T21:30:57+00:00",
+      "likes": 24417,
+      "article": false,
+      "title": "BREAKING: 🇺🇸🇰🇵 FBI confirms North Korea is responsible for the $6,300,000,000 Binance crypto hack."
+    }
+  ]
+}

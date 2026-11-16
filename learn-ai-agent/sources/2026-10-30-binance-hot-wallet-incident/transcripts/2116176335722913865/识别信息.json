@@ -1,0 +1,7 @@
+{
+  "model": "Faster Whisper base",
+  "language": "en",
+  "duration_seconds": 281.14725,
+  "segments": 74,
+  "language_selection": "English supplied after reviewing the initial detection and English output"
+}

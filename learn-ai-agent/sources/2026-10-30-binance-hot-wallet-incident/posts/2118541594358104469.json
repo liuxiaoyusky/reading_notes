@@ -1,0 +1,34 @@
+{
+  "id": "2118541594358104469",
+  "text": "https://t.co/fVcKV12R3r",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 498,
+    "retweets": 62,
+    "replies": 164,
+    "quotes": 28,
+    "views": 0,
+    "bookmarks": 16
+  },
+  "createdAt": "Fri Nov 06 03:10:51 +0000 2026",
+  "createdAtLocal": "2026-11-06 11:10",
+  "createdAtISO": "2026-11-06T03:10:51+00:00",
+  "media": [],
+  "urls": [
+    "https://x.com/i/article/2118541192061403136"
+  ],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "zxx",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "articleTitle": "Recovery Update #9: Withdrawals for More Assets to Reopen (2026-11-06) ",
+  "articleText": "Fellow Binancians,\n\nWe continue to make progress restoring the withdrawal services and will reopen withdrawals for the assets listed below, beginning at 04:00 (UTC).\n\nNot all listed assets will become available at once. Reopening will roll out progressively across the assets as security and readiness checks are completed. Deposit services remain open.\n\nAssets Planned to Resume Withdrawal\n\n![](https://pbs.twimg.com/media/HWaSPlWa4AAzsLz.png)\n\nWe are prioritizing tokens based on user demand over the past week, restoring each network-asset pair carefully after completing rigorous security checks. Additional assets will be added as they become ready.\n\nPlease check the withdrawal page for your selected asset and network, or visit our [network status page](https://www.binance.com/en/network), to confirm availability. During rollout, users may see temporary delays or longer processing times due to traffic volume. If a withdrawal doesn't go through, please try again after a short while. We will share updates via our official X channel.\n\nWe continue to work towards reopening withdrawals in phases and strengthening our safeguards. We will share updates as progress continues.\n\nThank you for your support!\n\nBinance Team\n\n2026-11-06"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "2118001921252347938",
+  "text": "https://t.co/CIChB7nJUQ",
+  "author": {
+    "id": "877807935493033984",
+    "name": "Binance",
+    "screenName": "binance",
+    "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "verified": false
+  },
+  "metrics": {
+    "likes": 1050,
+    "retweets": 158,
+    "replies": 208,
+    "quotes": 66,
+    "views": 0,
+    "bookmarks": 63
+  },
+  "createdAt": "Wed Nov 04 15:26:23 +0000 2026",
+  "createdAtLocal": "2026-11-04 23:26",
+  "createdAtISO": "2026-11-04T15:26:23+00:00",
+  "media": [],
+  "urls": [
+    "https://x.com/i/article/2117996702799970304"
+  ],
+  "isRetweet": false,
+  "retweetedBy": null,
+  "lang": "zxx",
+  "score": null,
+  "isSubscriberOnly": false,
+  "isPromoted": false,
+  "articleTitle": "Security Incident | Recovery Update #7: 98% of Stolen Assets Covered; New & Expanded PoR Snapshot",
+  "articleText": "Fellow Binancians,\n\nAs committed, Binance will cover the cost of these stolen funds from the recent security incident, not our users. We have already set aside more than 100% of the funds needed to cover these losses from [Binance's own resources](https://x.com/binance/status/2116538196259684457). And now we have new progress. We have now replenished approximately 98% of the impacted amount, and we continue to buy the remaining token assets through market and OTC channels. Purchases for the remaining 2% are expected to be slower because these tokens are less liquid. We will continue to provide further updates.\n\nWe have also taken a new Proof of Reserves (PoR) snapshot at 2026-11-04 00:00 (UTC). It now covers 44 tokens, up from 10 in the previous snapshot, and is available on our [PoR website](https://www.binance.com/en/proof-of-reserves).\n\nThe snapshot provides an updated view of assets that are fully accounted for, reflecting our ongoing commitment to transparency. Generating the full zero-knowledge proof is expected to take approximately 50 to 60 hours due to the computational workload. Once the proof is generated, users holding any of the covered tokens will be able to independently verify that their balances are at least 1:1 backed.\n\nWe continue to acquire the remaining assets, reopen withdrawals in phases, and strengthen our safeguards. We will share updates as progress continues.\n\nThank you for your support!\n\nBinance Team\n\n2026-11-04"
+}
