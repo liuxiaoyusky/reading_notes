@@ -37,6 +37,7 @@
 | [progress.md](progress.md) | 学习进度、错题、薄弱点、复测与下一步 |
 | [30_day_roadmap.md](30_day_roadmap.md) | 每日目标、交付物与验收条件 |
 | [SOURCES.md](SOURCES.md) | 已核验资料及适用范围 |
+| [原始素材](sources/2026-10-30-binance-hot-wallet-incident/README.md) | 2026 年币安热钱包事件的 X 原帖、图像、视频和来源清单 |
 
 ## 如何算学会
 

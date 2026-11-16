@@ -95,14 +95,65 @@
       "file": "media/JvgIkVQAv8nXVno-.mp4",
       "url": "https://video.twimg.com/amplify_video/2116174516653371392/vid/avc1/720x1280/JvgIkVQAv8nXVno-.mp4?tag=29",
       "sha256": "449134117fa597f639bee9325dd9f5c303181de14913455bcf3714452524ba61",
-      "preview": "media/JvgIkVQAv8nXVno-.jpg"
+      "preview": "media/JvgIkVQAv8nXVno-.jpg",
+      "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/JvgIkVQAv8nXVno-.mp4"
     },
     {
       "kind": "video",
       "file": "media/Q1c2gF4eOdduWjjb.mp4",
       "url": "https://video.twimg.com/amplify_video/2116189141134442496/vid/avc1/1080x1920/Q1c2gF4eOdduWjjb.mp4?tag=29",
       "sha256": "15985ca160e6e98319933f64be9acf0d5151d9beabf460fdf0b6df4cfda4c8c0",
-      "preview": "media/Q1c2gF4eOdduWjjb.jpg"
+      "preview": "media/Q1c2gF4eOdduWjjb.jpg",
+      "download_parts": [
+        {
+          "name": "Q1c2gF4eOdduWjjb.mp4.part-01",
+          "size": 12582912,
+          "sha256": "2e04b132905b285dae0ccc4f07cec7588856a103d0f841381a5bc1b1148bef2b",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/Q1c2gF4eOdduWjjb.mp4.part-01"
+        },
+        {
+          "name": "Q1c2gF4eOdduWjjb.mp4.part-02",
+          "size": 12582912,
+          "sha256": "199e0a433db39bab72c7a5add3d513c3d4461e8ad7bbdaa4e08cf87eaeede8aa",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/Q1c2gF4eOdduWjjb.mp4.part-02"
+        },
+        {
+          "name": "Q1c2gF4eOdduWjjb.mp4.part-03",
+          "size": 12582912,
+          "sha256": "306ff88a41314f64bbf7a2f949a0793d1de9e09672941ad73ef05b8f39ff569b",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/Q1c2gF4eOdduWjjb.mp4.part-03"
+        },
+        {
+          "name": "Q1c2gF4eOdduWjjb.mp4.part-04",
+          "size": 12582912,
+          "sha256": "05a3fff27c5d05bca7ce46c2676ccd743e4476e101bd369c58e6fe1fe2a31db2",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/Q1c2gF4eOdduWjjb.mp4.part-04"
+        },
+        {
+          "name": "Q1c2gF4eOdduWjjb.mp4.part-05",
+          "size": 12582912,
+          "sha256": "b781423a7b4c173e2a7846effc328725d1e0907519ca238a7e9ce912aeaf4634",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/Q1c2gF4eOdduWjjb.mp4.part-05"
+        },
+        {
+          "name": "Q1c2gF4eOdduWjjb.mp4.part-06",
+          "size": 12582912,
+          "sha256": "9f0054daaebc8f58038868afd3f4157a29e0ae090295329e61d425c39935f3f6",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/Q1c2gF4eOdduWjjb.mp4.part-06"
+        },
+        {
+          "name": "Q1c2gF4eOdduWjjb.mp4.part-07",
+          "size": 12582912,
+          "sha256": "a30a37eecbd46c8223a305f1f5b7a8295a6887e0e99800b71a8079a251883fd1",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/Q1c2gF4eOdduWjjb.mp4.part-07"
+        },
+        {
+          "name": "Q1c2gF4eOdduWjjb.mp4.part-08",
+          "size": 7736824,
+          "sha256": "af2f0b6a8435961b2bbafda2f0b5e43a012bc4ca21bedb32f1e8618da48af5e2",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/Q1c2gF4eOdduWjjb.mp4.part-08"
+        }
+      ]
     },
     {
       "kind": "image",
@@ -205,14 +256,60 @@
       "file": "media/GNuBqRMDboUgby5i.mp4",
       "url": "https://video.twimg.com/amplify_video/2117657919223414788/vid/avc1/1920x1080/GNuBqRMDboUgby5i.mp4?tag=29",
       "sha256": "ea865754ca9ff78f93197924633bb88f877229d73ed2af18ed8b54dfcfe5ebcf",
-      "preview": "media/GNuBqRMDboUgby5i.jpg"
+      "preview": "media/GNuBqRMDboUgby5i.jpg",
+      "download_parts": [
+        {
+          "name": "GNuBqRMDboUgby5i.mp4.part-01",
+          "size": 12582912,
+          "sha256": "d83bf6c36b59ada76cab453eb07e8379f08d8cfd2bec35a68a1f7cb263fc3008",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/GNuBqRMDboUgby5i.mp4.part-01"
+        },
+        {
+          "name": "GNuBqRMDboUgby5i.mp4.part-02",
+          "size": 12582912,
+          "sha256": "742b22980202f40f1fd162be302605b87a95ca3d0edeed3f52b1eb23c3135e3c",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/GNuBqRMDboUgby5i.mp4.part-02"
+        },
+        {
+          "name": "GNuBqRMDboUgby5i.mp4.part-03",
+          "size": 12582912,
+          "sha256": "03f201a9248ed9ae8bbfd5494bfdf9a56163d351ac99c59091f0cf0b046e6e0b",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/GNuBqRMDboUgby5i.mp4.part-03"
+        },
+        {
+          "name": "GNuBqRMDboUgby5i.mp4.part-04",
+          "size": 4809689,
+          "sha256": "dcca37ec86c6108aca5a7ddd2dc2f0e09d664c86568e67d5709a703932a8eb56",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/GNuBqRMDboUgby5i.mp4.part-04"
+        }
+      ]
     },
     {
       "kind": "video",
       "file": "media/oYgDWqo7I59XbCoS.mp4",
       "url": "https://video.twimg.com/amplify_video/2117673167917563904/vid/avc1/1920x1080/oYgDWqo7I59XbCoS.mp4?tag=29",
       "sha256": "c2f415bebeaca7f12f738671522d3d1e3a22ef43a42299b8f56616fdfabaefdb",
-      "preview": "media/oYgDWqo7I59XbCoS.jpg"
+      "preview": "media/oYgDWqo7I59XbCoS.jpg",
+      "download_parts": [
+        {
+          "name": "oYgDWqo7I59XbCoS.mp4.part-01",
+          "size": 12582912,
+          "sha256": "4f4361f2dbeb0a5783302cae93981e3dcc739626f329015aa4de5654c74c99d4",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/oYgDWqo7I59XbCoS.mp4.part-01"
+        },
+        {
+          "name": "oYgDWqo7I59XbCoS.mp4.part-02",
+          "size": 12582912,
+          "sha256": "ba0d72b08875953e25240cdd61b1005408a5e7d8ce6b36c0beff648c957f2214",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/oYgDWqo7I59XbCoS.mp4.part-02"
+        },
+        {
+          "name": "oYgDWqo7I59XbCoS.mp4.part-03",
+          "size": 11919909,
+          "sha256": "e4fd9c23bdbe919724a1775c4d5394eea1e125a88cf754e93ae986a3a3c68f75",
+          "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/oYgDWqo7I59XbCoS.mp4.part-03"
+        }
+      ]
     },
     {
       "kind": "image",
@@ -279,7 +376,8 @@
       "file": "media/clXse5feZufOGzfh.mp4",
       "url": "https://video.twimg.com/amplify_video/2119422783461691392/vid/avc1/1080x1350/clXse5feZufOGzfh.mp4?tag=29",
       "sha256": "c95b789f456d7faf891ab4b66be199daf677529d39882702cb94bab2b296bdea",
-      "preview": "media/clXse5feZufOGzfh.jpg"
+      "preview": "media/clXse5feZufOGzfh.jpg",
+      "download_url": "https://github.com/liuxiaoyusky/reading_notes/releases/download/binance-incident-source-media-2026-11-13/clXse5feZufOGzfh.mp4"
     },
     {
       "kind": "image",
