@@ -4,8 +4,8 @@
 
 ## 从这里开始
 
-1. 阅读 [知识地图](00_domain_map.md)，用 [基线诊断](06_quizzes/Q00_baseline.md) 判断起点；先答题，再按需看答案。
-2. 打开 [30 天路线](30_day_roadmap.md)，从 Day 01 开始。每天约65分钟：解释10 → 示例10 → 练习25 → 检查10 → 复盘10。
+1. 从[Day01真实事件](07_daily_review/day_01_plan.md)进入，只挑一个未知点；[知识地图](00_domain_map.md)后台备查，不要求先读完。
+2. 参考[30天路线](30_day_roadmap.md)，每天最多60分钟；真实事件→一个疑问→白话拆解→复述后深入，不为赶进度扩展。
 3. 阅读当天模块，独立完成练习，将答案与作品写入 `03_exercises/submissions/day_XX.md`。已有模板并不代表完成。
 4. 让 Codex 依照 [AGENTS.md](AGENTS.md) 检查，完成当天 `07_daily_review/day_XX.md`，把得分、证据路径、错因和下一步填进 [进度表](progress.md)。
 5. 第7、14、21、28天参加每周阶段测验，第30天做综合终测；将三个[阶段成果](04_projects/README.md)汇总成一个[可展示的小项目](04_projects/SHOWCASE.md)。当天有测验或项目时可以延长至90分钟，或拆成两段。
@@ -14,8 +14,8 @@
 
 ```text
 请先读取 learn-ai-agent/AGENTS.md、progress.md 和 30_day_roadmap.md。
-今天从 Day 01 开始，先给全局地图，再按“解释 → 示例 → 练习 → 检查 → 复盘”教我。
-每个概念包含一句话解释、生活类比、技术解释、真实案例和一个练习，不提前揭示答案。
+今天从Day01开始；只给一句当前位置，从真实事件挑一个未知点。
+第一轮用200–400字白话和类比解释，只问一个问题后等待；我能复述后才深入，不提前给答案。
 答错时判断四类错误并给针对性补练。每次学习结束更新progress.md，通过后才标为完成。
 ```
 
@@ -38,6 +38,7 @@
 | [30_day_roadmap.md](30_day_roadmap.md) | 每日目标、交付物与验收条件 |
 | [SOURCES.md](SOURCES.md) | 已核验资料及适用范围 |
 | [原始素材](sources/2026-10-30-binance-hot-wallet-incident/README.md) | 2026 年币安热钱包事件的 X 原帖、图像、视频和来源清单 |
+| [2026案件背景更新](02_case_studies/C03_2026_background_updates.md) | 按原帖整理的进展、证据边界及待核差异；资料截至香港时间11月13日 |
 
 ## 如何算学会
 
